@@ -1,0 +1,94 @@
+---
+title: "NYPD Shooting Incidents"
+author: "Carlos Barron"
+date: "2022-01-16"
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+---
+
+```{r Setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Libraries
+First I will import the libraries I will use for my report.
+```{r libraries, include=TRUE, message=FALSE}
+library(tidyverse)
+library(knitr)
+library(lubridate)
+library(ggplot2)
+```
+
+
+
+## Data Source
+I will include the NYPD shooting incidents data that can be found here: (https://data.cityofnewyork.us/api/views/833y-fsy8/rows.csv?accessType=DOWNLOAD)
+```{r data, include=TRUE, message=FALSE}
+nypd_data = read_csv('https://data.cityofnewyork.us/api/views/833y-fsy8/rows.csv?accessType=DOWNLOAD')
+```
+
+##  Variables
+Then I will create some variables for manipulation and categorization of data.
+```{r variables, include=TRUE}
+time_shifts = hour(hm("00:00","6:00","12:00","18:00","23:59"))
+time_of_day = c("Night", "Morning", "Afternoon", "Evening")
+q = setNames( rep(c('Winter', 'Spring', 'Summer','Fall'),each=3), c(12,1:11))
+```
+
+### Dataset cleanup
+I will not use Lon_Lat, X_COORD_CD, Y_COORD_CD, VIC_RACE, PERP_RACE, LOCATION_DESC, JURISDICTION_CODE, PRECINCT so I will omit from my data set. I will create the new columns MONTH_NUM, change the date as type mdy, and set the time of day and season.
+
+```{r clean_data, include=TRUE}
+nypd_data = nypd_data %>%
+  mutate(
+    MONTH_NUM = as.numeric(format(as.Date(OCCUR_DATE, '%m/%d/%Y'), '%m')),
+    HOUR = as.numeric(hour(OCCUR_TIME)),
+    OCCUR_DATE = mdy(OCCUR_DATE),
+    TIME_OF_DAY = cut(x=hour(OCCUR_TIME), breaks = time_shifts, labels = time_of_day, include.lowest=TRUE),
+    SEASON = unname(q[as.character(MONTH_NUM)]),
+    ) %>%
+  rename(DATE = 'OCCUR_DATE',
+         TIME = 'OCCUR_TIME',
+         ID = 'INCIDENT_KEY') %>%
+  select(-c(Lon_Lat, X_COORD_CD, Y_COORD_CD, VIC_RACE, 
+            PERP_RACE, LOCATION_DESC, JURISDICTION_CODE, PRECINCT))
+```
+Then I set my model on the TIME_SQ column as a quadratic function.
+```{r model, include=TRUE, message=FALSE}
+crimes_by_time_of_day = nypd_data %>% group_by(TIME_OF_DAY, TIME, HOUR, BORO, SEASON) %>% summarize(CASES = sum(Latitude/Latitude), MURDERS = sum(STATISTICAL_MURDER_FLAG), TIME_SQ = (((HOUR-11)^2)/8)+2) %>% select(TIME_OF_DAY, TIME, BORO, CASES, MURDERS, TIME_SQ, HOUR, SEASON)  %>% ungroup()
+quadr = lm(CASES ~ TIME_SQ, data = crimes_by_time_of_day)
+crimes_by_time_of_day = crimes_by_time_of_day %>% mutate(PREDICTION = predict(quadr))
+crimes_by_season = nypd_data %>% group_by(SEASON, BORO) %>% summarize(CASES = sum(Latitude/Latitude), MURDERS = sum(STATISTICAL_MURDER_FLAG)) %>% select(SEASON,BORO, CASES, MURDERS) %>% ungroup()
+```
+## Data Summary
+Here is a summary of the data by time of day and season:
+```{r summary_time, include=TRUE}
+summary(crimes_by_time_of_day)
+```
+
+```{r summary_season, include=TRUE}
+summary(crimes_by_season)
+```
+## Visualizations and Analysis
+In the graphs it can be seen how there are more crimes during the evening and at night. During some seasons, there are less hours of sunlight, this could be affecting how my model is predicting incidents. It seems like during the summer more incidents occur.
+
+```{r plot_crimes_time_day, include=TRUE}
+ggplot2::ggplot(data = crimes_by_time_of_day) + geom_bar(mapping = aes(x=TIME_OF_DAY, y=MURDERS, fill=BORO), stat='identity')
+```
+
+```{r model_plot, include=TRUE}
+# `geom_smooth()` using method = 'gam' and formula 'y ~ s(x, bs = "cs")'
+ggplot2::ggplot(data = crimes_by_time_of_day) + geom_smooth(mapping = aes(x=HOUR, y=CASES)) + geom_point(aes(x=HOUR, y=PREDICTION), color='red') +facet_wrap(~ SEASON)
+```
+
+```{r model_time_plot, include=TRUE}
+ggplot2::ggplot(data = crimes_by_season) + geom_bar(mapping = aes(x=SEASON, y=MURDERS, fill=BORO), stat='identity')
+```
+
+## BIAS
+In the data set there are columns for victim and perpetrator race, I believe these are common sources of bias, and have not included in the data for study.
+```{r session_info, include=TRUE}
+sessionInfo()
+```
