@@ -21,16 +21,38 @@ library(lubridate)
 library(ggplot2)
 ```
 
+## Introduction
+This notebook is an initial analysis and exploration of the shooting incidents in the city of New York,  it contains the list of every shooting incident that occurred in New York City going back to 2006. 
 
 
 ## Data Source
-I will include the NYPD shooting incidents data that can be found here: (https://data.cityofnewyork.us/api/views/833y-fsy8/rows.csv?accessType=DOWNLOAD)
+The data can be found in the NYC Open Data site: (https://data.cityofnewyork.us)
+I will be using the NYPD shooting incident data set, the data contained is a breakdown of every shooting incident that occurred in NYC going back to 2006
+
+First let's download the data: (https://data.cityofnewyork.us/api/views/833y-fsy8/rows.csv?accessType=DOWNLOAD)
 ```{r data, include=TRUE, message=FALSE}
 nypd_data = read_csv('https://data.cityofnewyork.us/api/views/833y-fsy8/rows.csv?accessType=DOWNLOAD')
+
 ```
+
+Let's take a quick look into the different columns:
+```{r data_demo, include=TRUE}
+glimpse(nypd_data)
+```
+
+And an initial plot of the time of occurrance.
+```{r exploration, include=TRUE}
+hour_occur = hour(nypd_data$OCCUR_TIME)
+df = data.frame(hour_occur)
+ggplot(data=df, aes(x=hour_occur)) +
+  stat_bin(bins = 24)
+  geom_histogram()
+```
+It looks like shootings dramatically increase when dark.
 
 ##  Variables
 Then I will create some variables for manipulation and categorization of data.
+- The important one here will be time of day.
 ```{r variables, include=TRUE}
 time_shifts = hour(hm("00:00","6:00","12:00","18:00","23:59"))
 time_of_day = c("Night", "Morning", "Afternoon", "Evening")
@@ -55,7 +77,7 @@ nypd_data = nypd_data %>%
   select(-c(Lon_Lat, X_COORD_CD, Y_COORD_CD, VIC_RACE, 
             PERP_RACE, LOCATION_DESC, JURISDICTION_CODE, PRECINCT))
 ```
-Then I set my model on the TIME_SQ column as a quadratic function.
+Then I set my model on the TIME_SQ column as a quadratic function, since I believe it adapts much better than a linear function.
 ```{r model, include=TRUE, message=FALSE}
 crimes_by_time_of_day = nypd_data %>% group_by(TIME_OF_DAY, TIME, HOUR, BORO, SEASON) %>% summarize(CASES = sum(Latitude/Latitude), MURDERS = sum(STATISTICAL_MURDER_FLAG), TIME_SQ = (((HOUR-11)^2)/8)+2) %>% select(TIME_OF_DAY, TIME, BORO, CASES, MURDERS, TIME_SQ, HOUR, SEASON)  %>% ungroup()
 quadr = lm(CASES ~ TIME_SQ, data = crimes_by_time_of_day)
@@ -87,8 +109,11 @@ ggplot2::ggplot(data = crimes_by_time_of_day) + geom_smooth(mapping = aes(x=HOUR
 ggplot2::ggplot(data = crimes_by_season) + geom_bar(mapping = aes(x=SEASON, y=MURDERS, fill=BORO), stat='identity')
 ```
 
-## BIAS
-In the data set there are columns for victim and perpetrator race, I believe these are common sources of bias, and have not included in the data for study.
+
+## Bias & Conclusion
+For this report I binned shooting events under 4 categories (night, morning, afternoon and evening), I also created some new categories by season (fall, spring, summer and winter). After some analysis and exploration, it can be inferred that there are higher chances of shootings at dark. This was an easy presumption to make, and using the visualizations presented before I was able to evaluate my presumption. In the data set there are columns for victim and perpetrator race, I believe this piece of information can always be a source of bias, but I believe it doesn't affect my analysis with regards to time of the event. Another possible bias in my analysis could be the sunlight specific to NYC, since I have never lived in NYC I'm not able to clearly identify the time-sunlight relation as a local.
+
+Finally, please find the session info below.
 ```{r session_info, include=TRUE}
 sessionInfo()
 ```
