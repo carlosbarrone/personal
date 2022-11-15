@@ -79,10 +79,10 @@ nypd_data = nypd_data %>%
 ```
 Then I set my model on the TIME_SQ column as a quadratic function, since I believe it adapts much better than a linear function.
 ```{r model, include=TRUE, message=FALSE}
-shootings_by_time_of_day = nypd_data %>% group_by(TIME_OF_DAY, TIME, HOUR, BORO, SEASON) %>% summarize(CASES = sum(Latitude/Latitude), shootingS = sum(STATISTICAL_shooting_FLAG), TIME_SQ = (((HOUR-11)^2)/8)+2) %>% select(TIME_OF_DAY, TIME, BORO, CASES, shootingS, TIME_SQ, HOUR, SEASON)  %>% ungroup()
+shootings_by_time_of_day = nypd_data %>% group_by(TIME_OF_DAY, TIME, HOUR, BORO, SEASON) %>% summarize(CASES = sum(Latitude/Latitude), MURDERS = sum(STATISTICAL_MURDER_FLAG), TIME_SQ = (((HOUR-11)^2)/8)+2) %>% select(TIME_OF_DAY, TIME, BORO, CASES, MURDERS, TIME_SQ, HOUR, SEASON)  %>% ungroup()
 quadr = lm(CASES ~ TIME_SQ, data = shootings_by_time_of_day)
 shootings_by_time_of_day = shootings_by_time_of_day %>% mutate(PREDICTION = predict(quadr))
-shootings_by_season = nypd_data %>% group_by(SEASON, BORO) %>% summarize(CASES = sum(Latitude/Latitude), shootingS = sum(STATISTICAL_shooting_FLAG)) %>% select(SEASON,BORO, CASES, shootingS) %>% ungroup()
+shootings_by_season = nypd_data %>% group_by(SEASON, BORO) %>% summarize(CASES = sum(Latitude/Latitude), MURDERS = sum(STATISTICAL_MURDER_FLAG)) %>% select(SEASON,BORO, CASES, MURDERS) %>% ungroup()
 ```
 ## Data Summary
 Here is a summary of the data by time of day and season:
@@ -97,7 +97,7 @@ summary(shootings_by_season)
 In the graphs it can be seen how there are more shootings during the evening and at night. During some seasons, there are less hours of sunlight, this could be affecting how my model is predicting incidents. It seems like during the summer more incidents occur.
 
 ```{r plot_shootings_time_day, include=TRUE}
-ggplot2::ggplot(data = shootings_by_time_of_day) + geom_bar(mapping = aes(x=TIME_OF_DAY, y=shootingS, fill=BORO), stat='identity')
+ggplot2::ggplot(data = shootings_by_time_of_day) + geom_bar(mapping = aes(x=TIME_OF_DAY, y=MURDERS, fill=BORO), stat='identity')
 ```
 
 ```{r model_plot, include=TRUE}
@@ -106,7 +106,7 @@ ggplot2::ggplot(data = shootings_by_time_of_day) + geom_smooth(mapping = aes(x=H
 ```
 
 ```{r model_time_plot, include=TRUE}
-ggplot2::ggplot(data = shootings_by_season) + geom_bar(mapping = aes(x=SEASON, y=shootingS, fill=BORO), stat='identity')
+ggplot2::ggplot(data = shootings_by_season) + geom_bar(mapping = aes(x=SEASON, y=MURDERS, fill=BORO), stat='identity')
 ```
 
 
