@@ -6,25 +6,250 @@ output: html_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE)
+library(tidyverse)
+library(knitr)
+library(lubridate)
+library(plotly)
+library(dplyr)
+library(ggplot2)
+library(scales)
 ```
 
-## R Markdown
+## Introduction
+After what was analyzed in the lectures, I’m interested to see if we can visualize a high level of comorbidity between smoking, exercising and COVID-19 within the dataset. Before I try to put a model in place, I need to find external datasets about smoking and physical exercise such that I may be able to make any further analysis. I will attempt to relate the datasets through the country column.
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+## Data
+**COVID-19**
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+The COVID-19 data for this report consists of 2 CSVs that you can find [here.](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series) 
 
-```{r cars}
-summary(cars)
+Each one represents the confirmed cases and deaths worldwide.
+```{r load_covid19_data, include=FALSE}
+urls = str_c(
+  "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/",    c(
+    "time_series_covid19_confirmed_global.csv",
+    "time_series_covid19_deaths_global.csv"
+  )
+)
+confirmed_global = read_csv(urls[1])
+deaths_global = read_csv(urls[2])
+
+
+confirmed_global <- confirmed_global %>% pivot_longer(cols = -c(`Province/State`,`Country/Region`, Lat, Long), names_to = "date", values_to = "cases") %>% rename("country"="Country/Region", "province"="Province/State")  %>%  mutate(
+  date = as.Date(date, "%m/%d/%y"),
+  year = format(date, format="%Y")
+) %>% group_by(country, date) %>% summarise(country = last(country), date = last(date), year = last(year), cases = sum(cases)) %>% group_by(country, year) %>% summarise(country = last(country), year = last(year), cases = last(cases))
+
+deaths_global <- deaths_global %>% pivot_longer(cols = -c(`Province/State`,`Country/Region`, Lat, Long), names_to = "date", values_to = "deaths")%>% rename("country"="Country/Region", "province"="Province/State")  %>%  mutate(
+  date = as.Date(date, "%m/%d/%y"),
+  year = format(date, format="%Y")
+) %>% group_by(country, date) %>% summarise(country = last(country), date = last(date), year = last(year), deaths = sum(deaths)) %>% group_by(country, year) %>% summarise(country = last(country), year = last(year), deaths = last(deaths))
+
+countries = c('Peru','Mexico','China', 'Hungary', 'Romania', 'South',' Africa','Italy','Brazil','Poland','Colombia', 'Germany', 'Chile', 'Argentina', 'Belgium','Canada','Spain', 'France', 'Saudi Arabia', 'Australia', 'India', 'Sweden', 'Japan', 'Malaysia', 'Netherlands')
 ```
 
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
+Confirmed Cases
+```{r confirmed_cases, include=TRUE}
+confirmed_global
+```
+Confirmed Deaths
+```{r confirmed_deaths, include=TRUE}
+confirmed_global
 ```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+**[Tobacco Atlas](https://tobaccoatlas.org/about/)**
+
+For cigarette consumption I will use the dataset avaialable throught theTobacco Atlas available [here.](https://tobaccoatlas.org/wp-content/uploads/2022/05/data-z9rR9.csv)
+
+Fields
+
+1. Country
+2. Average daily number of cigarettes consumed per adult (15+ yr) smoker, 2019
+
+```{r cigar_consumption_data_load, include=FALSE}
+avg_daily_cigar_consumption = read_csv("https://tobaccoatlas.org/wp-content/uploads/2022/05/data-z9rR9.csv") %>% rename("country"="Country", "consumption" = "Cigarette Consumption")
+```
+
+```{r cigar_consumption, include=TRUE}
+avg_daily_cigar_consumption = avg_daily_cigar_consumption %>% filter(avg_daily_cigar_consumption$country %in% countries) %>% select(c(country, `consumption`))
+
+fig <- plot_ly(
+  avg_daily_cigar_consumption,
+  x = ~country, 
+  y = ~consumption,
+  name = "Average Daily Cigar Consumption by Country",
+  type = "bar",
+  orientation="v"
+) %>% layout(xaxis = list(categoryorder = "total descending"))
+fig
+```
+
+**[Ipsos Global Advisor](https://www.ipsos.com/en/about-us)**
+
+Global Views on Exercise and Team Sports
+
+For the exercise information I will use the dataset available [here.](https://www.ipsos.com/sites/default/files/ct/news/documents/2021-08/Global-Views-on-Sports-and-Exercise-Ipsos.pdf)
+
+Fields
+
+1. Country
+2. Mean Number of Hours Physical Excercise Per Week
+
+```{r excercise_data_load, include=FALSE}
+weekly_excercise = read_csv("./data/ipsos_global_views_exercise.csv")
+```
+
+```{r weekly_excercise, include=TRUE}
+weekly_excercise = weekly_excercise %>% filter(weekly_excercise$country %in% countries) %>% select(c(country, weekly_excercise_hours_mean))
+
+fig <- plot_ly(
+  weekly_excercise,
+  x = ~country, 
+  y = ~weekly_excercise_hours_mean,
+  name = "Weekly Excercise Hours Mean by Country",
+  type = "bar",
+  orientation="v"
+) %>% layout(xaxis = list(categoryorder = "total descending"))
+fig
+```
+
+**[United Nations](https://www.un.org/en/desa/about-us)**
+
+Department of Economic and Social Affairs, World Population Prospects 2022
+
+For the age information I will use the dataset available [here.](https://population.un.org/wpp/Download/Standard/CSV/)
+
+Fields
+
+1. Country
+2. Median Age
+
+```{r median_age_data_load, include=FALSE}
+median_age_by_country = read_csv("./data/median_age_country.csv")
+```
+
+```{r median_age, include=TRUE}
+median_age_by_country = median_age_by_country %>% filter(median_age_by_country$year == 2020) %>% select(-c(year))
+median_age_by_country = median_age_by_country %>% filter(median_age_by_country$country %in% countries) %>% select(c(country, median_age))
+
+fig <- plot_ly(
+  median_age_by_country,
+  x = ~country, 
+  y = ~median_age,
+  name = "Median Age by Country",
+  type = "bar",
+  orientation="v"
+) %>% layout(xaxis = list(categoryorder = "total descending"))
+fig
+```
+
+## Table Joins
+Now that we have the data loaded, let's join all of the different tables by country and year
+```{r data_merge, include=TRUE}
+covid_stats = inner_join(
+  confirmed_global, deaths_global, by = c('country','year')
+) %>%  mutate(mortality = (
+  deaths * 100) / cases
+)
+
+covid_stats = inner_join(
+  covid_stats, avg_daily_cigar_consumption, by = c('country')
+)
+covid_stats = inner_join(
+  covid_stats, weekly_excercise, by = c('country')
+)
+covid_stats = inner_join(
+  covid_stats, median_age_by_country, by = c('country')
+)
+covid_stats
+```
+## Mortality
+Let's graph the mortality rate before the Vaccine came out (August 2021).
+```{r mortality, include=TRUE}
+covid_stats_2020 <- filter(covid_stats, year == 2020)
+fig <- plot_ly(
+  covid_stats,
+  x = ~country, 
+  y = ~mortality,
+  name = "Mortality by Country",
+  type = "bar",
+  orientation="v"
+) %>% layout(xaxis = list(categoryorder = "total descending"))
+fig
+```
+
+
+## Models
+*This is the model summary for cigarette consumption*
+```{r model_consumption, include=TRUE}
+covid_model_consumption <- lm(deaths ~ consumption, data = covid_stats)
+summary(covid_model_consumption)
+```
+*This is the model summary for weekly excercise mean*
+```{r model_excercise, include=TRUE}
+covid_model_excercise <- lm(deaths ~ weekly_excercise_hours_mean, data = covid_stats)
+summary(covid_model_excercise)
+```
+*And this is the model summary for the median age*
+```{r model_age, include=TRUE}
+covid_model_age <- lm(deaths ~ median_age, data = covid_stats)
+summary(covid_model_age)
+```
+
+```{r prediction_consumption, include=TRUE}
+global_total_deaths_w_pred <- covid_stats %>% mutate(
+  consumption_prediction = 194815.29 -(113.89 * consumption),
+  excercise_prediction = 162385 -(10296 * weekly_excercise_hours_mean),
+  age_prediction = 402604 -(8124 * median_age)
+)
+```
+
+## Graphing the models
+
+*Cigarette Consumption*
+
+```{r chart_consumption_prediction, include=TRUE}
+global_total_deaths_w_pred %>% ggplot() + geom_point(
+  aes(x=consumption, y=deaths),
+  color = "blue"
+) + geom_point(
+  aes(x=consumption, y=consumption_prediction),
+  color = "red"
+) + scale_y_continuous(labels = label_number(suffix = "K", scale = 1e-3))
+```
+
+*Weekly Excercise*
+
+```{r chart_excercise_prediction, include=TRUE}
+global_total_deaths_w_pred %>% ggplot() + geom_point(
+  aes(x=weekly_excercise_hours_mean, y=deaths),
+  color = "blue"
+) + geom_point(
+  aes(x=weekly_excercise_hours_mean, y=excercise_prediction),
+  color = "red"
+) + scale_y_continuous(labels = label_number(suffix = "K", scale = 1e-3))
+```
+
+*Age*
+
+```{r chart_age_prediction, include=TRUE}
+global_total_deaths_w_pred %>% ggplot() + geom_point(
+  aes(x=median_age, y=deaths),
+  color = "blue"
+) + geom_point(
+  aes(x=median_age, y=age_prediction),
+  color = "red"
+) + scale_y_continuous(labels = label_number(suffix = "K", scale = 1e-3))
+```
+
+## Bias & Conclusion
+- The cigarette consumption and age are significant but my model had low R-squared values.
+- The excercise doesn't look to have a significance and had a low R-squared value.
+- There are obviously other very important factors to be considered such as public health governance, and the timeline of infections for each country during the pandemic
+
+Finally, please find the session info below.
+```{r session_info, include=TRUE}
+sessionInfo()
+```
