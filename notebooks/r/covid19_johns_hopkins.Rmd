@@ -2,13 +2,17 @@
 title: "COVID19_Johns_Hopkins"
 author: "Carlos Barron"
 date: "2022-11-08"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+```{r setup, include=TRUE}
+knitr::opts_chunk$set(echo = TRUE)
+webshot::install_phantomjs()
 library(tidyverse)
 library(knitr)
+library(webshot)
 library(lubridate)
 library(plotly)
 library(dplyr)
