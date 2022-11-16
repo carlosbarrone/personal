@@ -3,17 +3,21 @@ title: "COVID-19 Johns Hopkins Data Analysis"
 author: "Carlos Barron"
 date: "2022-11-16"
 output:
-  html_document: default
+  html_document:
   pdf_document: default
+always_allow_html: true
 ---
 
 ```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
+library(webshot)
 library(knitr)
 library(lubridate)
 library(dplyr)
 library(ggplot2)
 library(scales)
+library(rmarkdown)
 ```
 
 ## Introduction
@@ -57,13 +61,20 @@ countries = c('Peru','Mexico','China', 'Hungary', 'Romania', 'South',' Africa','
 
 
 Confirmed Cases
-```{r confirmed_cases, include=TRUE}
+```{r eval=knitr::is_html_output(), include=TRUE}
+paged_table(confirmed_global, options = list(rows.print = 15, cols.print = 10))
+```
+
+```{r eval=knitr::is_latex_output(), include=TRUE}
 confirmed_global
 ```
 
-
 Confirmed Deaths
-```{r confirmed_deaths, include=TRUE}
+```{r eval=knitr::is_html_output(), include=TRUE}
+paged_table(deaths_global, options = list(rows.print = 15, cols.print = 10))
+```
+
+```{r eval=knitr::is_latex_output(), include=TRUE}
 deaths_global
 ```
 
@@ -159,8 +170,12 @@ covid_stats = inner_join(
 ```
 
 
-```{r data_merge_table, include=TRUE}
-covid_stats
+```{r eval=knitr::is_html_output(), include=TRUE}
+paged_table(covid_stats, options = list(rows.print = 15, cols.print = 10))
+```
+
+```{r eval=knitr::is_latex_output(), include=TRUE}
+paged_table(covid_stats, options = list(rows.print = 15, cols.print = 10))
 ```
 ## Mortality
 Let's graph the mortality rate before the Vaccine came out (August 2021).
@@ -181,54 +196,62 @@ mortality_chart
 
 ## Models & Analysis
 Let's start by making an analysis on how much mortality and cigarette consumption is related.
-```{r consumption_analysis, include=TRUE}
-covid_stats_2022 %>% ggplot() + geom_point(
+```{r analysis_chart_loads, include=FALSE}
+consumption_analysis_load = covid_stats_2022 %>% ggplot() + geom_point(
   aes(x=consumption, y=mortality_K),
   color = "blue"
 ) + geom_smooth(
   aes(x=consumption, y=mortality_K),
+  color = "red",
+  method = "lm"
+)
+excercise_chart_load = covid_stats_2022 %>% ggplot() + geom_point(
+  aes(x=weekly_excercise_hours_mean, y=mortality_K),
+  color = "blue"
+) + geom_smooth(
+  aes(x=weekly_excercise_hours_mean, y=mortality_K),
+  color = "red",
+  method = "lm"
+)
+age_chart_load = covid_stats_2022 %>% ggplot() + geom_point(
+  aes(x=median_age, y=mortality_K),
+  color = "blue"
+) + geom_smooth(
+  aes(x=median_age, y=mortality_K),
   color = "red",
   method = "lm"
 )
 ```
 
+```{r analysis_model_loads, include=FALSE}
+covid_model_consumption <- lm(mortality_K ~ consumption, data = covid_stats_2022)
+covid_model_excercise <- lm(mortality_K ~ weekly_excercise_hours_mean, data = covid_stats_2022)
+covid_model_age <- lm(mortality_K ~ median_age, data = covid_stats_2022)
+```
+
+```{r consumption_analysis_chart, include=TRUE}
+consumption_analysis_load
+```
 *This is the model summary for cigarette consumption*
 ```{r model_consumption, include=TRUE}
-covid_model_consumption <- lm(mortality_K ~ consumption, data = covid_stats_2022)
 summary(covid_model_consumption)
 ```
 Now let's see how mortality and physical exercise is related.
-```{r excercise_chart_analysis, include=TRUE}
-covid_stats_2022 %>% ggplot() + geom_point(
-  aes(x=weekly_excercise_hours_mean, y=mortality_K),
-  color = "blue"
-) + geom_smooth(
-  aes(x=weekly_excercise_hours_mean, y=mortality_K),
-  color = "red",
-  method = "lm"
-)
+```{r excercise_chart_display, include=TRUE}
+excercise_chart_load
 ```
 
 *This is the model summary for weekly excercise mean*
 ```{r model_excercise, include=TRUE}
-covid_model_excercise <- lm(mortality_K ~ weekly_excercise_hours_mean, data = covid_stats_2022)
 summary(covid_model_excercise)
 ```
 Finally let's see how mortality and age is related.
 ```{r excercise_analysis, include=TRUE}
-covid_stats_2022 %>% ggplot() + geom_point(
-  aes(x=median_age, y=mortality_K),
-  color = "blue"
-) + geom_smooth(
-  aes(x=median_age, y=mortality_K),
-  color = "red",
-  method = "lm"
-)
+age_chart_load
 ```
 
 *And this is the model summary for the median age*
 ```{r model_age, include=TRUE}
-covid_model_age <- lm(mortality_K ~ median_age, data = covid_stats_2022)
 summary(covid_model_age)
 ```
 Let's build the prediction into our dataset.
@@ -281,9 +304,13 @@ age_model_chart
 ```
 
 ## Bias & Conclusion
-- The cigarette consumption and age are significant but my model had low R-squared values.
-- The excercise doesn't look to have a significance and had a low R-squared value.
-- There are obviously other very important factors to be considered such as public health governance, and the timeline of infections for each country during the pandemic
+- After these iterations, the models are not statistically significant and had low R-squared values.
+- For next iterations I would replace some of the data obtained (exercise and cigarette consumption)
+- Cigarette consumption by adult might not be a great fit since it does not give a clear indication of the percentage of smokers by country.
+- Getting information for the percentage of population who excercises might be tricky.
+- An important factor to take into account is the timeline on which the vaccines started to roll out by country, this could have introduced noise in my implementation.
+- From the list of countries in the implementation, all had different isolation strategies that should also be considered.
+- The quality and saturation of the public health care system is another important factor to take into account.
 
 Finally, please find the session info below.
 ```{r session_info, include=TRUE}
