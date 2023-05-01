@@ -1,0 +1,2755 @@
+index,beer_name,beer_abv,beer_ibu,beer_style
+0,Hocus Pocus,4.5,0,Light American Wheat Ale or Lager
+1,BiÃ¨re Darbyste,0.0,0,Light American Wheat Ale or Lager
+2,Sunshine Wheat,4.8,0,Light American Wheat Ale or Lager
+3,Easy Street Wheat,4.6,0,Light American Wheat Ale or Lager
+4,Lemon Wheat,0.0,0,Light American Wheat Ale or Lager
+5,Blueberry Wheat,0.0,0,Light American Wheat Ale or Lager
+6,Apple Ale,0.0,0,Light American Wheat Ale or Lager
+7,Framboise,0.0,0,Light American Wheat Ale or Lager
+8,Vanilla Berry Orange,0.0,0,Light American Wheat Ale or Lager
+9,Olde Orchard Ale,0.0,0.0,Light American Wheat Ale or Lager
+10,Main Street Raz,0.0,0.0,Light American Wheat Ale or Lager
+11,Blackberry,0.0,0.0,Light American Wheat Ale or Lager
+12,Peaches and Cream,0.0,0.0,Light American Wheat Ale or Lager
+13,Tripppleberry Wheat,0.0,0.0,Light American Wheat Ale or Lager
+14,Double ZZ Raspberry Wheat,0.0,0.0,Light American Wheat Ale or Lager
+15,Frambosia,0.0,0.0,Light American Wheat Ale or Lager
+16,Grozet Gooseberry and Wheat Ale,5.0,0.0,Light American Wheat Ale or Lager
+17,Sweaty Betty Blonde,5.9,0.0,Light American Wheat Ale or Lager
+18,Kriek,0.0,0.0,Light American Wheat Ale or Lager
+19,Apple Ale,0.0,0.0,Light American Wheat Ale or Lager
+20,Blueberry Blonde,0.0,0.0,Light American Wheat Ale or Lager
+21,Rhubarb,0.0,0.0,Light American Wheat Ale or Lager
+22,Apricot,0.0,0.0,Light American Wheat Ale or Lager
+23,Apricot Wheat,5.1,0.0,Light American Wheat Ale or Lager
+24,Weizenberry,0.0,0.0,Light American Wheat Ale or Lager
+25,Lilikoi Wheat Ale,0.0,0.0,Light American Wheat Ale or Lager
+26,Hula Berry,0.0,0.0,Light American Wheat Ale or Lager
+27,Raspberry Weizen,0.0,0.0,Light American Wheat Ale or Lager
+28,Dreamweaver,4.8,0.0,Light American Wheat Ale or Lager
+29,Trout Slayer,4.7,0.0,Light American Wheat Ale or Lager
+30,Water Gap Wheat,4.5,0.0,Light American Wheat Ale or Lager
+31,Wildflower Honey Wheat,0.0,0.0,Light American Wheat Ale or Lager
+32,Apricot Wheat,4.7,0.0,Light American Wheat Ale or Lager
+33,Lancaster Strawberry Wheat,4.7,0.0,Light American Wheat Ale or Lager
+34,Samuel Adams Summer Ale,5.2,0.0,Light American Wheat Ale or Lager
+35,American Wheat,4.7,0.0,Light American Wheat Ale or Lager
+36,Raspberry Wheat,4.5,0.0,Light American Wheat Ale or Lager
+37,Climax Wheat Ale,5.0,0.0,Light American Wheat Ale or Lager
+38,Michelob Hop Hound Amber Wheat,5.3,0.0,Light American Wheat Ale or Lager
+39,Stinger Wild Honey Wheat,6.0,0.0,Light American Wheat Ale or Lager
+40,Valley Brew Pale Wheat,4.0,0.0,Light American Wheat Ale or Lager
+41,Dundee Wheat Beer,4.2,0.0,Light American Wheat Ale or Lager
+42,White Magick of the Sun,6.75,0.0,Light American Wheat Ale or Lager
+43,Celebration Wheat,0.0,0.0,Light American Wheat Ale or Lager
+44,Capital Island Wheat,0.0,0.0,Light American Wheat Ale or Lager
+45,The Livery Dunkel Weizen,5.25,0.0,Light American Wheat Ale or Lager
+46,Round Barn Summer Wheat,0.0,0.0,Light American Wheat Ale or Lager
+47,Ãœber Sun Imperial Summer Wheat Ale,8.0,0.0,Light American Wheat Ale or Lager
+48,422 Pale Wheat Ale,5.0,0.0,Light American Wheat Ale or Lager
+49,Sea Dog Raspberry Wheat Ale,4.5,0.0,Light American Wheat Ale or Lager
+50,Baltika #8,5.0,0.0,Light American Wheat Ale or Lager
+51,Double White,6.6,0.0,Light American Wheat Ale or Lager
+52,Santa Fe Wheat,5.25,0.0,Light American Wheat Ale or Lager
+53,Goofy Foot Summer Wheat,4.8,0.0,Light American Wheat Ale or Lager
+54,SunRay Wheat Beer,4.7,0.0,Light American Wheat Ale or Lager
+55,Willow Wheat,0.0,0.0,Light American Wheat Ale or Lager
+56,Cattail Peak,4.7,0.0,Light American Wheat Ale or Lager
+57,Exit 11 - Hoppy American Wheat,6.2,0.0,Light American Wheat Ale or Lager
+58,St. Patrick's Gold,4.8,0.0,Light American Wheat Ale or Lager
+59,Winter Warmer,5.2,0,Old Ale
+60,Winter Ale,5.9,0,Old Ale
+61,Winter Ale,6.3,0,Old Ale
+62,Harvest Ale 2002,11.5,0,Old Ale
+63,Triple Exultation Old Ale,9.7,0,Old Ale
+64,Old Stock Ale 2007,11.7,0,Old Ale
+65,Biere de Mars,7.0,0,Old Ale
+66,Harvest Ale 2006,11.6,0,Old Ale
+67,Olde Expensive Ale,0.0,0,Old Ale
+68,Special London Ale,6.4,0,Old Ale
+69,Hibernation Ale,8.1,0,Old Ale
+70,Bah Humbug,6.0,0,Old Ale
+71,Harvest Ale 2005,11.5,0,Old Ale
+72,Manchester Star Ale,7.3,0,Old Ale
+73,Snow Cap,7.0,0,Old Ale
+74,Old Woody 2005,10.0,0,Old Ale
+75,Adam,10.0,0,Old Ale
+76,NoÃ«l,0.0,0,Old Ale
+77,Old Stock Ale 2004,11.4,0,Old Ale
+78,Anniversary Ale,9.0,0,Old Ale
+79,Jubilee Ale,0.0,0,Old Ale
+80,Hahn Special Vintage 2000,8.0,0,Old Ale
+81,Benchmark Old Ale,9.9,0,Old Ale
+82,Old 95,7.0,0,Old Ale
+83,Old English Ale,0.0,0,Old Ale
+84,BÃªte des Vosges,0.0,0,Old Ale
+85,Adler BrÃ¤u Winter Ale,0.0,0,Old Ale
+86,Old Stock Ale 2002,11.4,0,Old Ale
+87,Bill Old Ale,0.0,0,Old Ale
+88,Harvest Ale 2000,11.5,0,Old Ale
+89,Old Stock Ale 2001,11.4,0,Old Ale
+90,Prize Old Ale,9.0,0,Old Ale
+91,Vintage Ale 1999,8.5,0,Old Ale
+92,Deep Powder Winter Ale,0.0,0,Old Ale
+93,Harvest Ale 2001,11.5,0,Old Ale
+94,Jubel 2000,0.0,0,Old Ale
+95,New Peculier,0.0,0,Old Ale
+96,Norfolk Nog Old Dark Ale,99.99,0,Old Ale
+97,Old Bastard,0.0,0,Old Ale
+98,Winter Delight,0.0,0,Old Ale
+99,Strong Brown Ale,0.0,0.0,Old Ale
+100,Wassail Winter Ale,0.0,0.0,Old Ale
+101,Frolic Shipwreck 1850 Ale,0.0,0.0,Old Ale
+102,Old Jack,0.0,0.0,Old Ale
+103,Snow Cap Ale,0.0,0.0,Old Ale
+104,Snow Cap,6.9,0.0,Old Ale
+105,Special Old Ale,0.0,0.0,Old Ale
+106,Falcon Lagrad Gammelbrygd,5.6,0.0,Old Ale
+107,K-9 Cruiser Winter Ale,6.4,0.0,Old Ale
+108,Powder Hound Winter Ale,0.0,0.0,Old Ale
+109,Lancaster Winter Warmer,8.9,0.0,Old Ale
+110,Old Viscosity,10.5,0.0,Old Ale
+111,Ipswich Winter,6.2,0.0,Old Ale
+112,Arthur's English Old Ale,7.2,0.0,Old Ale
+113,Alaskan Amber,5.3,0.0,Old Ale
+114,Jasparilla,9.0,0.0,Old Ale
+115,Big Dick's Olde Ale,8.2,0.0,Old Ale
+116,Vintage Ale 2008,8.5,0.0,Old Ale
+117,Oatmeal Stout,5.0,0,American-Style Stout
+118,Chocolate Stout,0.0,0,American-Style Stout
+119,Imperial Stout,7.0,0,American-Style Stout
+120,Oatmeal Stout,0.0,0,American-Style Stout
+121,Twelve Days,5.5,0,American-Style Stout
+122,God Jul - Winter Ale,8.5,0,American-Style Stout
+123,Lump of Coal Dark Holiday Stout,8.0,0,American-Style Stout
+124,Trumpeter,0.0,0,American-Style Stout
+125,Broad Axe Stout,5.0,0,American-Style Stout
+126,Podge Belgian Imperial Stout,10.5,0,American-Style Stout
+127,Mephistopheles Stout,16.03,0,American-Style Stout
+128,Fallen Angel Sweet Stout,0.0,0,American-Style Stout
+129,Oatmeal Stout,0.0,0,American-Style Stout
+130,Paddle Out Stout,5.2,0,American-Style Stout
+131,Oatmeal Stout,6.0,0,American-Style Stout
+132,Irish Dry Stout,4.8,0,American-Style Stout
+133,Stout,0.0,0,American-Style Stout
+134,XX Black Angus Stout,0.0,0,American-Style Stout
+135,Blarney Stone Stout,0.0,0,American-Style Stout
+136,Boulevard Dry Stout,4.9,0,American-Style Stout
+137,Imperial Stout,7.1,0,American-Style Stout
+138,Oatmeal Stout,5.2,0,American-Style Stout
+139,Cerveza Negra,6.5,0,American-Style Stout
+140,Stout,5.0,0,American-Style Stout
+141,Steelhead Stout,0.0,0,American-Style Stout
+142,Dry Stout,0.0,0,American-Style Stout
+143,Mad Scow Stout,0.0,0,American-Style Stout
+144,Oatmeal Stout,6.5,0,American-Style Stout
+145,1916 Irish Stout,3.5,0,American-Style Stout
+146,Black Mulligan Dublin Stout,0.0,0,American-Style Stout
+147,Old Rip Oatmeal Stout,0.0,0,American-Style Stout
+148,Oatmeal Stout,0.0,0,American-Style Stout
+149,Imperial Stout,6.2,0,American-Style Stout
+150,Irish Stout,0.0,0,American-Style Stout
+151,Terminator Stout,6.45,0,American-Style Stout
+152,Steamer Glide Stout,4.8,0,American-Style Stout
+153,Skibbereen Stout,5.3,0,American-Style Stout
+154,Irish Stout,0.0,0,American-Style Stout
+155,Poseidon Imperial Stout,0.0,0,American-Style Stout
+156,No Doubt Stout,5.75,0,American-Style Stout
+157,Fauntleroy Stout,0.0,0,American-Style Stout
+158,Cream Stout,6.5,0,American-Style Stout
+159,Super Natural Oatmeal Stout,8.0,0,American-Style Stout
+160,Russian Imperial Stout,0.0,0,American-Style Stout
+161,Entire Stout,4.5,0,American-Style Stout
+162,Stout,0.0,0,American-Style Stout
+163,Oatmeal Cream Stout,0.0,0,American-Style Stout
+164,Cream Stout,0.0,0,American-Style Stout
+165,Porter Czarny Boss / Black BOSS Porter,9.6,0,American-Style Stout
+166,Stout,0.0,0,American-Style Stout
+167,Blackstone Stout,5.9,0,American-Style Stout
+168,Oatmeal Stout,0.0,0,American-Style Stout
+169,Irish Stout,0.0,0,American-Style Stout
+170,Black Lab Stout,5.7,0,American-Style Stout
+171,Russian Imperial Stout,9.5,0,American-Style Stout
+172,Stout,0.0,0,American-Style Stout
+173,"Stout \To Be Named Later\""""",0.0,0,American-Style Stout
+174,Big Boat Oatmeal Stout,6.6,0,American-Style Stout
+175,Imperial Stout,8.2,0,American-Style Stout
+176,Black Lab Stout,0.0,0,American-Style Stout
+177,Thundermuck Stout,0.0,0,American-Style Stout
+178,Solidarity,0.0,0,American-Style Stout
+179,5 Czars Imperial Stout,0.0,0,American-Style Stout
+180,Oatmeal Stout,6.54,0,American-Style Stout
+181,Thunder Stout,4.95,0,American-Style Stout
+182,Mortality Stout,7.5,0,American-Style Stout
+183,Strom Bomb Stout,7.3,0,American-Style Stout
+184,Black Cat Stout,6.15,0,American-Style Stout
+185,Old Eight Porter,0.0,0,American-Style Stout
+186,Czar Imperial Stout,11.9,0,American-Style Stout
+187,Guinness Foreign Extra,6.5,0,American-Style Stout
+188,Dragonhead Stout,4.0,0,American-Style Stout
+189,Steamroller Stout,6.0,0,American-Style Stout
+190,Stout,0.0,0,American-Style Stout
+191,Imperial Stout 2003,9.4,0,American-Style Stout
+192,Oatmeal Stout,0.0,0,American-Style Stout
+193,Irish Stout,0.0,0,American-Style Stout
+194,Red Square,0.0,0,American-Style Stout
+195,Creamy Stout,0.0,0,American-Style Stout
+196,Black Diamond Imperial Porter,0.0,0,American-Style Stout
+197,Snake Chaser,0.0,0,American-Style Stout
+198,Dark Walnut Stout,0.0,0,American-Style Stout
+199,Northwind Imperial Stout,7.5,0,American-Style Stout
+200,Imperial Stout,0.0,0,American-Style Stout
+201,Porter IV,7.2,0,American-Style Stout
+202,Black Strap Stout,6.0,0,American-Style Stout
+203,Imperial Stout,0.0,0,American-Style Stout
+204,8-Ball Stout,0.0,0,American-Style Stout
+205,Milkhouse Stout,0.0,0,American-Style Stout
+206,Dry Stout,0.0,0,American-Style Stout
+207,Big Swede Swedish-Style Imperial Stout,0.0,0,American-Style Stout
+208,Imperial Stout,0.0,0,American-Style Stout
+209,Colony Oatmeal Stout,0.0,0,American-Style Stout
+210,Classic Oatmeal Stout,0.0,0,American-Style Stout
+211,A. LeCoq Imperial Extra Double Stout 2000,9.0,0,American-Style Stout
+212,Oatmeal Stout,0.0,0,American-Style Stout
+213,Genuine Irish Stout,4.1,0,American-Style Stout
+214,Porter,9.5,0,American-Style Stout
+215,Hitachino Nest Sweet Stout,3.5,0,American-Style Stout
+216,Black Wych Stout,0.0,0,American-Style Stout
+217,Sweet Stout,0.0,0,American-Style Stout
+218,Bridge Out Stout,0.0,0,American-Style Stout
+219,Oatmeal Stout,0.0,0,American-Style Stout
+220,Old Krogh Oatmeal Stout,0.0,0,American-Style Stout
+221,Oatmeal Stout,0.0,0,American-Style Stout
+222,Imperial Stout,9.0,0,American-Style Stout
+223,Whitstable Oyster Stout,0.0,0,American-Style Stout
+224,Moose Juice Stout,0.0,0,American-Style Stout
+225,Deep Shaft Stout,6.2,0,American-Style Stout
+226,Stout,0.0,0,American-Style Stout
+227,Perfect Stout,4.8,0,American-Style Stout
+228,Yorkshire Stout,4.5,0,American-Style Stout
+229,Stout,0.0,0,American-Style Stout
+230,Stout,0.0,0,American-Style Stout
+231,Mudcat Stout,0.0,0,American-Style Stout
+232,Imperial Stout 2002,9.47,0,American-Style Stout
+233,Stillwater Stout,0.0,0,American-Style Stout
+234,Broad Ax Stout,0.0,0,American-Style Stout
+235,Chocolate Stout,0.0,0,American-Style Stout
+236,Celtic Stout,0.0,0,American-Style Stout
+237,Collapsar Oatmeal Stout,0.0,0,American-Style Stout
+238,Oatmeal Stout,0.0,0,American-Style Stout
+239,Lion Stout,8.0,0,American-Style Stout
+240,Steelhead Extra Stout,0.0,0,American-Style Stout
+241,Imperial Stout,0.0,0,American-Style Stout
+242,4 Reverends Imperial Stout,0.0,0,American-Style Stout
+243,Imperial Stout,0.0,0,American-Style Stout
+244,Trolleycar Stout,0.0,0,American-Style Stout
+245,Trolleycar Stout,0.0,0,American-Style Stout
+246,Dempsey Stout,0.0,0.0,American-Style Stout
+247,Stout,0.0,0.0,American-Style Stout
+248,Locomotive Stout,0.0,0.0,American-Style Stout
+249,Blacksmith Stout,0.0,0.0,American-Style Stout
+250,Sweeney Stout,0.0,0.0,American-Style Stout
+251,Triple Nickel Irish Stout,0.0,0.0,American-Style Stout
+252,South Barrington Stout,0.0,0.0,American-Style Stout
+253,Stockyard Stout,0.0,0.0,American-Style Stout
+254,Dublin Stout,0.0,0.0,American-Style Stout
+255,Dublin Stout,6.0,0.0,American-Style Stout
+256,Black Jack Stout,0.0,0.0,American-Style Stout
+257,Old Market Stout,0.0,0.0,American-Style Stout
+258,Oatmeal Stout,0.0,0.0,American-Style Stout
+259,Sasquatch Stout,0.0,0.0,American-Style Stout
+260,Sir Francis Stout,0.0,0.0,American-Style Stout
+261,Imperial Stout,8.0,0.0,American-Style Stout
+262,Honest Stout,0.0,0.0,American-Style Stout
+263,Klout,0.0,0.0,American-Style Stout
+264,Stout,0.0,0.0,American-Style Stout
+265,Kickstart Oatmeal Stout,0.0,0.0,American-Style Stout
+266,Bourbon Street Stout,0.0,0.0,American-Style Stout
+267,Stout of Circumstance,0.0,0.0,American-Style Stout
+268,Kona Coffee Stout,0.0,0.0,American-Style Stout
+269,XXXXX Stout,0.0,0.0,American-Style Stout
+270,Oatmeal Stout,0.0,0.0,American-Style Stout
+271,Big Black Stout,0.0,0.0,American-Style Stout
+272,Rainbow Trout Stout,0.0,0.0,American-Style Stout
+273,Satin Stout,0.0,0.0,American-Style Stout
+274,Blackwood Mountain Stout,0.0,0.0,American-Style Stout
+275,Stout,0.0,0.0,American-Style Stout
+276,Stout,0.0,0.0,American-Style Stout
+277,Black Hawk Stout,0.0,0.0,American-Style Stout
+278,Total Eclipse Black Ale,5.6,0.0,American-Style Stout
+279,Stillwater Stout,0.0,0.0,American-Style Stout
+280,Kozlov Stout,0.0,0.0,American-Style Stout
+281,Fleishhacker Stout,0.0,0.0,American-Style Stout
+282,Stout,0.0,0.0,American-Style Stout
+283,Nitro Stout,0.0,0.0,American-Style Stout
+284,Stout,0.0,0.0,American-Style Stout
+285,Stout,0.0,0.0,American-Style Stout
+286,Bumbucha Stout,0.0,0.0,American-Style Stout
+287,Double Black Stout,0.0,0.0,American-Style Stout
+288,Stout,0.0,0.0,American-Style Stout
+289,No Doubt Stout,0.0,0.0,American-Style Stout
+290,Stout,0.0,0.0,American-Style Stout
+291,Old Australia Stout,0.0,0.0,American-Style Stout
+292,Obsidian Stout,6.4,0.0,American-Style Stout
+293,Classic Stout,0.0,0.0,American-Style Stout
+294,Buckeye Oatmeal Stout,0.0,0.0,American-Style Stout
+295,Over The Line Stout,0.0,0.0,American-Style Stout
+296,Hart Espresso Stout,5.6,0.0,American-Style Stout
+297,Rainbow Trout Stout,0.0,0.0,American-Style Stout
+298,Good Life Stout,0.0,0.0,American-Style Stout
+299,Oatmeal Stout,6.8,0.0,American-Style Stout
+300,Susquehanna Stout,4.6,0.0,American-Style Stout
+301,Black Mo Stout,4.6,0.0,American-Style Stout
+302,Lancaster Milk Stout,5.3,0.0,American-Style Stout
+303,Baltic Thunder,8.5,0.0,American-Style Stout
+304,Oyster Point Oyster Stout,5.9,0.0,American-Style Stout
+305,563 Stout,5.0,0.0,American-Style Stout
+306,Chicory Stout,5.2,0.0,American-Style Stout
+307,Blackstone Stout,4.4,0.0,American-Style Stout
+308,Samuel Adams Cream Stout,0.0,0.0,American-Style Stout
+309,Obamagang Inauguration Ale,0.0,0.0,American-Style Stout
+310,Long Island Potato Stout,3.9,0.0,American-Style Stout
+311,Samson Stout,5.0,0.0,American-Style Stout
+312,Black Cat Stout,6.0,0.0,American-Style Stout
+313,Belle Gunness Stout,5.0,0.0,American-Style Stout
+314,Standing Stone Nitro Stout,0.0,0.0,American-Style Stout
+315,Guinness 250th Anniversary Stout,5.0,0.0,American-Style Stout
+316,Strike Out Stout,4.6,0.0,American-Style Stout
+317,Pine Tar Stout,0.0,0.0,American-Style Stout
+318,Oak Barrel Stout,5.2,0.0,American-Style Stout
+319,Creme Brulee Java Stout,5.8,0.0,American-Style Stout
+320,Java Head Stout,7.5,0.0,American-Style Stout
+321,Manheim Stout,0.0,0.0,American-Style Stout
+322,Scratch #27 2010 Cocaoabunga,6.7,0.0,American-Style Stout
+323,Buried Hatchet Stout,8.25,0.0,American-Style Stout
+324,Tres Blueberry Stout,4.5,0.0,American-Style Stout
+325,Fore Smoked Stout,0.0,0.0,American-Style Stout
+326,Dundee Stout,5.8,0.0,American-Style Stout
+327,Ise Kadoya Stout,5.0,0.0,American-Style Stout
+328,Coffee Stout,5.7,30.0,American-Style Stout
+329,Onward Stout,3.8,35.0,American-Style Stout
+330,The Kidd Lager,0.0,0,German-Style Schwarzbier
+331,Schwarzbier / Dunkel,4.9,0,German-Style Schwarzbier
+332,Jack of Spades Schwarzbier,3.9,0,German-Style Schwarzbier
+333,Eisenbahn Escura,0.0,0,German-Style Schwarzbier
+334,Schwarzbier,4.3,0,German-Style Schwarzbier
+335,MÃ¶nchshof Premium Schwarzbier,4.9,0,German-Style Schwarzbier
+336,Schwarzbier,5.3,0,German-Style Schwarzbier
+337,Schwarze,0.0,0,German-Style Schwarzbier
+338,Herbstbier,0.0,0,German-Style Schwarzbier
+339,Xingu,4.7,0,German-Style Schwarzbier
+340,Negra,5.4,0,German-Style Schwarzbier
+341,Porter,5.8,0,German-Style Schwarzbier
+342,Original Badebier / Original Bathbeer Monastery Fun,0.0,0,German-Style Schwarzbier
+343,Schwarzbier,4.8,0,German-Style Schwarzbier
+344,Meranier Schwarzbier,0.0,0,German-Style Schwarzbier
+345,Bamberger SchwÃ¤rzla,0.0,0,German-Style Schwarzbier
+346,Black Bavarian Lager,5.86,0,German-Style Schwarzbier
+347,Dark Lager,0.0,0,German-Style Schwarzbier
+348,Black Abbot / Schwarzer Abt,3.9,0,German-Style Schwarzbier
+349,Blackforest Lager,0.0,0,German-Style Schwarzbier
+350,Schwarzbier,0.0,0,German-Style Schwarzbier
+351,Brockton Black Lager,6.5,0.0,German-Style Schwarzbier
+352,Dark Satin,0.0,0.0,German-Style Schwarzbier
+353,Black Lava Lager,0.0,0.0,German-Style Schwarzbier
+354,Imported Black Stout Draft,0.0,0.0,German-Style Schwarzbier
+355,Samuel Adams Black Lager,4.9,0.0,German-Style Schwarzbier
+356,Black Betty Schwartzbier,5.0,0.0,German-Style Schwarzbier
+357,Zeno Black Lager,0.0,0.0,German-Style Schwarzbier
+358,Elm City Schwarzbier,5.3,0.0,German-Style Schwarzbier
+359,Duck-Rabbit Schwarzbier,5.8,0.0,German-Style Schwarzbier
+360,Wiesen Edel Weisse,6.2,0,South German-Style Hefeweizen
+361,Weizengold Hefefein,5.1,0,South German-Style Hefeweizen
+362,JÃ¶rger WeiÃŸe Hell,0.0,0,South German-Style Hefeweizen
+363,EOS Hefeweizen,0.0,0,South German-Style Hefeweizen
+364,Shiner Hefeweizen,5.4,0,South German-Style Hefeweizen
+365,Sandy Beach Blonde Hefeweizen,4.5,0,South German-Style Hefeweizen
+366,Hefeweizen,5.6,0,South German-Style Hefeweizen
+367,Harvest Hefeweizen,4.9,0,South German-Style Hefeweizen
+368,Hefe Weizen,0.0,0,South German-Style Hefeweizen
+369,Ur-Weisse,0.0,0,South German-Style Hefeweizen
+370,Weisse,4.9,0,South German-Style Hefeweizen
+371,WeiÃŸe,0.0,0,South German-Style Hefeweizen
+372,See-Weizen Bio-Hefeweizen,0.0,0,South German-Style Hefeweizen
+373,Weizen,0.0,0,South German-Style Hefeweizen
+374,LÃ¶wen Weisse,0.0,0,South German-Style Hefeweizen
+375,Weizentrumpf,5.5,0,South German-Style Hefeweizen
+376,Weizen,5.0,0,South German-Style Hefeweizen
+377,Weizenbier,0.0,0,South German-Style Hefeweizen
+378,Ur-Weizen,5.0,0,South German-Style Hefeweizen
+379,Hefe-Weizen,5.2,0,South German-Style Hefeweizen
+380,Edelweiss,0.0,0,South German-Style Hefeweizen
+381,Hefeweizen,0.0,0,South German-Style Hefeweizen
+382,Hefe Weizen Hell,0.0,0,South German-Style Hefeweizen
+383,Weizen,0.0,0,South German-Style Hefeweizen
+384,Hefeweizen,0.0,0,South German-Style Hefeweizen
+385,Haupenthal Hefeweizen,4.8,0,South German-Style Hefeweizen
+386,Hefe-Weizen,5.8,0,South German-Style Hefeweizen
+387,Hefeweizen,4.3,0,South German-Style Hefeweizen
+388,Hefe-Weizen,5.2,0,South German-Style Hefeweizen
+389,Tin Lizzie Hefeweizen,5.5,0,South German-Style Hefeweizen
+390,Baltas Alus,5.2,0,South German-Style Hefeweizen
+391,El Jefe Weizen Ale,0.0,0,South German-Style Hefeweizen
+392,Hefe-Weizen Hell,0.0,0,South German-Style Hefeweizen
+393,Royal Weisse,5.7,0,South German-Style Hefeweizen
+394,Weizen,0.0,0,South German-Style Hefeweizen
+395,Hazy Daze Hefeweizen,5.5,0,South German-Style Hefeweizen
+396,Wheat,0.0,0,South German-Style Hefeweizen
+397,Sweet Spot Hefe,5.5,0,South German-Style Hefeweizen
+398,BrÃ¤u-Weisse,0.0,0,South German-Style Hefeweizen
+399,Bavarian-Weissbier Hefeweisse / Weisser Hirsch,5.2,0,South German-Style Hefeweizen
+400,"Triple \H\""""",0.0,0,South German-Style Hefeweizen
+401,Saranac Hefeweizen,5.6,0,South German-Style Hefeweizen
+402,Hefeweizen,0.0,0,South German-Style Hefeweizen
+403,Top Heavy Hefeweizen,0.0,0,South German-Style Hefeweizen
+404,Malteser Weissbier,5.0,0,South German-Style Hefeweizen
+405,Weissbier Hell,5.2,0,South German-Style Hefeweizen
+406,Weiss Beer,0.0,0,South German-Style Hefeweizen
+407,KÃ¶nig Ludwig Weissbier Hell,0.0,0,South German-Style Hefeweizen
+408,Kapuziner WeiÃŸbier,0.0,0,South German-Style Hefeweizen
+409,Stationsweizen,0.0,0,South German-Style Hefeweizen
+410,Kristall Weissbier,5.4,0,South German-Style Hefeweizen
+411,Franziskaner Hefe-Weissbier Hell  / Franziskaner Club-Weiss,5.0,0,South German-Style Hefeweizen
+412,WeiÃŸbier Mit Feiner Hefe,0.0,0,South German-Style Hefeweizen
+413,Weissbier,0.0,0,South German-Style Hefeweizen
+414,Weizen,0.0,0,South German-Style Hefeweizen
+415,HefeweiÃŸbier,0.0,0,South German-Style Hefeweizen
+416,Weissbier,4.8,0,South German-Style Hefeweizen
+417,Weizla Hell,5.0,0,South German-Style Hefeweizen
+418,Eine Bamberger Weisse Hell,5.2,0,South German-Style Hefeweizen
+419,MÃ¼nchner Kindl Weissbier / MÃ¼nchner Weisse,0.0,0,South German-Style Hefeweizen
+420,Hefe Weiss,4.2,0,South German-Style Hefeweizen
+421,Crop Circle Wheat,0.0,0,South German-Style Hefeweizen
+422,Hacker-Pschorr Weisse,0.0,0,South German-Style Hefeweizen
+423,Weizen,0.0,0,South German-Style Hefeweizen
+424,Weissbier,5.0,0,South German-Style Hefeweizen
+425,Weizen,0.0,0,South German-Style Hefeweizen
+426,Hefeweizen,4.2,0,South German-Style Hefeweizen
+427,Hefe-WeiÃŸbier,0.0,0,South German-Style Hefeweizen
+428,Heifer-Weizen,0.0,0,South German-Style Hefeweizen
+429,Kristall Weiss,0.0,0,South German-Style Hefeweizen
+430,Helles Hefe Weizen,5.3,0,South German-Style Hefeweizen
+431,Winnebago Wheat,0.0,0,South German-Style Hefeweizen
+432,Whistle Stop Weiss Beer,0.0,0.0,South German-Style Hefeweizen
+433,Berghoff Hefeweizen,0.0,0.0,South German-Style Hefeweizen
+434,Hefe Weissbier,5.4,0.0,South German-Style Hefeweizen
+435,Hefe-Weizen,4.7,0.0,South German-Style Hefeweizen
+436,Weisen,0.0,0.0,South German-Style Hefeweizen
+437,Weisse Hefe-Weizen,5.4,0.0,South German-Style Hefeweizen
+438,Bavarian Weiss,0.0,0.0,South German-Style Hefeweizen
+439,Heartland Hefeweizen,0.0,0.0,South German-Style Hefeweizen
+440,Windmill Wheat Ale,0.0,0.0,South German-Style Hefeweizen
+441,Bavarian Wheat,0.0,0.0,South German-Style Hefeweizen
+442,Hefeweizen,0.0,0.0,South German-Style Hefeweizen
+443,Hefe Weizen,0.0,0.0,South German-Style Hefeweizen
+444,Thomas Kemper HefeWeizen,0.0,0.0,South German-Style Hefeweizen
+445,Hefe Weizen,0.0,0.0,South German-Style Hefeweizen
+446,Edelweiss HefetrÃ¼b,0.0,0.0,South German-Style Hefeweizen
+447,Hefeweizen,0.0,0.0,South German-Style Hefeweizen
+448,Windmill Wheat Ale,0.0,0.0,South German-Style Hefeweizen
+449,In-Heat Wheat,4.7,0.0,South German-Style Hefeweizen
+450,Hinterland Hefe Weizen,5.3,0.0,South German-Style Hefeweizen
+451,Sunrise Weissbier,5.7,0.0,South German-Style Hefeweizen
+452,Penn Weizen,4.0,0.0,South German-Style Hefeweizen
+453,Lancaster Hefe Weizen,6.0,0.0,South German-Style Hefeweizen
+454,Dry Heat Hefeweizen,0.0,0.0,South German-Style Hefeweizen
+455,Hefeweizen,5.0,0.0,South German-Style Hefeweizen
+456,Samuel Adams Hefeweizen,0.0,0.0,South German-Style Hefeweizen
+457,Organic Hefewizen,0.0,0.0,South German-Style Hefeweizen
+458,Konig Ludwig Weissbier,5.5,0.0,South German-Style Hefeweizen
+459,Horseshoe Hefeweizen,4.5,0.0,South German-Style Hefeweizen
+460,Heffevonom Bavarian Wheat,0.0,0.0,South German-Style Hefeweizen
+461,Wheatley Hills Weizenbock,7.5,0.0,South German-Style Hefeweizen
+462,Harborfields HefeWeizen,4.5,0.0,South German-Style Hefeweizen
+463,Live Oak Hefeweizen,0.0,0.0,South German-Style Hefeweizen
+464,The Livery Hefe Weizen,5.0,0.0,South German-Style Hefeweizen
+465,Sierra Nevada Kellerweis,0.0,0.0,South German-Style Hefeweizen
+466,Hopfen Weisse,8.2,0.0,South German-Style Hefeweizen
+467,Drunk Monk Hefeweizen,4.8,0.0,South German-Style Hefeweizen
+468,Standing Stone Hefeweizen,0.0,0.0,South German-Style Hefeweizen
+469,Tailgate Hefeweizen,5.0,0.0,South German-Style Hefeweizen
+470,Golf,5.0,0.0,South German-Style Hefeweizen
+471,Wild Frog Wheat,6.0,0.0,South German-Style Hefeweizen
+472,Hefeweizen,5.0,13.0,South German-Style Hefeweizen
+473,Cow Palace Scotch Ale 1998,8.7,0,Scotch Ale
+474,Robert the Bruce Scottish Ale,7.0,0,Scotch Ale
+475,Kilt Lifter Scottish Ale,8.0,0,Scotch Ale
+476,Wee Heavy Winter Ale,0.0,0,Scotch Ale
+477,Cow Palace Scotch Ale,6.8,0,Scotch Ale
+478,Kilt Lifter Scotch Ale,0.0,0,Scotch Ale
+479,Wee Heavy,9.5,0,Scotch Ale
+480,Wee Heavier,9.5,0,Scotch Ale
+481,Dirty Bastard Scotch Style Ale,8.5,0,Scotch Ale
+482,Wee Heavy,6.5,0,Scotch Ale
+483,Wee Beast,7.0,0,Scotch Ale
+484,Plaid Bastard,8.0,0,Scotch Ale
+485,Loyal Duke Scotch Ale,8.6,0,Scotch Ale
+486,Hope & King Scotch Ale,6.0,0,Scotch Ale
+487,Blackfriar,7.0,0,Scotch Ale
+488,120 Shilling Scotch Ale,0.0,0,Scotch Ale
+489,Scottish Ale,5.8,0,Scotch Ale
+490,Scottish Ale,0.0,0,Scotch Ale
+491,Stone of Scone Scotch Ale,0.0,0,Scotch Ale
+492,Scotch Ale,0.0,0,Scotch Ale
+493,Heritage Scottish Ale,0.0,0,Scotch Ale
+494,Skullsplitter Ale,8.5,0.0,Scotch Ale
+495,Wee Heavy,0.0,0.0,Scotch Ale
+496,Strong Scotch Ale,8.6,0.0,Scotch Ale
+497,Wee Heavy,0.0,0.0,Scotch Ale
+498,Holiday Scottish Strong Ale,0.0,0.0,Scotch Ale
+499,"Double Eagle \High-Test\"" Scotch Ale""",8.0,0.0,Scotch Ale
+500,Tilted Kilt Ale,0.0,0.0,Scotch Ale
+501,Scotch brand Ale,7.2,0.0,Scotch Ale
+502,Jolly Scot Scottish Ale,5.2,0.0,Scotch Ale
+503,Samuel Adams Scotch Ale,5.4,0.0,Scotch Ale
+504,Scotch Ale,6.0,0.0,Scotch Ale
+505,Dundee Scotch Ale,6.5,0.0,Scotch Ale
+506,Kilt Lifter  Scottish-Style Ale,6.0,0.0,Scotch Ale
+507,Claymore Scotch Ale,0.0,0.0,Scotch Ale
+508,The Livery Kilt Tilter,9.0,0.0,Scotch Ale
+509,Sky Pilot Scotch Ale,6.5,0.0,Scotch Ale
+510,Big Sound Scotch Ale,8.5,0.0,Scotch Ale
+511,Outta Kilter Wee-Heavy Scotch Red Ale,8.2,0.0,Scotch Ale
+512,Iron Thistle,8.0,0.0,Scotch Ale
+513,Full Moon Winter Ale,5.6,0,Other Belgian-Style Ales
+514,Calabaza Blanca,4.8,0,Other Belgian-Style Ales
+515,Grotten Flemish Ale,7.7,0,Other Belgian-Style Ales
+516,Delirium NoÃ«l,10.0,0,Other Belgian-Style Ales
+517,Urthel Hop-It,9.5,0,Other Belgian-Style Ales
+518,Orval Trappist Ale,6.9,0,Other Belgian-Style Ales
+519,Terrible,10.5,0,Other Belgian-Style Ales
+520,Blonde,6.0,0,Other Belgian-Style Ales
+521,Celis White,3.9,0,Other Belgian-Style Ales
+522,Salvation,9.0,0,Other Belgian-Style Ales
+523,Dubbel Dragon,7.2,0,Other Belgian-Style Ales
+524,1554 Enlightened Black Ale,5.5,0,Other Belgian-Style Ales
+525,1837,7.0,0,Other Belgian-Style Ales
+526,Abbey Roade Belgian Ale,6.4,0.0,Other Belgian-Style Ales
+527,V-12,12.0,0.0,Other Belgian-Style Ales
+528,V-Saison,7.5,0.0,Other Belgian-Style Ales
+529,Farmhouse Summer Ale,0.0,0.0,Other Belgian-Style Ales
+530,Grand Cru Winter Reserve,7.2,0.0,Other Belgian-Style Ales
+531,Holy Sheet,9.0,0.0,Other Belgian-Style Ales
+532,Abbey Normal Ale,0.0,0.0,Other Belgian-Style Ales
+533,Barrel-Aged Blind Date Ale,7.5,0.0,Other Belgian-Style Ales
+534,Richbrau Abbey-Style Ale,7.0,0.0,Other Belgian-Style Ales
+535,Abbey IPA,7.0,0.0,Other Belgian-Style Ales
+536,Dubble Fantasy,5.0,0.0,Other Belgian-Style Ales
+537,Capital Prairie Gold,0.0,0.0,Other Belgian-Style Ales
+538,Descent Imperial Abbey Ale,8.3,0.0,Other Belgian-Style Ales
+539,Great Divide Belgica,7.2,0.0,Other Belgian-Style Ales
+540,Head Trip,10.5,0.0,Other Belgian-Style Ales
+541,Scratch #21 2009 - Artisan Ale,7.8,0.0,Other Belgian-Style Ales
+542,Gouden Carolus Hopsinjoor,8.0,0.0,Other Belgian-Style Ales
+543,Georgi-Belgique,6.4,0.0,Other Belgian-Style Ales
+544,Abbaye de Saint-Martin Triple,9.0,0.0,Other Belgian-Style Ales
+545,Brasserie De Brunehaut Bio BiÃ¨re Blonde (Organic),6.5,0.0,Other Belgian-Style Ales
+546,Abbaye de St Amand,7.0,0.0,Other Belgian-Style Ales
+547,3767 Belgian-style IPA with Brett,8.0,0.0,Other Belgian-Style Ales
+548,Raging Bitch Belgian IPA,8.3,0.0,Other Belgian-Style Ales
+549,Mayhem Belgian-style Double IPA,8.2,0.0,Other Belgian-Style Ales
+550,Hop Master's Abbey Belgian-style Double IPA,8.5,0.0,Other Belgian-Style Ales
+551,Odell IPA,7.0,0,American-Style India Pale Ale
+552,Furious Beer,6.0,0,American-Style India Pale Ale
+553,Warrior IPA,6.6,0,American-Style India Pale Ale
+554,Bent Nail IPA,0.0,0,American-Style India Pale Ale
+555,Woody Organic IPA,6.2,0,American-Style India Pale Ale
+556,Duke IPA,5.1,0,American-Style India Pale Ale
+557,IPA,5.5,0,American-Style India Pale Ale
+558,Old Princeton Landing IPA,6.1,0,American-Style India Pale Ale
+559,Blur IPA,0.0,0,American-Style India Pale Ale
+560,Casey Jones Imperial IPA,7.25,0,American-Style India Pale Ale
+561,IPA,6.0,0,American-Style India Pale Ale
+562,Train Wreck IPA,0.0,0,American-Style India Pale Ale
+563,Double IPA,0.0,0,American-Style India Pale Ale
+564,India Pale Ale (IPA),0.0,0,American-Style India Pale Ale
+565,471 Double IPA,9.2,0,American-Style India Pale Ale
+566,Hercules Double IPA,9.1,0,American-Style India Pale Ale
+567,Inversion IPA,6.8,0,American-Style India Pale Ale
+568,Red Racer India Pale Ale,6.5,0,American-Style India Pale Ale
+569,Yippee IPA,0.0,0,American-Style India Pale Ale
+570,IPA,0.0,0,American-Style India Pale Ale
+571,Firkin IPA,0.0,0,American-Style India Pale Ale
+572,Scarlet Fire IPA,0.0,0,American-Style India Pale Ale
+573,The Immortal IPA,6.3,0,American-Style India Pale Ale
+574,IPA,6.2,0,American-Style India Pale Ale
+575,Gale Force IPA,5.6,0,American-Style India Pale Ale
+576,Organic India Pale Ale,6.7,0,American-Style India Pale Ale
+577,Thunder Head IPA,6.7,0,American-Style India Pale Ale
+578,Dry Hopped IPA,0.0,0,American-Style India Pale Ale
+579,IPA,5.5,0,American-Style India Pale Ale
+580,Rat City IPA,0.0,0,American-Style India Pale Ale
+581,MoJo India Pale Ale,6.8,0,American-Style India Pale Ale
+582,Stone IPA,6.9,0,American-Style India Pale Ale
+583,Slip Knot Imperial IPA 2006,7.8,0,American-Style India Pale Ale
+584,Bottleworks IPA,8.5,0,American-Style India Pale Ale
+585,9th Anniversary IPA,7.5,0,American-Style India Pale Ale
+586,Chehalem Mountain IPA,0.0,0,American-Style India Pale Ale
+587,Mongoose IPA,0.0,0,American-Style India Pale Ale
+588,Big Daddy IPA,6.5,0,American-Style India Pale Ale
+589,Titan IPA,6.8,0,American-Style India Pale Ale
+590,Quail Springs IPA,6.0,0,American-Style India Pale Ale
+591,IPA,5.5,0,American-Style India Pale Ale
+592,Double IPA,6.8,0,American-Style India Pale Ale
+593,IPA,0.0,0,American-Style India Pale Ale
+594,Anniversary IPA Ahtanum,7.2,0,American-Style India Pale Ale
+595,Anniversary IPA Glacier,7.2,0,American-Style India Pale Ale
+596,Route 113 IPA,7.2,0,American-Style India Pale Ale
+597,East Kent IPA,6.6,0,American-Style India Pale Ale
+598,Kasota IPA,0.0,0,American-Style India Pale Ale
+599,El NiÃ±o IPA,0.0,0,American-Style India Pale Ale
+600,IPA,6.7,0,American-Style India Pale Ale
+601,Hoppy Hour IPA,0.0,0,American-Style India Pale Ale
+602,IPA,0.0,0,American-Style India Pale Ale
+603,Old Town IPA,0.0,0,American-Style India Pale Ale
+604,Billings IPA,0.0,0,American-Style India Pale Ale
+605,Eager Beaver IPA,0.0,0,American-Style India Pale Ale
+606,IPA,6.9,0,American-Style India Pale Ale
+607,Stockyard IPA,0.0,0,American-Style India Pale Ale
+608,Masala Mama IPA,5.9,0,American-Style India Pale Ale
+609,Hop Maniac IPA,6.5,0,American-Style India Pale Ale
+610,Island Pale Ale (IPA),7.0,0,American-Style India Pale Ale
+611,Friars IPA,0.0,0,American-Style India Pale Ale
+612,Ding Ding Double IPA,0.0,0,American-Style India Pale Ale
+613,Torrey Pines IPA,6.8,0,American-Style India Pale Ale
+614,Frank Double IPA,8.5,0,American-Style India Pale Ale
+615,Paddle Me IPA,0.0,0,American-Style India Pale Ale
+616,Bridgeport India Pale Ale,5.5,0,American-Style India Pale Ale
+617,7th Anniversary IPA,7.7,0,American-Style India Pale Ale
+618,Full Tilt IPA,0.0,0,American-Style India Pale Ale
+619,Sherwood Forest IPA,6.0,0,American-Style India Pale Ale
+620,Centennial IPA,7.2,0,American-Style India Pale Ale
+621,Evolutionary IPA,0.0,0,American-Style India Pale Ale
+622,Bitter Woman From Hell Extra IPA,0.0,0,American-Style India Pale Ale
+623,Fuggles IPA,0.0,0,American-Style India Pale Ale
+624,Imperial IPA,0.0,0,American-Style India Pale Ale
+625,Racer 5 IPA,7.0,0,American-Style India Pale Ale
+626,Henry Hudson IPA,0.0,0,American-Style India Pale Ale
+627,IPA,7.25,0,American-Style India Pale Ale
+628,IPA,0.0,0,American-Style India Pale Ale
+629,East India Pale Ale,6.8,0,American-Style India Pale Ale
+630,IPA,0.0,0,American-Style India Pale Ale
+631,Duke of Wellington IPA,0.0,0,American-Style India Pale Ale
+632,Trafalgar IPA,6.0,0,American-Style India Pale Ale
+633,Jamaica Brand Sunset IPA,0.0,0,American-Style India Pale Ale
+634,East India IPA,0.0,0,American-Style India Pale Ale
+635,Paddywhack IPA,6.5,0.0,American-Style India Pale Ale
+636,Bombay by Boat IPA,0.0,0.0,American-Style India Pale Ale
+637,Hornet Tail IPA,0.0,0.0,American-Style India Pale Ale
+638,Bighorn IPA,0.0,0.0,American-Style India Pale Ale
+639,Kuaipa,0.0,0.0,American-Style India Pale Ale
+640,Davie Poplar IPA,0.0,0.0,American-Style India Pale Ale
+641,IPA,0.0,0.0,American-Style India Pale Ale
+642,Hoppy Face Amber Ale,5.5,0.0,American-Style India Pale Ale
+643,Thirsty IPA,0.0,0.0,American-Style India Pale Ale
+644,IPA,0.0,0.0,American-Style India Pale Ale
+645,Atta Boy IPA,7.3,0.0,American-Style India Pale Ale
+646,IPA Pale Ale,0.0,0.0,American-Style India Pale Ale
+647,IPA,0.0,0.0,American-Style India Pale Ale
+648,Schlafly IPA,0.0,0.0,American-Style India Pale Ale
+649,5 C's IPA,6.5,0.0,American-Style India Pale Ale
+650,Snake Dog IPA,7.1,0.0,American-Style India Pale Ale
+651,IPA,0.0,0.0,American-Style India Pale Ale
+652,Mad Hatter IPA,5.8,0.0,American-Style India Pale Ale
+653,Hoppy Trails India Pale Ale,6.2,0.0,American-Style India Pale Ale
+654,Lucky Kat,5.8,0.0,American-Style India Pale Ale
+655,Hop Devil India Pale Ale,6.7,0.0,American-Style India Pale Ale
+656,Hop Hog IPA,7.9,0.0,American-Style India Pale Ale
+657,Wipeout IPA,7.0,0.0,American-Style India Pale Ale
+658,10 Squared (10Â²),10.0,0.0,American-Style India Pale Ale
+659,Hops Infusion,6.2,0.0,American-Style India Pale Ale
+660,HIPA,6.8,0.0,American-Style India Pale Ale
+661,60 Minute IPA,6.0,0.0,American-Style India Pale Ale
+662,HopFish IPA,6.2,0.0,American-Style India Pale Ale
+663,Newbold IPA,6.5,0.0,American-Style India Pale Ale
+664,21A IPA,7.2,0.0,American-Style India Pale Ale
+665,Loose Cannon Hop3 Ale,7.25,0.0,American-Style India Pale Ale
+666,Ipswich IPA,6.3,0.0,American-Style India Pale Ale
+667,India Pale Ale,6.3,0.0,American-Style India Pale Ale
+668,Southern Tier IPA,6.5,0.0,American-Style India Pale Ale
+669,Blind Pig IPA,6.0,0.0,American-Style India Pale Ale
+670,Hop Knot IPA,6.0,0.0,American-Style India Pale Ale
+671,The Raj India Pale Ale,6.9,0.0,American-Style India Pale Ale
+672,Alaskan IPA,6.2,0.0,American-Style India Pale Ale
+673,Climax IPA,6.0,0.0,American-Style India Pale Ale
+674,Wild Devil Ale,6.7,0.0,American-Style India Pale Ale
+675,Lakefront IPA,0.0,0.0,American-Style India Pale Ale
+676,Richbrau India Pale Ale,6.2,0.0,American-Style India Pale Ale
+677,Horny Toad IPA,7.1,0.0,American-Style India Pale Ale
+678,"India Red Ale (The \IRA\"")""",6.8,0.0,American-Style India Pale Ale
+679,Hop Lava,7.0,0.0,American-Style India Pale Ale
+680,Hopworks IPA,6.6,0.0,American-Style India Pale Ale
+681,Renegade IPA,5.8,0.0,American-Style India Pale Ale
+682,Liberation Ale,6.0,0.0,American-Style India Pale Ale
+683,Single-Wide I.P.A.,5.7,0.0,American-Style India Pale Ale
+684,Victorian IPA,6.2,0.0,American-Style India Pale Ale
+685,Dundee India Pale Ale,6.3,0.0,American-Style India Pale Ale
+686,Elissa IPA,6.6,0.0,American-Style India Pale Ale
+687,4 Seasons IPA,8.0,0.0,American-Style India Pale Ale
+688,Dead Man Walkin' IPA,6.4,0.0,American-Style India Pale Ale
+689,McGilligans IPA,6.25,0.0,American-Style India Pale Ale
+690,555 IPA,6.25,0.0,American-Style India Pale Ale
+691,Big Swell IPA,6.2,0.0,American-Style India Pale Ale
+692,75 Minute IPA,7.5,0.0,American-Style India Pale Ale
+693,Six Rivers IPA,7.2,0.0,American-Style India Pale Ale
+694,Midwest IPA,7.2,0.0,American-Style India Pale Ale
+695,Goose Island Midway IPA,6.8,0.0,American-Style India Pale Ale
+696,Crooked Tree IPA,6.0,0.0,American-Style India Pale Ale
+697,Tumbleweed IPA,5.7,0.0,American-Style India Pale Ale
+698,Broodoo,5.5,0.0,American-Style India Pale Ale
+699,Union Jack India Pale Ale,7.5,0.0,American-Style India Pale Ale
+700,Standing Stone India Pale Ale,0.0,0.0,American-Style India Pale Ale
+701,Bhagwan's Best IPA,5.0,0.0,American-Style India Pale Ale
+702,Cottonwood Endo India Pale Ale,5.9,0.0,American-Style India Pale Ale
+703,Second Street IPA,6.0,0.0,American-Style India Pale Ale
+704,South Hampton IPA,6.2,0.0,American-Style India Pale Ale
+705,Tailgate IPA,6.5,0.0,American-Style India Pale Ale
+706,Fiesta IPA,6.3,0.0,American-Style India Pale Ale
+707,Sculpin India Pale Ale,7.0,0.0,American-Style India Pale Ale
+708,Flo IPA,0.0,0.0,American-Style India Pale Ale
+709,Ponderosa IPA,0.0,0.0,American-Style India Pale Ale
+710,Lake Placid Frostbite Ale,6.8,0.0,American-Style India Pale Ale
+711,Shiva IPA,5.3,0.0,American-Style India Pale Ale
+712,Fairweather IPA,6.1,0.0,American-Style India Pale Ale
+713,Red Chair IPA,6.4,0.0,American-Style India Pale Ale
+714,50 CAT IPA,0.0,0.0,American-Style India Pale Ale
+715,Rock Art IPA,0.0,0.0,American-Style India Pale Ale
+716,Big Hop Harvest Ale,7.4,0.0,American-Style India Pale Ale
+717,Old Salt IPA,5.8,0.0,American-Style India Pale Ale
+718,Punk IPA,6.0,0.0,American-Style India Pale Ale
+719,Hopsecutioner,7.2,0.0,American-Style India Pale Ale
+720,Jai Alai IPA,7.5,0.0,American-Style India Pale Ale
+721,Modus Hoperandi,6.8,0.0,American-Style India Pale Ale
+722,JoBoy's IPA,6.5,0.0,American-Style India Pale Ale
+723,(512) IPA,7.0,0.0,American-Style India Pale Ale
+724,Lilja's Hop Nest Monster,0.0,0.0,American-Style India Pale Ale
+725,Weyerbacher India,7.2,0.0,American-Style India Pale Ale
+726,Maximus,7.5,0.0,American-Style India Pale Ale
+727,Hoppin' To Heaven IPA,6.8,0.0,American-Style India Pale Ale
+728,Duet,7.0,0.0,American-Style India Pale Ale
+729,Nelson,7.0,0.0,American-Style India Pale Ale
+730,Humidor Series Jai Alai Cedar Aged India Pale Ale,7.5,0.0,American-Style India Pale Ale
+731,Marble India Pale Ale,6.2,0.0,American-Style India Pale Ale
+732,Hopportunity Knocks Ale,6.8,0.0,American-Style India Pale Ale
+733,Simcoe Single Hop IPA,6.9,0.0,American-Style India Pale Ale
+734,IPA Series (Simcoe),0.0,0.0,American-Style India Pale Ale
+735,IPA Series (Zeus),0.0,0.0,American-Style India Pale Ale
+736,IPA Series (Horizon),0.0,0.0,American-Style India Pale Ale
+737,Scratch Beer 31 - 2010 Citra Of Brotherly Love IPA,7.4,0.0,American-Style India Pale Ale
+738,Oasis,7.2,93.0,American-Style India Pale Ale
+739,Little Scrapper IPA,6.0,0.0,American-Style India Pale Ale
+740,Firewater Indian Pale Ale,0.0,0.0,American-Style India Pale Ale
+741,Ornery Amber Lager,0.0,0,American-Style Lager
+742,Goosinator Smoked Doppelbock 2007,0.0,0,American-Style Lager
+743,Whitetail Wheat,0.0,0,American-Style Lager
+744,Yeti Special Export,7.0,0,American-Style Lager
+745,Smoked Hefe,0.0,0,American-Style Lager
+746,Northern Light Lager,4.4,0,American-Style Lager
+747,Double Pilsner,8.1,0,American-Style Lager
+748,Creamy Dark,4.9,0,American-Style Lager
+749,Sapporo Premium Beer,0.0,0,American-Style Lager
+750,New,4.6,0,American-Style Lager
+751,Amber Light,0.0,0,American-Style Lager
+752,New World Wheat,0.0,0,American-Style Lager
+753,Brew Ribbon,0.0,0,American-Style Lager
+754,Chazz Cat Rye,4.5,0,American-Style Lager
+755,Honey Bunny Blonde Ale,5.8,0,American-Style Lager
+756,Warka Strong,7.0,0,American-Style Lager
+757,Kristall Weizen,0.0,0,American-Style Lager
+758,Island Wheat,0.0,0,American-Style Lager
+759,Boys of Summer Wheat,3.5,0,American-Style Lager
+760,Hefeweizen,0.0,0,American-Style Lager
+761,Hefe Proper Ale,0.0,0,American-Style Lager
+762,Wildcat Wheat,0.0,0,American-Style Lager
+763,Cerveza Diablo,7.5,0,American-Style Lager
+764,Demolition,8.0,0,American-Style Lager
+765,Rubia,6.0,0,American-Style Lager
+766,Session Premium Lager,5.1,0,American-Style Lager
+767,Mocny BOSS / BOSS Beer,8.1,0,American-Style Lager
+768,Lager,4.0,0,American-Style Lager
+769,Aecht Schlenkerla Rauchbier Weizen,0.0,0,American-Style Lager
+770,Rotgold-Pils,4.9,0,American-Style Lager
+771,Green Valley Wild Hop Lager,0.0,0,American-Style Lager
+772,Original Ittinger KlosterbrÃ¤u,0.0,0,American-Style Lager
+773,Honey Brown Ale,6.0,0,American-Style Lager
+774,Single-Malt-Bier,0.0,0,American-Style Lager
+775,Spezial,0.0,0,American-Style Lager
+776,Kupfer,0.0,0,American-Style Lager
+777,Springboard Lager,0.0,0,American-Style Lager
+778,Light Lager,0.0,0,American-Style Lager
+779,Lager,0.0,0,American-Style Lager
+780,Vienna Lager,0.0,0,American-Style Lager
+781,Special Lager,0.0,0,American-Style Lager
+782,Baden Powell Cream Ale,0.0,0,American-Style Lager
+783,Dominion Lager,0.0,0,American-Style Lager
+784,Tropical Lager,0.0,0,American-Style Lager
+785,Honey Brown,0.0,0,American-Style Lager
+786,Premium Gold,0.0,0,American-Style Lager
+787,Cream Ale,4.8,0,American-Style Lager
+788,Island Lager,5.0,0,American-Style Lager
+789,Kitsilano Maple Cream Ale,5.0,0,American-Style Lager
+790,Cypress Honey Lager,4.7,0,American-Style Lager
+791,Old Bridge Dark Lager,5.3,0,American-Style Lager
+792,Premium Light Lager Beer,0.0,0,American-Style Lager
+793,Old Seattle Lager,4.3,0,American-Style Lager
+794,Clipper Gold Hefeweizen,5.2,0,American-Style Lager
+795,Foster Child Australian Lager,4.0,0,American-Style Lager
+796,Weisse,0.0,0,American-Style Lager
+797,Weissbier,4.3,0,American-Style Lager
+798,Wheat Beer,0.0,0,American-Style Lager
+799,Hefe Weizen,4.6,0,American-Style Lager
+800,Del Rio Lager,4.0,0,American-Style Lager
+801,Blind Pig Dunkelweizen,4.7,0,American-Style Lager
+802,Whistling Pig Hefeweizen,4.5,0,American-Style Lager
+803,Krystal Weizen,4.9,0,American-Style Lager
+804,Amber Weizen,5.5,0,American-Style Lager
+805,Hefeweizen,5.2,0,American-Style Lager
+806,Luna Weizen,4.5,0,American-Style Lager
+807,Imperial Gold Malt Liquor,9.9,0,American-Style Lager
+808,Smoked Rye Bock,0.0,0,American-Style Lager
+809,Hefeweizen,0.0,0,American-Style Lager
+810,Featherweight Lager,4.1,0,American-Style Lager
+811,Summer Lager,0.0,0,American-Style Lager
+812,Lager,0.0,0,American-Style Lager
+813,Light Lager,3.5,0,American-Style Lager
+814,Light Lager,0.0,0,American-Style Lager
+815,Light Lager,0.0,0,American-Style Lager
+816,Brau Light,0.0,0,American-Style Lager
+817,Lighthouse Ale,4.4,0,American-Style Lager
+818,Honey Pilsner,4.5,0,American-Style Lager
+819,Cream Ale,0.0,0,American-Style Lager
+820,Mojave Gold,0.0,0,American-Style Lager
+821,Mojave Red,0.0,0,American-Style Lager
+822,Dos Rios Vienna Lager,0.0,0,American-Style Lager
+823,Rye On,4.8,0,American-Style Lager
+824,Peat Smoked Altbier,0.0,0,American-Style Lager
+825,Old Smoky,0.0,0,American-Style Lager
+826,Pilsner,4.99,0,American-Style Lager
+827,Smoked Porter,0.0,0,American-Style Lager
+828,Tusker Premium Lager,0.0,0,American-Style Lager
+829,Kabeelo Lodge Lager,0.0,0,American-Style Lager
+830,Honey Brown,0.0,0,American-Style Lager
+831,Premium Light Lager,4.5,0,American-Style Lager
+832,Honey Ale,0.0,0,American-Style Lager
+833,California Gold,4.5,0,American-Style Lager
+834,Amber Lager,0.0,0,American-Style Lager
+835,Thunder Storm,5.0,0,American-Style Lager
+836,Whitetail Wheat,0.0,0,American-Style Lager
+837,Roggenbier,5.5,0,American-Style Lager
+838,Adler BrÃ¤u Eagle Lager,0.0,0,American-Style Lager
+839,Dark Pilsener,5.5,0,American-Style Lager
+840,Port Washington Pier 96 Lager,0.0,0,American-Style Lager
+841,Roundhouse Rye,0.0,0,American-Style Lager
+842,Edison Light Beer,0.0,0,American-Style Lager
+843,Lizard Lager,0.0,0,American-Style Lager
+844,Cream Ale,0.0,0,American-Style Lager
+845,Caramel Rye,0.0,0,American-Style Lager
+846,Red Lager,4.6,0,American-Style Lager
+847,Augsburger Dark,0.0,0,American-Style Lager
+848,Special Amber,5.0,0,American-Style Lager
+849,Amber Lager,0.0,0,American-Style Lager
+850,St.Pauli Girl Beer,0.0,0,American-Style Lager
+851,SunRye,0.0,0,American-Style Lager
+852,Red Stallion,0.0,0,American-Style Lager
+853,Lager,0.0,0,American-Style Lager
+854,Pale Ale,5.5,0,American-Style Lager
+855,Stite Golden Pilsner,4.7,0,American-Style Lager
+856,Lager,0.0,0,American-Style Lager
+857,MÃ¼nchner Hell / Premium Lager,5.2,0,American-Style Lager
+858,Rauchbier Weissbier,0.0,0,American-Style Lager
+859,Michelob Hefeweizen,0.0,0,American-Style Lager
+860,Pale Lager,0.0,0,American-Style Lager
+861,Honey Weiss (discontinued),0.0,0,American-Style Lager
+862,Alpine Glacier Lager,0.0,0,American-Style Lager
+863,Original Dark,0.0,0,American-Style Lager
+864,Beer,0.0,0,American-Style Lager
+865,Light,0.0,0,American-Style Lager
+866,Hefe Weiss,0.0,0,American-Style Lager
+867,Green Beer,0.0,0,American-Style Lager
+868,Three Sisters Golden Wheat,0.0,0,American-Style Lager
+869,Harvest Wheat Beer,0.0,0,American-Style Lager
+870,Honey Wheat,0.0,0,American-Style Lager
+871,Golden Wheat Light,0.0,0,American-Style Lager
+872,Dark Ale,0.0,0,American-Style Lager
+873,Red Lager,0.0,0,American-Style Lager
+874,Wheat,0.0,0,American-Style Lager
+875,Landmark Light,0.0,0,American-Style Lager
+876,Pilsner,0.0,0,American-Style Lager
+877,Golden Lager,0.0,0,American-Style Lager
+878,Hathor Red Lager,5.4,0,American-Style Lager
+879,Aussie Lager,0.0,0,American-Style Lager
+880,Wheat,0.0,0,American-Style Lager
+881,Pilsner,4.5,0,American-Style Lager
+882,Courthouse Copper,0.0,0,American-Style Lager
+883,Canadian Light,0.0,0,American-Style Lager
+884,Bartles and Lager,4.0,0,American-Style Lager
+885,Royal Challenge Indian Premium Lager,0.0,0,American-Style Lager
+886,Honey Wheat,0.0,0,American-Style Lager
+887,North Star Premium Lager,0.0,0,American-Style Lager
+888,Golden Honey Wheat,0.0,0,American-Style Lager
+889,Victory Lager,0.0,0,American-Style Lager
+890,Northern Light,0.0,0,American-Style Lager
+891,Meridian Street Premium Lager,4.8,0,American-Style Lager
+892,Aspen Meadow Black and Tan,0.0,0,American-Style Lager
+893,Laughing Ass,0.0,0,American-Style Lager
+894,Hawk Rye,0.0,0,American-Style Lager
+895,Golden,0.0,0,American-Style Lager
+896,Canadian Lager Beer,5.0,0,American-Style Lager
+897,Canadian Ale,0.0,0,American-Style Lager
+898,Fox Light,0.0,0,American-Style Lager
+899,Calumet Wheat,0.0,0.0,American-Style Lager
+900,BaderbrÃ¤u Pilsener,0.0,0.0,American-Style Lager
+901,Original,4.6,0.0,American-Style Lager
+902,Old Style,0.0,0.0,American-Style Lager
+903,Berghoff Original Lager Beer,5.6,0.0,American-Style Lager
+904,Shiner Kosmos Reserve,0.0,0.0,American-Style Lager
+905,Balboa Cerveza Pilsner,0.0,0.0,American-Style Lager
+906,Atlas Lager,3.75,0.0,American-Style Lager
+907,Schlitz,0.0,0.0,American-Style Lager
+908,Beer,0.0,0.0,American-Style Lager
+909,Premium Lager,5.3,0.0,American-Style Lager
+910,Space-Aged Lager,0.0,0.0,American-Style Lager
+911,G.E. Lite,0.0,0.0,American-Style Lager
+912,Heritage Wheat,0.0,0.0,American-Style Lager
+913,Honey Wheat Ale,0.0,0.0,American-Style Lager
+914,Wheat Honey Ale,0.0,0.0,American-Style Lager
+915,Prairie Wheat Beer,0.0,0.0,American-Style Lager
+916,Prohibition Smokehouse Porter,0.0,0.0,American-Style Lager
+917,Haymarket Pilsner,0.0,0.0,American-Style Lager
+918,Rye Stout,0.0,0.0,American-Style Lager
+919,Pilsner,0.0,0.0,American-Style Lager
+920,Red Top Rye,0.0,0.0,American-Style Lager
+921,Mountain Wheat,0.0,0.0,American-Style Lager
+922,Wheat Hook,0.0,0.0,American-Style Lager
+923,Hefeweizen,0.0,0.0,American-Style Lager
+924,Krystal,0.0,0.0,American-Style Lager
+925,Special Export,0.0,0.0,American-Style Lager
+926,Wheat,0.0,0.0,American-Style Lager
+927,Noche Buena Special Holiday Amber Beer,0.0,0.0,American-Style Lager
+928,Summer Wheat,0.0,0.0,American-Style Lager
+929,Four Sheets Cream Ale,0.0,0.0,American-Style Lager
+930,Amber Lager,0.0,0.0,American-Style Lager
+931,Beer,0.0,0.0,American-Style Lager
+932,Weisse Beer,0.0,0.0,American-Style Lager
+933,Amber,0.0,0.0,American-Style Lager
+934,Pecan Street Lager,0.0,0.0,American-Style Lager
+935,Red Lager,0.0,0.0,American-Style Lager
+936,Yellow Rose Cream Ale,0.0,0.0,American-Style Lager
+937,Golden Wheat,0.0,0.0,American-Style Lager
+938,Pilsner,0.0,0.0,American-Style Lager
+939,Shiner Blonde,4.4,0.0,American-Style Lager
+940,Honey Wheat,0.0,0.0,American-Style Lager
+941,Lager,0.0,0.0,American-Style Lager
+942,Sun Fest,0.0,0.0,American-Style Lager
+943,Golden Bear Lager,0.0,0.0,American-Style Lager
+944,High Rollers Wheat Beer,0.0,0.0,American-Style Lager
+945,Pilsner,0.0,0.0,American-Style Lager
+946,Faller Wheat,0.0,0.0,American-Style Lager
+947,Polar Ale,0.0,0.0,American-Style Lager
+948,Endless Summer Cream Ale,0.0,0.0,American-Style Lager
+949,Amber Lager,0.0,0.0,American-Style Lager
+950,HefeWeizen,0.0,0.0,American-Style Lager
+951,Summer Brau,0.0,0.0,American-Style Lager
+952,Sun Fest,0.0,0.0,American-Style Lager
+953,Wheaten Ale,0.0,0.0,American-Style Lager
+954,Honey Weizen,0.0,0.0,American-Style Lager
+955,Copper Wheat,0.0,0.0,American-Style Lager
+956,Honey Wheat,3.9,0.0,American-Style Lager
+957,Weizen,0.0,0.0,American-Style Lager
+958,Bohemia ClÃ¡sica,0.0,0.0,American-Style Lager
+959,Port Royal Export,0.0,0.0,American-Style Lager
+960,Lone Star,0.0,0.0,American-Style Lager
+961,Cabro Extra,0.0,0.0,American-Style Lager
+962,Carta Blanca,0.0,0.0,American-Style Lager
+963,Flying Horse Royal Lager Beer,0.0,0.0,American-Style Lager
+964,Red Sky Amber Lager,0.0,0.0,American-Style Lager
+965,Moonset Lager,0.0,0.0,American-Style Lager
+966,Ice,0.0,0.0,American-Style Lager
+967,Poi Dog Wheat,0.0,0.0,American-Style Lager
+968,Dark Wheat,0.0,0.0,American-Style Lager
+969,Summer Wheat,0.0,0.0,American-Style Lager
+970,Draft,0.0,0.0,American-Style Lager
+971,Three Stooges Beer,0.0,0.0,American-Style Lager
+972,Storm Super Premium Malt Liquor,10.0,0.0,American-Style Lager
+973,Rye,0.0,0.0,American-Style Lager
+974,Honey Weizen,0.0,0.0,American-Style Lager
+975,Black Jack Black and Tan,0.0,0.0,American-Style Lager
+976,Osage Golden Wheat Ale,0.0,0.0,American-Style Lager
+977,Wheaten Ale,0.0,0.0,American-Style Lager
+978,Harvest Wheat,0.0,0.0,American-Style Lager
+979,Yellow Rose Cream Ale,0.0,0.0,American-Style Lager
+980,Hefe Weizen,0.0,0.0,American-Style Lager
+981,Red Stripe Lager Beer,0.0,0.0,American-Style Lager
+982,Cass Fresh,0.0,0.0,American-Style Lager
+983,Hinano,5.0,0.0,American-Style Lager
+984,Hefeweizen,0.0,0.0,American-Style Lager
+985,Weizen,0.0,0.0,American-Style Lager
+986,Mountain Wheat,0.0,0.0,American-Style Lager
+987,Old Powerhouse Lager (discontinued),0.0,0.0,American-Style Lager
+988,Bavarian Lager,5.0,0.0,American-Style Lager
+989,Summer Honey Seasonal Ale,0.0,0.0,American-Style Lager
+990,Totally Naked,4.2,0.0,American-Style Lager
+991,Edel-Pils,0.0,0.0,American-Style Lager
+992,Z Lager,0.0,0.0,American-Style Lager
+993,#17 Cream Ale,0.0,0.0,American-Style Lager
+994,Mountain Lager,4.5,0.0,American-Style Lager
+995,Zoigl Star Lager,5.9,0.0,American-Style Lager
+996,Yuengling Lager,4.4,0.0,American-Style Lager
+997,Yuengling Premium Beer,4.4,0.0,American-Style Lager
+998,Throwback Lager,5.4,0.0,American-Style Lager
+999,Victory Lager,4.8,0.0,American-Style Lager
+1000,St. Victorious,7.6,0.0,American-Style Lager
+1001,Coors Extra Gold Lager,5.0,0.0,American-Style Lager
+1002,Molson Canadian,5.0,0.0,American-Style Lager
+1003,Killian's Irish Red,4.9,0.0,American-Style Lager
+1004,Spruce Creek Lager,4.8,0.0,American-Style Lager
+1005,Spring Creek Lager,5.2,0.0,American-Style Lager
+1006,Labatt Blue,4.7,0.0,American-Style Lager
+1007,Labatt Ice,5.6,0.0,American-Style Lager
+1008,Labatt Crystal,5.0,0.0,American-Style Lager
+1009,Labatt Extra Dry,5.5,0.0,American-Style Lager
+1010,Genuine Lager,5.0,0.0,American-Style Lager
+1011,Genuine Honey Lager,5.0,0.0,American-Style Lager
+1012,Labatt Wildcat,4.9,0.0,American-Style Lager
+1013,Penn Gold,4.0,0.0,American-Style Lager
+1014,Augustiner,4.3,0.0,American-Style Lager
+1015,Stoudt's Gold Lager,4.7,0.0,American-Style Lager
+1016,Old Milwaukee,4.6,0.0,American-Style Lager
+1017,Spring Bock,6.5,0.0,American-Style Lager
+1018,Amigo Lager,5.0,0.0,American-Style Lager
+1019,Wild Rice Lager,0.0,0.0,American-Style Lager
+1020,Samuel Adams Boston Lager,4.75,0.0,American-Style Lager
+1021,Harp Lager,5.0,0.0,American-Style Lager
+1022,Gull Classic,5.5,0.0,American-Style Lager
+1023,Stella Artois,5.2,0.0,American-Style Lager
+1024,Forty-Niner Gold Lager,4.5,0.0,American-Style Lager
+1025,Haywords 5000,7.5,0.0,American-Style Lager
+1026,Brewhouse Lager,4.5,0.0,American-Style Lager
+1027,Flywheel Bright Lager,5.0,0.0,American-Style Lager
+1028,Fauerbach Export,0.0,0.0,American-Style Lager
+1029,Esser's Best,0.0,0.0,American-Style Lager
+1030,Imperial Czech Premium Lager,0.0,0.0,American-Style Lager
+1031,Moosehead Lager,5.0,0.0,American-Style Lager
+1032,Standing Stone Lager,0.0,0.0,American-Style Lager
+1033,River Horse Lager,5.0,0.0,American-Style Lager
+1034,Baltika #5,5.3,0.0,American-Style Lager
+1035,Baltika #9,8.0,0.0,American-Style Lager
+1036,Olde Buzzard Lager,5.0,0.0,American-Style Lager
+1037,Haywards 5000,7.5,0.0,American-Style Lager
+1038,Peroni Nastro Azzurro,5.1,0.0,American-Style Lager
+1039,Haywards Black,8.0,0.0,American-Style Lager
+1040,Foster's Lager Beer,4.9,0.0,American-Style Lager
+1041,Royal Challenge,5.0,0.0,American-Style Lager
+1042,Knock Out,8.0,0.0,American-Style Lager
+1043,Haywards 2000,7.5,0.0,American-Style Lager
+1044,Lightner Creek Lager,0.0,0.0,American-Style Lager
+1045,Wasatch 1st Amendment Lager,4.0,0.0,American-Style Lager
+1046,Buffalo Lager,4.8,0.0,American-Style Lager
+1047,Peroni,5.1,0.0,American-Style Lager
+1048,Blackened Voodoo,5.0,0.0,American-Style Lager
+1049,Howl,4.6,0.0,American-Style Lager
+1050,Grain Belt,4.6,0.0,American-Style Lager
+1051,Hop Rocker,5.5,0.0,American-Style Lager
+1052,Farmer's Tan Imperial Pale Lager,9.0,0.0,American-Style Lager
+1053,Abita Golden,0.0,0.0,American-Style Lager
+1054,Cutthroat Porter,4.8,0,Porter
+1055,Porter,0.0,0,Porter
+1056,Big Shot Seasonal Ale,0.0,0,Porter
+1057,Carnegie Stark-Porter,5.5,0,Porter
+1058,Troll Porter,0.0,0,Porter
+1059,Nitro Porter,0.0,0,Porter
+1060,Okocim Porter,8.3,0,Porter
+1061,Certified Organic Porter,5.5,0,Porter
+1062,Black Jack Porter,0.0,0,Porter
+1063,Porter,8.0,0,Porter
+1064,NÃ¸gne Ã˜ Porter,7.0,0,Porter
+1065,Porter,0.0,0,Porter
+1066,Zone 7 Porter,3.8,0,Porter
+1067,Penalty Shot Porter,5.8,0,Porter
+1068,P.M. Porter,6.4,0,Porter
+1069,Bully! Porter,5.4,0,Porter
+1070,Planet Porter / Boulder Porter,5.5,0,Porter
+1071,Old Growler,6.5,0,Porter
+1072,Monkey Wrench Dark Ale,5.3,0,Porter
+1073,London Porter,6.5,0,Porter
+1074,Imperial Porter,0.0,0,Porter
+1075,Old Engine Oil,6.0,0,Porter
+1076,Old Slug Porter,4.5,0,Porter
+1077,Porter,7.1,0,Porter
+1078,Nightmare,5.0,0,Porter
+1079,Huusbier Schwarz,4.5,0,Porter
+1080,Old Sullivan Porter,0.0,0,Porter
+1081,Nightwatch Dark Ale,5.5,0,Porter
+1082,Coal Creek Porter,0.0,0,Porter
+1083,Perseus Porter,5.4,0,Porter
+1084,Porter,0.0,0,Porter
+1085,Possession Porter,5.6,0,Porter
+1086,Porter,5.8,0,Porter
+1087,Highwater Porter,6.0,0,Porter
+1088,Porter,5.9,0,Porter
+1089,Mudshark Porter,0.0,0,Porter
+1090,Blacktop Porter,0.0,0,Porter
+1091,Puget Porter,0.0,0,Porter
+1092,Porter,0.0,0,Porter
+1093,Princess of Darkness Porter,4.6,0,Porter
+1094,Porter,0.0,0,Porter
+1095,Old-Style Porter,5.1,0,Porter
+1096,Masterpiece Porter,0.0,0,Porter
+1097,Pig Iron Porter,0.0,0,Porter
+1098,Burntwood Black Ale,0.0,0,Porter
+1099,Porter,0.0,0,Porter
+1100,Princess of Darkness Porter,5.4,0,Porter
+1101,Pioneer Peak Porter,4.3,0,Porter
+1102,Ironhead Porter Old No. 3,6.0,0,Porter
+1103,Irvington Porter,0.0,0,Porter
+1104,Peak One Porter,0.0,0,Porter
+1105,Black Sand Porter,0.0,0,Porter
+1106,Powell Porter,0.0,0,Porter
+1107,Big Island Porter,0.0,0,Porter
+1108,Cork Brown Ale,0.0,0,Porter
+1109,Dundee Porter,0.0,0,Porter
+1110,Lava Rock Porter,7.0,0,Porter
+1111,Three Threads Porter,0.0,0,Porter
+1112,Point Loma Porter,0.0,0,Porter
+1113,Mission Gorge Porter,0.0,0,Porter
+1114,Smoked Porter,5.9,0,Porter
+1115,Bottle Conditioned Porter,5.5,0,Porter
+1116,Porter Boom,8.0,0,Porter
+1117,Port Washington Old Port Porter,0.0,0,Porter
+1118,Black Hook Porter,0.0,0,Porter
+1119,Princess of Darkness Porter,0.0,0,Porter
+1120,Chief Blackhawk Porter,5.6,0,Porter
+1121,Porter,0.0,0,Porter
+1122,Porter,0.0,0,Porter
+1123,Dark Star,0.0,0,Porter
+1124,Porter,6.0,0,Porter
+1125,Poplar Porter,0.0,0,Porter
+1126,Ponchartrain Porter,0.0,0,Porter
+1127,Winter Porter,0.0,0,Porter
+1128,Donner Party Porter,6.7,0,Porter
+1129,Porter,0.0,0,Porter
+1130,Lazy Jake Porter,0.0,0,Porter
+1131,Packs A Punch Porter,0.0,0,Porter
+1132,Gust-N-Gale Porter,0.0,0,Porter
+1133,Not Tonight Honey Porter,6.5,0,Porter
+1134,Workhorse Porter,0.0,0,Porter
+1135,Porter,0.0,0,Porter
+1136,Black Earth Porter,0.0,0,Porter
+1137,St. Edmunds Strong Porter,0.0,0,Porter
+1138,North of the Border Porter,6.0,0,Porter
+1139,Porter,0.0,0,Porter
+1140,Palace Porter,0.0,0,Porter
+1141,Titan Porter,0.0,0,Porter
+1142,McBride Porter,0.0,0,Porter
+1143,Black Earth Porter,0.0,0,Porter
+1144,Steelhead Scotch Porter,0.0,0,Porter
+1145,Titan Porter,0.0,0,Porter
+1146,Black Butte Porter,5.2,0,Porter
+1147,Black Irish Plain Porter,0.0,0,Porter
+1148,Promethean Porter,0.0,0,Porter
+1149,Alpenhof Baltic Porter,0.0,0,Porter
+1150,Calumet Dark,0.0,0.0,Porter
+1151,Badger Porter,0.0,0.0,Porter
+1152,Killer Beer Dark Honey Ale,0.0,0.0,Porter
+1153,Port Clinton Porter,0.0,0.0,Porter
+1154,Palpitations Porter,0.0,0.0,Porter
+1155,Dark Star,0.0,0.0,Porter
+1156,Burton Porter,0.0,0.0,Porter
+1157,Porter,0.0,0.0,Porter
+1158,Dark,0.0,0.0,Porter
+1159,Blackbird Porter,0.0,0.0,Porter
+1160,Cold Cock Porter (discontinued),0.0,0.0,Porter
+1161,Pacific Porter,0.0,0.0,Porter
+1162,Dark,0.0,0.0,Porter
+1163,Storm Cellar Porter,5.7,0.0,Porter
+1164,Coal Porter,0.0,0.0,Porter
+1165,Limestone English Style Porter (discontinued),0.0,0.0,Porter
+1166,34th Street Porter,0.0,0.0,Porter
+1167,Cole Porter,0.0,0.0,Porter
+1168,Road Dog Ale,6.0,0.0,Porter
+1169,Stealth Dark Ale,0.0,0.0,Porter
+1170,Porter,0.0,0.0,Porter
+1171,Yuletide Porter,0.0,0.0,Porter
+1172,Rosed Porter,0.0,0.0,Porter
+1173,Thomas Kemper Porter,0.0,0.0,Porter
+1174,Porter,0.0,0.0,Porter
+1175,4868 Dark Wheat,0.0,0.0,Porter
+1176,Pau Hana Porter,0.0,0.0,Porter
+1177,Special Reserve Anniversary Porter,0.0,0.0,Porter
+1178,Porter,0.0,0.0,Porter
+1179,Organic Porter,0.0,0.0,Porter
+1180,Blacksmith Porter,0.0,0.0,Porter
+1181,Barking Fish Porter,0.0,0.0,Porter
+1182,Texas Special 101 Porter,0.0,0.0,Porter
+1183,Famous Porter,0.0,0.0,Porter
+1184,Charles River Porter,6.0,0.0,Porter
+1185,Porter,0.0,0.0,Porter
+1186,Porter,0.0,0.0,Porter
+1187,Deep Enders Dark,0.0,0.0,Porter
+1188,Porter,0.0,0.0,Porter
+1189,Irish Porter (discontinued),0.0,0.0,Porter
+1190,Dead Reckoning Porter,5.8,0.0,Porter
+1191,Moose Drool Brown Ale,5.3,0.0,Porter
+1192,Pennypacker Porter,5.4,0.0,Porter
+1193,Coconut Porter,0.0,0.0,Porter
+1194,Yuengling Porter,4.7,0.0,Porter
+1195,Rye Porter,0.0,0.0,Porter
+1196,Black Hole,7.0,0.0,Porter
+1197,Imperial Espresso Porter,8.0,0.0,Porter
+1198,General Pippo's Porter,5.5,0.0,Porter
+1199,Gonzo Imperial Porter,7.8,0.0,Porter
+1200,Ipswich Porter,5.9,0.0,Porter
+1201,Samuel Adams Holiday Porter,5.8,0.0,Porter
+1202,Raspberry Porter,0.0,0.0,Porter
+1203,Samuel Adams Honey Porter,0.0,0.0,Porter
+1204,Alaskan Smoked Porter,6.5,0.0,Porter
+1205,Pullman Porter,0.0,0.0,Porter
+1206,Baltic Porter,7.5,0.0,Porter
+1207,Shoo-Fly Porter,6.0,0.0,Porter
+1208,Oak-Aged Imperial Chocolate Pumpkin Porter,7.8,0.0,Porter
+1209,Big Nasty Porter,6.4,0.0,Porter
+1210,Hellsmoke Porter,5.7,0.0,Porter
+1211,Estes Park Porter,4.6,0.0,Porter
+1212,Dundee Porter,6.5,0.0,Porter
+1213,Potbelly Porter,0.0,0.0,Porter
+1214,Brigantine Smoked Porter,8.54,0.0,Porter
+1215,Maui Coconut Porter,5.7,0.0,Porter
+1216,King's Peak Porter,4.0,0.0,Porter
+1217,Alpha Klaus Xmas Porter,7.5,0.0,Porter
+1218,Duck-Rabbit Porter,5.7,0.0,Porter
+1219,Meantime Coffee,6.0,0.0,Porter
+1220,Pearl Street Porter,0.0,0.0,Porter
+1221,Exodus Porter,0.0,0.0,Porter
+1222,State Pen Porter,6.4,0.0,Porter
+1223,Benchwarmer Porter,6.4,0.0,Porter
+1224,Black Toad Dark Ale,0.0,0.0,Porter
+1225,Puget Brown Porter,5.6,0.0,Porter
+1226,Petrified Porter,0.0,0.0,Porter
+1227,Black Butte XXI,11.0,0.0,Porter
+1228,Red Brick Double Chocolate Oatmeal Porter,7.7,0.0,Porter
+1229,BackDraft Chocolate Porter,0.0,0.0,Porter
+1230,(512) Pecan Porter,6.8,0.0,Porter
+1231,(512) Whiskey Barrel Aged Double Pecan Porter,8.2,0.0,Porter
+1232,Captin Lawrence Smoked Porter,6.4,0.0,Porter
+1233,Silk Porter,6.2,0.0,Porter
+1234,Paradise Porter,4.99,0.0,Porter
+1235,Maple Nut Brown Ale Ale,0.0,0,American-Style Brown Ale
+1236,Winter Cheer,0.0,0,American-Style Brown Ale
+1237,Maracaibo Especial,7.5,0,American-Style Brown Ale
+1238,Bender Beer,5.1,0,American-Style Brown Ale
+1239,Brunette Nut Brown Ale,0.0,0,American-Style Brown Ale
+1240,Warm Welcome Nut Browned Ale,6.0,0,American-Style Brown Ale
+1241,Buzzsaw Brown,4.8,0,American-Style Brown Ale
+1242,Danger Ale,5.2,0,American-Style Brown Ale
+1243,Steelie Brown Ale,0.0,0,American-Style Brown Ale
+1244,Beer Town Brown,0.0,0,American-Style Brown Ale
+1245,NÃ¸gne Ã˜ Brown Ale,4.5,0,American-Style Brown Ale
+1246,Lunar Ale,5.1,0,American-Style Brown Ale
+1247,Ironwood Dark,0.0,0,American-Style Brown Ale
+1248,Nutty Brewnette,5.9,0,American-Style Brown Ale
+1249,Bison Brown Ale,0.0,0,American-Style Brown Ale
+1250,Harvest Brown,0.0,0,American-Style Brown Ale
+1251,Altbier,0.0,0,American-Style Brown Ale
+1252,Brotherhood Black & Tan,0.0,0,American-Style Brown Ale
+1253,Nut Brown Ale,0.0,0,American-Style Brown Ale
+1254,Downtown Brown,0.0,0,American-Style Brown Ale
+1255,Pelican Bay Brown,0.0,0,American-Style Brown Ale
+1256,Wilsteraner Altbier,5.6,0,American-Style Brown Ale
+1257,Brown Ale,5.6,0,American-Style Brown Ale
+1258,Nut Brown,4.3,0,American-Style Brown Ale
+1259,Amber Ale,5.1,0,American-Style Brown Ale
+1260,Skagit Brown Ale,4.8,0,American-Style Brown Ale
+1261,Nut Brown Ale,0.0,0,American-Style Brown Ale
+1262,Bugeater Brown Ale,4.4,0,American-Style Brown Ale
+1263,Sticke,6.0,0,American-Style Brown Ale
+1264,Alt,4.5,0,American-Style Brown Ale
+1265,Rapidan Brown,0.0,0,American-Style Brown Ale
+1266,Mild Brown,0.0,0,American-Style Brown Ale
+1267,Nut Brown Ale,4.2,0,American-Style Brown Ale
+1268,Amber,0.0,0,American-Style Brown Ale
+1269,Otis Alt,5.3,0,American-Style Brown Ale
+1270,Buccaneer Brown Ale,0.0,0,American-Style Brown Ale
+1271,Four Alarm Alt,4.8,0,American-Style Brown Ale
+1272,Nut Brown Ale,5.2,0,American-Style Brown Ale
+1273,Autumn Ale,6.7,0,American-Style Brown Ale
+1274,Alt-Er-Ego Amber,5.0,0,American-Style Brown Ale
+1275,Nut Brown,0.0,0,American-Style Brown Ale
+1276,Uptown Brown,0.0,0,American-Style Brown Ale
+1277,Old Town Nut Brown,0.0,0,American-Style Brown Ale
+1278,Brown Ale,0.0,0,American-Style Brown Ale
+1279,Downtown After Dark,12.0,0,American-Style Brown Ale
+1280,Burly Brown Ale,0.0,0,American-Style Brown Ale
+1281,Red Cedar Red,0.0,0,American-Style Brown Ale
+1282,Toasted Oats & Molasses Brown Ale,0.0,0,American-Style Brown Ale
+1283,Downtown Brown,5.0,0,American-Style Brown Ale
+1284,English Brown Ale (discontinued),0.0,0,American-Style Brown Ale
+1285,Alt,0.0,0,American-Style Brown Ale
+1286,Altbier,0.0,0,American-Style Brown Ale
+1287,Foxy Brown,0.0,0,American-Style Brown Ale
+1288,Gritstone Premium Ale,0.0,0,American-Style Brown Ale
+1289,Northumbrian Brown Ale,0.0,0,American-Style Brown Ale
+1290,Alt,4.8,0,American-Style Brown Ale
+1291,Alt,0.0,0,American-Style Brown Ale
+1292,Alt,4.6,0,American-Style Brown Ale
+1293,Altbier,0.0,0,American-Style Brown Ale
+1294,Alt,0.0,0,American-Style Brown Ale
+1295,Capital Brown Ale,0.0,0,American-Style Brown Ale
+1296,Nut Brown Ale,0.0,0,American-Style Brown Ale
+1297,Esker Alt,0.0,0,American-Style Brown Ale
+1298,Black River Brown,0.0,0,American-Style Brown Ale
+1299,Log Cabin Nut Brown,0.0,0,American-Style Brown Ale
+1300,Bison Brown,5.0,0,American-Style Brown Ale
+1301,British Nut Brown,0.0,0,American-Style Brown Ale
+1302,Brown,0.0,0,American-Style Brown Ale
+1303,Mullin Brown,4.8,0,American-Style Brown Ale
+1304,Brown Trout Brown,0.0,0,American-Style Brown Ale
+1305,Big Horn Nut Brown Ale,0.0,0,American-Style Brown Ale
+1306,Jubilate Special Reserve Anniversary Ale,0.0,0,American-Style Brown Ale
+1307,Ãœber-Sticke Altbier,0.0,0,American-Style Brown Ale
+1308,Third Stone Brown,0.0,0,American-Style Brown Ale
+1309,Boxcar Brown Ale,0.0,0,American-Style Brown Ale
+1310,Griffon Brown Ale,0.0,0,American-Style Brown Ale
+1311,Nut Brown Ale,4.8,0,American-Style Brown Ale
+1312,Nut Brown Ale,0.0,0,American-Style Brown Ale
+1313,Nut Brown Ale,0.0,0,American-Style Brown Ale
+1314,Saint Arnold Brown Ale,5.3,0.0,American-Style Brown Ale
+1315,Brown Ale,0.0,0.0,American-Style Brown Ale
+1316,Traditional Ale,5.0,0.0,American-Style Brown Ale
+1317,Chubby Brown,8.0,0.0,American-Style Brown Ale
+1318,Nut Brown,0.0,0.0,American-Style Brown Ale
+1319,Honey Brown Ale,0.0,0.0,American-Style Brown Ale
+1320,Alt,4.9,0.0,American-Style Brown Ale
+1321,Geordie Brown Ale,0.0,0.0,American-Style Brown Ale
+1322,Nut Brown Ale,0.0,0.0,American-Style Brown Ale
+1323,Eccentric Ale,0.0,0.0,American-Style Brown Ale
+1324,Nut Brown Ale,0.0,0.0,American-Style Brown Ale
+1325,Wintertime Ale 1992,0.0,0.0,American-Style Brown Ale
+1326,Magic Brew,0.0,0.0,American-Style Brown Ale
+1327,Brown Ale,0.0,0.0,American-Style Brown Ale
+1328,Beachballs Red Ale,0.0,0.0,American-Style Brown Ale
+1329,Buffalo Nutty Brown,0.0,0.0,American-Style Brown Ale
+1330,Christmas Ale,0.0,0.0,American-Style Brown Ale
+1331,Nut Brown Ale,0.0,0.0,American-Style Brown Ale
+1332,Brown Ale,0.0,0.0,American-Style Brown Ale
+1333,Dusseldorf-Style Altbier,0.0,0.0,American-Style Brown Ale
+1334,Brown,0.0,0.0,American-Style Brown Ale
+1335,Downtown Brown,0.0,0.0,American-Style Brown Ale
+1336,Bull Town Brown,0.0,0.0,American-Style Brown Ale
+1337,Double Eagle Brown Ale,0.0,0.0,American-Style Brown Ale
+1338,Big Bertha Brown,0.0,0.0,American-Style Brown Ale
+1339,Nut Brown Ale,0.0,0.0,American-Style Brown Ale
+1340,Brown Bear Brown Ale,0.0,0.0,American-Style Brown Ale
+1341,Brown Bear Ale,0.0,0.0,American-Style Brown Ale
+1342,Alexander Alt,0.0,0.0,American-Style Brown Ale
+1343,Best Brown,0.0,0.0,American-Style Brown Ale
+1344,Alt Bier,0.0,0.0,American-Style Brown Ale
+1345,Brown Ale,5.6,0.0,American-Style Brown Ale
+1346,Ehu Ale,0.0,0.0,American-Style Brown Ale
+1347,Ironhorse Not Brown,0.0,0.0,American-Style Brown Ale
+1348,Big Kahuna Brown,0.0,0.0,American-Style Brown Ale
+1349,Acme California Brown Ale,5.6,0.0,American-Style Brown Ale
+1350,Bulldog Brown,0.0,0.0,American-Style Brown Ale
+1351,Bad Bear Brown,0.0,0.0,American-Style Brown Ale
+1352,Da Bier Altbier,0.0,0.0,American-Style Brown Ale
+1353,Wintertime Ale,0.0,0.0,American-Style Brown Ale
+1354,Maple Nut Brown,0.0,0.0,American-Style Brown Ale
+1355,Sod House Altbier,0.0,0.0,American-Style Brown Ale
+1356,Beaver Tail Brown Ale,0.0,0.0,American-Style Brown Ale
+1357,Fat Squirrel Nut Brown Ale,5.8,0.0,American-Style Brown Ale
+1358,Trail Blaze Organic Brown Ale,5.3,0.0,American-Style Brown Ale
+1359,Nut Brown Ale,0.0,0.0,American-Style Brown Ale
+1360,Nut Brown Ale,5.0,0.0,American-Style Brown Ale
+1361,Nut Brown Ale,3.2,0.0,American-Style Brown Ale
+1362,Indian Brown Ale,7.2,0.0,American-Style Brown Ale
+1363,Ipswich Dark Ale,6.3,0.0,American-Style Brown Ale
+1364,Ipswich Nut Brown,5.5,0.0,American-Style Brown Ale
+1365,American-Style Brown Ale,5.0,0.0,American-Style Brown Ale
+1366,Samuel Adams Brown Ale,5.35,0.0,American-Style Brown Ale
+1367,Village Nut Brown Ale,6.0,0.0,American-Style Brown Ale
+1368,Climax Nut Brown Ale,5.2,0.0,American-Style Brown Ale
+1369,Sacramento Nut Brown Ale,5.4,0.0,American-Style Brown Ale
+1370,Thunder Hole Ale,4.8,0.0,American-Style Brown Ale
+1371,Wynona's Big Brown Ale,7.3,0.0,American-Style Brown Ale
+1372,American Brown Ale,6.5,0.0,American-Style Brown Ale
+1373,Flashback Anniversary Ale,6.8,0.0,American-Style Brown Ale
+1374,Duck-Rabbit Brown Ale,5.6,0.0,American-Style Brown Ale
+1375,Tailgate Brown Ale,5.9,0.0,American-Style Brown Ale
+1376,Colorado Trail Nut Brown Ale,0.0,0.0,American-Style Brown Ale
+1377,Santa Fe Nut Brown,5.2,0.0,American-Style Brown Ale
+1378,Doryman's Dark Ale,5.8,0.0,American-Style Brown Ale
+1379,India Style Brown Ale,6.0,0.0,American-Style Brown Ale
+1380,Bear Tooth Ale,6.2,0.0,American-Style Brown Ale
+1381,Maduro Oatmeal Brown Ale,5.5,0.0,American-Style Brown Ale
+1382,(512) Bruin,7.6,0.0,American-Style Brown Ale
+1383,Brown Bird Brown Ale,4.8,0.0,American-Style Brown Ale
+1384,Christmas Ale,5.5,38.0,American-Style Brown Ale
+1385,Imperial Nut Brown,9.8,0.0,American-Style Brown Ale
+1386,Dos Perros,3.5,21.0,American-Style Brown Ale
+1387,Quelque Chose,8.0,0,Belgian-Style Fruit Lambic
+1388,CuvÃ©e des Champions 2003-2004,0.0,0,Belgian-Style Fruit Lambic
+1389,Classic Gueuze,0.0,0,Belgian-Style Fruit Lambic
+1390,Gueuze-Lambic,6.5,0,Belgian-Style Fruit Lambic
+1391,Gueuze Bio / Organic Gueuze,0.0,0,Belgian-Style Fruit Lambic
+1392,Bruocsella 1900 Grand Cru,0.0,0,Belgian-Style Fruit Lambic
+1393,Oude Gueuze Vielle,0.0,0,Belgian-Style Fruit Lambic
+1394,Gueuze 1882,5.0,0,Belgian-Style Fruit Lambic
+1395,Pseudo Lambic Framboise,0.0,0,Belgian-Style Fruit Lambic
+1396,Geuze Boon,6.0,0,Belgian-Style Fruit Lambic
+1397,CuvÃ©e RenÃ© Grand Cru Gueuze Lambic,0.0,0,Belgian-Style Fruit Lambic
+1398,Iris,0.0,0,Belgian-Style Fruit Lambic
+1399,RosÃ© de Gambrinus,0.0,0,Belgian-Style Fruit Lambic
+1400,Oude Kriek,0.0,0,Belgian-Style Fruit Lambic
+1401,Kriek-Lambic,0.0,0,Belgian-Style Fruit Lambic
+1402,Summer Gueuze,0.0,0,Belgian-Style Fruit Lambic
+1403,Double Gueuze (discontinued),0.0,0,Belgian-Style Fruit Lambic
+1404,Liefmans Kriekbier,6.0,0,Belgian-Style Fruit Lambic
+1405,Oude Gueuze,0.0,0,Belgian-Style Fruit Lambic
+1406,Oudbeitje,0.0,0,Belgian-Style Fruit Lambic
+1407,Iambic Lambic,0.0,0,Belgian-Style Fruit Lambic
+1408,Kriek,0.0,0.0,Belgian-Style Fruit Lambic
+1409,St. Louis Gueuze,4.5,0.0,Belgian-Style Fruit Lambic
+1410,Frambozen,0.0,0.0,Belgian-Style Fruit Lambic
+1411,Mort Subite Gueuze Lambic,4.5,0.0,Belgian-Style Fruit Lambic
+1412,Samuel Adams Cranberry Lambic,5.9,0.0,Belgian-Style Fruit Lambic
+1413,Wild Blue Blueberry Lager,8.0,0.0,Belgian-Style Fruit Lambic
+1414,Watermelon Wheat,5.5,0.0,Belgian-Style Fruit Lambic
+1415,Oude Geuze,6.0,0.0,Belgian-Style Fruit Lambic
+1416,Honey-Raspberry Ale,4.4,0.0,Belgian-Style Fruit Lambic
+1417,Arizona Peach,4.0,0.0,Belgian-Style Fruit Lambic
+1418,Timmermans Forest Fruit,0.0,0.0,Belgian-Style Fruit Lambic
+1419,Timmermans Framboise,0.0,0.0,Belgian-Style Fruit Lambic
+1420,Timmermans PÃªche,0.0,0.0,Belgian-Style Fruit Lambic
+1421,Timmermans Kriek,0.0,0.0,Belgian-Style Fruit Lambic
+1422,Drie Fonteinen Kriek,5.0,0.0,Belgian-Style Fruit Lambic
+1423,Cascade Apricot Ale,9.0,0.0,Belgian-Style Fruit Lambic
+1424,Vigneronne,5.0,0.0,Belgian-Style Fruit Lambic
+1425,Cardinal Pale Ale,0.0,0,American-Style Pale Ale
+1426,Zinnebir,0.0,0,American-Style Pale Ale
+1427,Harvest Ale 2007,6.7,0,American-Style Pale Ale
+1428,Petrus Speciale,5.5,0,American-Style Pale Ale
+1429,Modern Monks Belgian Blonde,0.0,0,American-Style Pale Ale
+1430,Harvest Ale,0.0,0,American-Style Pale Ale
+1431,Sharptail Pale Ale,0.0,0,American-Style Pale Ale
+1432,India Pale Ale,0.0,0,American-Style Pale Ale
+1433,Pendle Witches Brew,5.1,0,American-Style Pale Ale
+1434,Tikka Gold,5.0,0,American-Style Pale Ale
+1435,Falcon Pale Ale,0.0,0,American-Style Pale Ale
+1436,Eisenbahn South American Pale Ale (S.A.P.A.),0.0,0,American-Style Pale Ale
+1437,American Pale Ale,0.0,0,American-Style Pale Ale
+1438,Pale Ale,0.0,0,American-Style Pale Ale
+1439,Silk Lady,4.4,0,American-Style Pale Ale
+1440,Double India Pale Ale,8.6,0,American-Style Pale Ale
+1441,Certified Organic India Pale Ale,7.0,0,American-Style Pale Ale
+1442,Export Ale,5.1,0,American-Style Pale Ale
+1443,Undercover Investigation Shut-Down Ale,9.28,0,American-Style Pale Ale
+1444,Sawtooth Ale,0.0,0,American-Style Pale Ale
+1445,Denver Pale Ale / DPA,5.4,0,American-Style Pale Ale
+1446,NÃ¸gne Ã˜ Pale Ale,6.0,0,American-Style Pale Ale
+1447,Pillar Point Pale Ale,4.6,0,American-Style Pale Ale
+1448,Pelican Pale,5.0,0,American-Style Pale Ale
+1449,Shining Star Pale Ale,5.0,0,American-Style Pale Ale
+1450,India Pale Ale,6.5,0,American-Style Pale Ale
+1451,Pale Ale,0.0,0,American-Style Pale Ale
+1452,Pleasanton Pale,5.3,0,American-Style Pale Ale
+1453,India Pale Ale,7.5,0,American-Style Pale Ale
+1454,Pale Ale,0.0,0,American-Style Pale Ale
+1455,Piranha Pale Ale,5.7,0,American-Style Pale Ale
+1456,Pale Ale,0.0,0,American-Style Pale Ale
+1457,Boulevard Pale Ale,5.4,0,American-Style Pale Ale
+1458,Prairie Pale,0.0,0,American-Style Pale Ale
+1459,English Ale,0.0,0,American-Style Pale Ale
+1460,Ripon Jewel Ale,5.8,0,American-Style Pale Ale
+1461,India Pale Ale,6.8,0,American-Style Pale Ale
+1462,Iron Fist Pale Ale,0.0,0,American-Style Pale Ale
+1463,Hop Trip Fresh Hop Pale Ale,5.5,0,American-Style Pale Ale
+1464,Fresh Hop Pale Ale,6.1,0,American-Style Pale Ale
+1465,Twisted Thistle India Pale Ale,6.1,0,American-Style Pale Ale
+1466,India Pale Ale,7.5,0,American-Style Pale Ale
+1467,India Pale Ale,0.0,0,American-Style Pale Ale
+1468,Ale Mary,6.0,0,American-Style Pale Ale
+1469,Double Bastard Ale,10.0,0,American-Style Pale Ale
+1470,Green Valley Stone Mill Pale Ale,5.5,0,American-Style Pale Ale
+1471,Clover Pale Ale,0.0,0,American-Style Pale Ale
+1472,Pale Ale,0.0,0,American-Style Pale Ale
+1473,Pale Ale,0.0,0,American-Style Pale Ale
+1474,Pale Ale,0.0,0,American-Style Pale Ale
+1475,Beacon India Pale Ale,0.0,0,American-Style Pale Ale
+1476,Traditional India Pale Ale,0.0,0,American-Style Pale Ale
+1477,Two Lions Pale Ale,0.0,0,American-Style Pale Ale
+1478,Pale Ale,0.0,0,American-Style Pale Ale
+1479,India Pale Ale,5.8,0,American-Style Pale Ale
+1480,English Bay Pale Ale,5.0,0,American-Style Pale Ale
+1481,Cartwright Pale Ale,4.3,0,American-Style Pale Ale
+1482,Hopluia,0.0,0,American-Style Pale Ale
+1483,Trademark English Pale,0.0,0,American-Style Pale Ale
+1484,Islander Pale Ale,5.0,0,American-Style Pale Ale
+1485,Prime Time Pale Ale,0.0,0,American-Style Pale Ale
+1486,Snow Melt Nitrogen Pale,0.0,0,American-Style Pale Ale
+1487,BiFrÃ¶st Winter Ale,0.0,0,American-Style Pale Ale
+1488,Elysian Fields Pale Ale,4.8,0,American-Style Pale Ale
+1489,India Pale Ale,0.0,0,American-Style Pale Ale
+1490,Pale Ale,0.0,0,American-Style Pale Ale
+1491,Imperial I.P.A.,7.2,0,American-Style Pale Ale
+1492,India Pale Ale,0.0,0,American-Style Pale Ale
+1493,N.W. Pale Ale,5.0,0,American-Style Pale Ale
+1494,I.M. Pale,0.0,0,American-Style Pale Ale
+1495,India Pale Ale,0.0,0,American-Style Pale Ale
+1496,Hammerhead Ale,0.0,0,American-Style Pale Ale
+1497,Lighthouse Ale,4.3,0,American-Style Pale Ale
+1498,Yellowjacket Pale Ale,4.5,0,American-Style Pale Ale
+1499,Imperial Pale,0.0,0,American-Style Pale Ale
+1500,India Pale Ale,6.6,0,American-Style Pale Ale
+1501,WinterFish Ale,7.5,0,American-Style Pale Ale
+1502,Wild Salmon Pale Ale,4.0,0,American-Style Pale Ale
+1503,DPA,5.1,0,American-Style Pale Ale
+1504,Frosty Frog,0.0,0,American-Style Pale Ale
+1505,Riot Ale,7.5,0,American-Style Pale Ale
+1506,Alembic Pale,5.5,0,American-Style Pale Ale
+1507,Alki Ale,0.0,0,American-Style Pale Ale
+1508,Driftwood Ale,0.0,0,American-Style Pale Ale
+1509,Double Daddy,9.5,0,American-Style Pale Ale
+1510,Poperings Hommel Ale,7.5,0,American-Style Pale Ale
+1511,Impromptu Pale Ale,5.0,0,American-Style Pale Ale
+1512,Ivanhoe,5.2,0,American-Style Pale Ale
+1513,Tip Top Pale Ale,0.0,0,American-Style Pale Ale
+1514,Kentucky Ale,0.0,0,American-Style Pale Ale
+1515,Pale Ale,0.0,0,American-Style Pale Ale
+1516,Untouchable Pale Ale,5.5,0,American-Style Pale Ale
+1517,X Extra Pale Ale,5.0,0,American-Style Pale Ale
+1518,Indica India Pale Ale,6.5,0,American-Style Pale Ale
+1519,Krooks Mill,5.3,0,American-Style Pale Ale
+1520,3C Extreme,0.0,0,American-Style Pale Ale
+1521,Bill Payer Ale / BPA,0.0,0,American-Style Pale Ale
+1522,Regiment Pale Ale,6.1,0,American-Style Pale Ale
+1523,Phoenix Pale Ale,5.5,0,American-Style Pale Ale
+1524,Pale Ale,0.0,0,American-Style Pale Ale
+1525,Hop Hazard,0.0,0,American-Style Pale Ale
+1526,Old Rogue Pale Ale,5.5,0,American-Style Pale Ale
+1527,Pale Ale,0.0,0,American-Style Pale Ale
+1528,Ironbound Ale,5.1,0,American-Style Pale Ale
+1529,Eagle Lake Pale Ale,0.0,0,American-Style Pale Ale
+1530,Derailed Ale,0.0,0,American-Style Pale Ale
+1531,XXX English Ale,6.6,0,American-Style Pale Ale
+1532,Starfire Pale Ale,6.2,0,American-Style Pale Ale
+1533,Pale Ale,0.0,0,American-Style Pale Ale
+1534,Desert Pale Ale,0.0,0,American-Style Pale Ale
+1535,American Pale Ale,5.2,0,American-Style Pale Ale
+1536,Impale Ale,0.0,0,American-Style Pale Ale
+1537,Pale,0.0,0,American-Style Pale Ale
+1538,Superhop Ale,5.6,0,American-Style Pale Ale
+1539,Tannhauser,0.0,0,American-Style Pale Ale
+1540,Pale Ale,5.5,0,American-Style Pale Ale
+1541,Singletrack Copper Ale,5.57,0,American-Style Pale Ale
+1542,India Pale Ale,0.0,0,American-Style Pale Ale
+1543,Grand Marais Pale Ale,0.0,0,American-Style Pale Ale
+1544,Patriot Pale Ale,5.2,0,American-Style Pale Ale
+1545,Pale Ale,0.0,0,American-Style Pale Ale
+1546,India Pale Ale,0.0,0,American-Style Pale Ale
+1547,Pale Ale,0.0,0,American-Style Pale Ale
+1548,Fire Rock Pale Ale,5.8,0,American-Style Pale Ale
+1549,Four Brothers Pale Ale,0.0,0,American-Style Pale Ale
+1550,Stone Pale Ale,5.4,0,American-Style Pale Ale
+1551,Pale Ale,0.0,0,American-Style Pale Ale
+1552,X-Tra Pale,0.0,0,American-Style Pale Ale
+1553,Paradise Pale Ale,4.8,0,American-Style Pale Ale
+1554,India Pale Ale,0.0,0,American-Style Pale Ale
+1555,Pale Ale,0.0,0,American-Style Pale Ale
+1556,Red Ale,0.0,0,American-Style Pale Ale
+1557,Star of India Pale Ale,0.0,0,American-Style Pale Ale
+1558,Troubadour,6.5,0,American-Style Pale Ale
+1559,Voyageur Extra Pale Ale,0.0,0,American-Style Pale Ale
+1560,Birch Wood Ale,0.0,0,American-Style Pale Ale
+1561,India Pale Ale,0.0,0,American-Style Pale Ale
+1562,Hop Pocket Ale,0.0,0,American-Style Pale Ale
+1563,Pale Ale,0.0,0,American-Style Pale Ale
+1564,Old 47 Ale,0.0,0,American-Style Pale Ale
+1565,Speciale Reserve Ale,0.0,0,American-Style Pale Ale
+1566,Scorpion Pale Ale,0.0,0,American-Style Pale Ale
+1567,Pioneer Pale Ale (discontinued),0.0,0,American-Style Pale Ale
+1568,Cat Tail Pale Ale,0.0,0,American-Style Pale Ale
+1569,American Pale Ale,0.0,0,American-Style Pale Ale
+1570,Old Roundout Pale Ale,0.0,0,American-Style Pale Ale
+1571,Pale Ale,0.0,0,American-Style Pale Ale
+1572,Hopfenkopf,0.0,0,American-Style Pale Ale
+1573,India Pale Ale,0.0,0,American-Style Pale Ale
+1574,Pale Ale,0.0,0,American-Style Pale Ale
+1575,Salmon Tail Pale Ale,0.0,0,American-Style Pale Ale
+1576,Bee Sting Honey Ale,5.9,0,American-Style Pale Ale
+1577,Third Coast Ale,0.0,0,American-Style Pale Ale
+1578,Manifesto Pale Ale,5.3,0,American-Style Pale Ale
+1579,Premium Ale,0.0,0,American-Style Pale Ale
+1580,Z.P.A. India Pale Ale,0.0,0,American-Style Pale Ale
+1581,Category 5 Strong Ale,0.0,0,American-Style Pale Ale
+1582,Cream City Pale Ale,0.0,0,American-Style Pale Ale
+1583,Bower City Pale Ale,0.0,0,American-Style Pale Ale
+1584,Pale Ale,5.8,0,American-Style Pale Ale
+1585,Two-Hearted Ale,0.0,0,American-Style Pale Ale
+1586,Pale Ale,5.0,0,American-Style Pale Ale
+1587,Pick Axe Pale Ale,0.0,0,American-Style Pale Ale
+1588,Hazed & Infused Dry-Hopped Ale,4.85,0,American-Style Pale Ale
+1589,Grist Mill Golden,0.0,0,American-Style Pale Ale
+1590,Brogen Meadow Pale Ale,0.0,0,American-Style Pale Ale
+1591,Indiana Pale Ale,0.0,0,American-Style Pale Ale
+1592,Sunset Red Ale,5.0,0,American-Style Pale Ale
+1593,Bengal Gold India Pale Ale,0.0,0,American-Style Pale Ale
+1594,Pale Ale,0.0,0,American-Style Pale Ale
+1595,Old Glory American Pale Ale,0.0,0,American-Style Pale Ale
+1596,Pirate Pale,0.0,0,American-Style Pale Ale
+1597,Hop Garden Pale Ale,0.0,0,American-Style Pale Ale
+1598,Altruistic American Ale,0.0,0,American-Style Pale Ale
+1599,India Pale Ale,5.2,0,American-Style Pale Ale
+1600,New Hops Ale,0.0,0,American-Style Pale Ale
+1601,Schmitz Pale Ale No. 5,4.5,0,American-Style Pale Ale
+1602,Pale Pale Boss Ale,4.8,0,American-Style Pale Ale
+1603,James Squire India Pale Ale,0.0,0,American-Style Pale Ale
+1604,Saint Peter Pale Ale,0.0,0,American-Style Pale Ale
+1605,Pantown Pale Ale,0.0,0,American-Style Pale Ale
+1606,Star of India India Pale Ale,0.0,0,American-Style Pale Ale
+1607,Gnaw Bone Pale Ale,5.5,0,American-Style Pale Ale
+1608,Fenway American Pale Ale,0.0,0,American-Style Pale Ale
+1609,India Pale Ale,0.0,0,American-Style Pale Ale
+1610,Red Rooster Pale Ale,0.0,0,American-Style Pale Ale
+1611,"Pale Ale \Ã¡ la Bushner\""""",0.0,0,American-Style Pale Ale
+1612,Prairie Thunder Pale Ale,0.0,0,American-Style Pale Ale
+1613,Pale Ale,0.0,0,American-Style Pale Ale
+1614,Brown Fox Ale,0.0,0,American-Style Pale Ale
+1615,American Pale Ale,5.2,0,American-Style Pale Ale
+1616,Panama Limited Red Ale,0.0,0,American-Style Pale Ale
+1617,Jamaica Brand Red Ale,0.0,0,American-Style Pale Ale
+1618,India Pale Ale,0.0,0.0,American-Style Pale Ale
+1619,Paddy Pale Ale,0.0,0.0,American-Style Pale Ale
+1620,Extra Pale Ale,5.4,0.0,American-Style Pale Ale
+1621,Hidden River Red Ale,0.0,0.0,American-Style Pale Ale
+1622,Founders Light,0.0,0.0,American-Style Pale Ale
+1623,Prime I.P.A.,0.0,0.0,American-Style Pale Ale
+1624,Very Pale Ale,0.0,0.0,American-Style Pale Ale
+1625,Aurora Amber Ale,0.0,0.0,American-Style Pale Ale
+1626,Golden Light,0.0,0.0,American-Style Pale Ale
+1627,Old Glory American Pale,0.0,0.0,American-Style Pale Ale
+1628,Ale,0.0,0.0,American-Style Pale Ale
+1629,Panther Ale,0.0,0.0,American-Style Pale Ale
+1630,Country Ale,0.0,0.0,American-Style Pale Ale
+1631,Chicago Fire,0.0,0.0,American-Style Pale Ale
+1632,India Pale Ale,0.0,0.0,American-Style Pale Ale
+1633,Bubbaganoush Pale Ale,0.0,0.0,American-Style Pale Ale
+1634,Albino Rhino (discontinued),0.0,0.0,American-Style Pale Ale
+1635,Buzzard Breath (discontinued),5.0,0.0,American-Style Pale Ale
+1636,India Pale Ale,0.0,0.0,American-Style Pale Ale
+1637,Celebration Ale 1992,0.0,0.0,American-Style Pale Ale
+1638,Pale Ale,0.0,0.0,American-Style Pale Ale
+1639,Pale,0.0,0.0,American-Style Pale Ale
+1640,Independence Ale,0.0,0.0,American-Style Pale Ale
+1641,Klassic,0.0,0.0,American-Style Pale Ale
+1642,Gold Rush,4.5,0.0,American-Style Pale Ale
+1643,Gold Rush Ale,0.0,0.0,American-Style Pale Ale
+1644,Limestone Crisp-Hoppy Pale Ale (discontinued),0.0,0.0,American-Style Pale Ale
+1645,Irish Red,0.0,0.0,American-Style Pale Ale
+1646,VHB,0.0,0.0,American-Style Pale Ale
+1647,Pale Ale,0.0,0.0,American-Style Pale Ale
+1648,India Pale Ale,0.0,0.0,American-Style Pale Ale
+1649,Prohibition Pale Ale,0.0,0.0,American-Style Pale Ale
+1650,Prescription Pale,0.0,0.0,American-Style Pale Ale
+1651,Gray Whale,0.0,0.0,American-Style Pale Ale
+1652,India Ale,0.0,0.0,American-Style Pale Ale
+1653,Harvest Ale,6.5,0.0,American-Style Pale Ale
+1654,East India Pale Ale,4.0,0.0,American-Style Pale Ale
+1655,Doggie Style Ale,0.0,0.0,American-Style Pale Ale
+1656,Pale Ale,0.0,0.0,American-Style Pale Ale
+1657,El NiÃ±o Pale Ale,0.0,0.0,American-Style Pale Ale
+1658,Scotch,8.0,0.0,American-Style Pale Ale
+1659,Premium Light,0.0,0.0,American-Style Pale Ale
+1660,Rodeo Red,0.0,0.0,American-Style Pale Ale
+1661,Icehaus Pale Ale,0.0,0.0,American-Style Pale Ale
+1662,Classic Pale,0.0,0.0,American-Style Pale Ale
+1663,Vail Pale Ale,0.0,0.0,American-Style Pale Ale
+1664,Black Dog Yellowstone Ale,0.0,0.0,American-Style Pale Ale
+1665,Classic Pale Ale,0.0,0.0,American-Style Pale Ale
+1666,Northwest Pale Ale,0.0,0.0,American-Style Pale Ale
+1667,Double Eagle Golden Ale,0.0,0.0,American-Style Pale Ale
+1668,Iron Mine Pale Ale,0.0,0.0,American-Style Pale Ale
+1669,Greenshields Pale Ale,0.0,0.0,American-Style Pale Ale
+1670,Tornado Ale,0.0,0.0,American-Style Pale Ale
+1671,Desperado Pale Ale,0.0,0.0,American-Style Pale Ale
+1672,HighFalls Indiaman Trader India Pale Export Ale,0.0,0.0,American-Style Pale Ale
+1673,India Pale Ale,0.0,0.0,American-Style Pale Ale
+1674,Pacific Ridge Pale Ale,0.0,0.0,American-Style Pale Ale
+1675,Blue Heron Pale Ale,0.0,0.0,American-Style Pale Ale
+1676,Red Tail Ale,0.0,0.0,American-Style Pale Ale
+1677,Boulder Creek Pale Ale,0.0,0.0,American-Style Pale Ale
+1678,Thompson Pale Ale,5.5,0.0,American-Style Pale Ale
+1679,Playland Pale Ale,0.0,0.0,American-Style Pale Ale
+1680,Pale,0.0,0.0,American-Style Pale Ale
+1681,DPA,0.0,0.0,American-Style Pale Ale
+1682,Pale Ale,0.0,0.0,American-Style Pale Ale
+1683,Golden,0.0,0.0,American-Style Pale Ale
+1684,Hammerhead Red,0.0,0.0,American-Style Pale Ale
+1685,Special Reserve Oatmeal Ale,0.0,0.0,American-Style Pale Ale
+1686,Golden Ale,0.0,0.0,American-Style Pale Ale
+1687,Michelob Pale Ale,0.0,0.0,American-Style Pale Ale
+1688,Anchorage Ale,0.0,0.0,American-Style Pale Ale
+1689,Mirrorpond Pale Ale,5.0,0.0,American-Style Pale Ale
+1690,The Lonely Guy India Pale Ale,0.0,0.0,American-Style Pale Ale
+1691,Cascade Golden Ale,4.5,0.0,American-Style Pale Ale
+1692,Buffalo Ale,0.0,0.0,American-Style Pale Ale
+1693,Golden Ale,0.0,0.0,American-Style Pale Ale
+1694,Tall Tale Pale Ale,4.9,0.0,American-Style Pale Ale
+1695,Independence Ale,6.7,0.0,American-Style Pale Ale
+1696,Red Oak Ale,0.0,0.0,American-Style Pale Ale
+1697,Crystal Pier Pale Ale,0.0,0.0,American-Style Pale Ale
+1698,Little Point Pale,0.0,0.0,American-Style Pale Ale
+1699,Rodeo Red,0.0,0.0,American-Style Pale Ale
+1700,Shawnee Amber Ale,0.0,0.0,American-Style Pale Ale
+1701,Mesa Pale Ale,0.0,0.0,American-Style Pale Ale
+1702,Pale,0.0,0.0,American-Style Pale Ale
+1703,Red Rooster,0.0,0.0,American-Style Pale Ale
+1704,Peregrine Pale Ale,0.0,0.0,American-Style Pale Ale
+1705,Gold Nectar,0.0,0.0,American-Style Pale Ale
+1706,Longshot American Pale Ale,0.0,0.0,American-Style Pale Ale
+1707,Sunset Ale,0.0,0.0,American-Style Pale Ale
+1708,Pale Ale,0.0,0.0,American-Style Pale Ale
+1709,Pier Pale Ale,0.0,0.0,American-Style Pale Ale
+1710,Homestead Pale Ale,0.0,0.0,American-Style Pale Ale
+1711,Overcast Ale,0.0,0.0,American-Style Pale Ale
+1712,Troegs Pale Ale,5.4,0.0,American-Style Pale Ale
+1713,Scape Goat Pale Ale,4.7,0.0,American-Style Pale Ale
+1714,Classic Pale Ale,5.5,0.0,American-Style Pale Ale
+1715,#9,4.6,0.0,American-Style Pale Ale
+1716,Purist Pale Ale,4.9,0.0,American-Style Pale Ale
+1717,Lord Chesterfield Ale,5.4,0.0,American-Style Pale Ale
+1718,Red Mo Ale,5.0,0.0,American-Style Pale Ale
+1719,Mt. Nittany Pale Ale,5.0,0.0,American-Style Pale Ale
+1720,Arthur's Nugget Pale Ale,5.2,0.0,American-Style Pale Ale
+1721,Labatt 50,5.0,0.0,American-Style Pale Ale
+1722,Stoudt's American Pale Ale,5.0,0.0,American-Style Pale Ale
+1723,Amish Four Grain,5.6,0.0,American-Style Pale Ale
+1724,Rare Rooster Summer Rye Ale,4.8,0.0,American-Style Pale Ale
+1725,Pale Ale,0.0,0.0,American-Style Pale Ale
+1726,Samuel Adams Boston Ale,4.94,0.0,American-Style Pale Ale
+1727,Extra Pale Ale,4.8,0.0,American-Style Pale Ale
+1728,Kenziger,4.5,0.0,American-Style Pale Ale
+1729,Samuel Adams Pale Ale,5.25,0.0,American-Style Pale Ale
+1730,Amendment Pale Ale,5.2,0.0,American-Style Pale Ale
+1731,Shelter Pale Ale,5.0,0.0,American-Style Pale Ale
+1732,Ipswich Original Ale,5.4,0.0,American-Style Pale Ale
+1733,Capitol Premium Pale Ale,5.0,0.0,American-Style Pale Ale
+1734,Railyard Ale,5.8,0.0,American-Style Pale Ale
+1735,Phin & Matt's Extroidinary Ale,5.6,0.0,American-Style Pale Ale
+1736,11,11.0,0.0,American-Style Pale Ale
+1737,Liberty Ale,6.0,0.0,American-Style Pale Ale
+1738,Doc's Pale Ale,5.5,0.0,American-Style Pale Ale
+1739,Rondy Brew 2009,4.5,0.0,American-Style Pale Ale
+1740,Old Nick Pale Ale,5.5,0.0,American-Style Pale Ale
+1741,Superstition Pale Ale,5.0,0.0,American-Style Pale Ale
+1742,Lift Bridge Pale Ale,5.5,0.0,American-Style Pale Ale
+1743,HarvestÃ¶r Fresh Hop Ale,7.2,0.0,American-Style Pale Ale
+1744,Double Mountain Pale Ale,5.1,0.0,American-Style Pale Ale
+1745,Crosstown Pale Ale,5.3,0.0,American-Style Pale Ale
+1746,Live Oak Pale Ale,0.0,0.0,American-Style Pale Ale
+1747,Hitman Gold,5.5,0.0,American-Style Pale Ale
+1748,Ports Pale Ale,4.3,0.0,American-Style Pale Ale
+1749,Burning Bird Pale Ale,4.8,0.0,American-Style Pale Ale
+1750,Dundee Pale Ale,5.3,0.0,American-Style Pale Ale
+1751,Capital U.S. Pale Ale,0.0,0.0,American-Style Pale Ale
+1752,Paris-Roubaix Pale Ale,5.25,0.0,American-Style Pale Ale
+1753,Back Road Ale,5.0,0.0,American-Style Pale Ale
+1754,Back Road American Pale Ale,5.0,0.0,American-Style Pale Ale
+1755,Firestole Pale 31,4.6,0.0,American-Style Pale Ale
+1756,Restoration Pale Ale,5.0,0.0,American-Style Pale Ale
+1757,Orlando Blonde Ale,0.0,0.0,American-Style Pale Ale
+1758,Hop Hazard,5.5,0.0,American-Style Pale Ale
+1759,Old Faithful Ale,0.0,0.0,American-Style Pale Ale
+1760,Holyoke Dam Ale,0.0,0.0,American-Style Pale Ale
+1761,Sky High Rye,0.0,0.0,American-Style Pale Ale
+1762,Genesis,0.0,0.0,American-Style Pale Ale
+1763,Padawan Pale Ale,5.0,0.0,American-Style Pale Ale
+1764,Sante Fe Pale Ale,5.5,0.0,American-Style Pale Ale
+1765,Old Slugger Pale Ale,5.5,0.0,American-Style Pale Ale
+1766,Barnstormer Pale Ale,4.8,0.0,American-Style Pale Ale
+1767,Pinnacle Peak Pale Ale,4.2,0.0,American-Style Pale Ale
+1768,Bonaventure Pale Ale,5.5,0.0,American-Style Pale Ale
+1769,Terrapin Rye Pale Ale,5.5,0.0,American-Style Pale Ale
+1770,Prescott Pale Ale,0.0,0.0,American-Style Pale Ale
+1771,Tropical Mango,4.5,0.0,American-Style Pale Ale
+1772,Great American's Restaurant Pale Ale,5.7,0.0,American-Style Pale Ale
+1773,Point Of Rocks Pale Ale,0.0,0.0,American-Style Pale Ale
+1774,Hop Mountain,5.6,0.0,American-Style Pale Ale
+1775,Ring Tail Pale Ale,4.2,0.0,American-Style Pale Ale
+1776,(512) Pale,5.8,0.0,American-Style Pale Ale
+1777,Captin Lawrence Pale Ale,5.6,0.0,American-Style Pale Ale
+1778,Glacier Harvest '09 Wet Hop (100 Barrel Series #28),6.7,0.0,American-Style Pale Ale
+1779,Fresh Frog Raw Hop Imperial Pale Ale,7.8,0.0,American-Style Pale Ale
+1780,Pine Belt Pale Ale,6.3,0.0,American-Style Pale Ale
+1781,Rio Blanco Pale Ale,5.3,0.0,American-Style Pale Ale
+1782,Hudson Pale Ale,0.0,0.0,American-Style Pale Ale
+1783,Fresh Hops Pale Ale,5.0,36.0,American-Style Pale Ale
+1784,Dry-Hopped APA,5.9,50.0,American-Style Pale Ale
+1785,Pale Ale,4.4,25.0,American-Style Pale Ale
+1786,The Public,6.0,0.0,American-Style Pale Ale
+1787,Obovoid Empirical Stout,8.0,0,American-Style Imperial Stout
+1788,Beer Geek Breakfast,7.5,0,American-Style Imperial Stout
+1789,NÃ¸gne Ã˜ Imperial Stout,9.0,0,American-Style Imperial Stout
+1790,Tatonka Stout,8.5,0,American-Style Imperial Stout
+1791,Old Rasputin Russian Imperial Stout,9.0,0,American-Style Imperial Stout
+1792,Yeti Imperial Stout,9.5,0,American-Style Imperial Stout
+1793,Speedway Stout,12.0,0,American-Style Imperial Stout
+1794,Oak Aged Yeti Imperial Stout,9.5,0,American-Style Imperial Stout
+1795,Come About Imperial Stout,9.0,0,American-Style Imperial Stout
+1796,Sprecher Russian Imperial Stout,8.5,0,American-Style Imperial Stout
+1797,Satin Solstice Imperial Stout,7.5,0,American-Style Imperial Stout
+1798,Big Bear Black Stout,8.1,0,American-Style Imperial Stout
+1799,Dragonslayer,9.5,0,American-Style Imperial Stout
+1800,Storm King Imperial Stout,9.1,0.0,American-Style Imperial Stout
+1801,Heresy,8.0,0.0,American-Style Imperial Stout
+1802,Old Heathen,8.0,0.0,American-Style Imperial Stout
+1803,Raspberry Imperial Stout,8.0,0.0,American-Style Imperial Stout
+1804,Peg Leg Stout,8.0,0.0,American-Style Imperial Stout
+1805,Espresso Oak Aged Yeti,9.5,0.0,American-Style Imperial Stout
+1806,Samuel Adams Imperial Stout,9.2,0.0,American-Style Imperial Stout
+1807,Sexual Chocolate,10.0,0.0,American-Style Imperial Stout
+1808,Black Magick,15.0,0.0,American-Style Imperial Stout
+1809,Big Black Voodoo Daddy,12.0,0.0,American-Style Imperial Stout
+1810,Night Stalker,11.5,0.0,American-Style Imperial Stout
+1811,Black Ops,11.0,0.0,American-Style Imperial Stout
+1812,Mokah Imperial Blended Stout,11.0,0.0,American-Style Imperial Stout
+1813,B.O.R.I.S. The Crusher Oatmeal-Imperial Stout,9.4,0.0,American-Style Imperial Stout
+1814,Black Xantus,10.0,0.0,American-Style Imperial Stout
+1815,Otter Creek Russian Imperial Stout,10.6,0.0,American-Style Imperial Stout
+1816,Toaster Imperial Stout,10.0,0.0,American-Style Imperial Stout
+1817,Berserker Imperial Stout,12.7,0.0,American-Style Imperial Stout
+1818,Imperial Russian Stout,10.5,0.0,American-Style Imperial Stout
+1819,Rip Tide,8.0,0.0,American-Style Imperial Stout
+1820,Paradox Speyside,10.0,0.0,American-Style Imperial Stout
+1821,Tokyo,12.0,0.0,American-Style Imperial Stout
+1822,Tokyo*,18.2,0.0,American-Style Imperial Stout
+1823,Tactical Nuclear Penguin,32.0,0.0,American-Style Imperial Stout
+1824,Terrapin Coffee Oatmeal Imperial Stout,8.6,0.0,American-Style Imperial Stout
+1825,Marshal Zhukov's Imperial Stout,11.0,0.0,American-Style Imperial Stout
+1826,Divine Reserve 9,11.0,0.0,American-Style Imperial Stout
+1827,Canadian Breakfast Stout,9.4,0.0,American-Style Imperial Stout
+1828,Plead the 5th Imperial Stout,12.0,0.0,American-Style Imperial Stout
+1829,D.O.R.I.S. the Destroyer Double Imperial Stout,10.5,0.0,American-Style Imperial Stout
+1830,Barrel-Aged B.O.R.I.S. Imperial Stout,9.4,0.0,American-Style Imperial Stout
+1831,Blackout Stout,9.0,0.0,American-Style Imperial Stout
+1832,Bourbon County Brand Coffee Stout,13.0,0.0,American-Style Imperial Stout
+1833,Sour Cherry Imperial Stout,0.0,0.0,American-Style Imperial Stout
+1834,Killer Penguin,10.0,0,American-Style Barley Wine Ale
+1835,Barleywine,10.0,0,American-Style Barley Wine Ale
+1836,Horn Dog,10.2,0,American-Style Barley Wine Ale
+1837,Olde School Barleywine,15.04,0,American-Style Barley Wine Ale
+1838,Old Ruffian,10.2,0,American-Style Barley Wine Ale
+1839,Nokdechiloff,12.7,0,American-Style Barley Wine Ale
+1840,John Barleycorn Barleywine Style Ale,9.0,0,American-Style Barley Wine Ale
+1841,Old Backus Barleywine 1997,0.0,0.0,American-Style Barley Wine Ale
+1842,Broad Street Barleywine,8.7,0.0,American-Style Barley Wine Ale
+1843,Old Horizontal,10.5,0.0,American-Style Barley Wine Ale
+1844,Blithering Idiot,11.1,0.0,American-Style Barley Wine Ale
+1845,Insanity,11.1,0.0,American-Style Barley Wine Ale
+1846,Twelve,10.2,0.0,American-Style Barley Wine Ale
+1847,Below Decks,10.0,0.0,American-Style Barley Wine Ale
+1848,Adnams Tally Ho,7.5,0.0,American-Style Barley Wine Ale
+1849,1084 Barleywine,0.0,0.0,American-Style Barley Wine Ale
+1850,Climax Barleywine-Style Ale,10.0,0.0,American-Style Barley Wine Ale
+1851,Richbrau Barleywine,12.3,0.0,American-Style Barley Wine Ale
+1852,Flying Mouflan,9.3,0.0,American-Style Barley Wine Ale
+1853,Behemoth Barley Wine,10.5,0.0,American-Style Barley Wine Ale
+1854,Back Burner Imperial Barley Wine Style Ale,10.0,0.0,American-Style Barley Wine Ale
+1855,Chicken Killer Barley Wine,10.0,0.0,American-Style Barley Wine Ale
+1856,Mirror Mirror,11.0,0.0,American-Style Barley Wine Ale
+1857,Big Slick American Barleywine Ale,11.9,0.0,American-Style Barley Wine Ale
+1858,The Vermonster,10.0,0.0,American-Style Barley Wine Ale
+1859,Three Guy Off The Scale Barley Wine,15.0,0.0,American-Style Barley Wine Ale
+1860,Isolation Ale,6.0,0,Winter Warmer
+1861,Nut Cracker Ale,5.9,0,Winter Warmer
+1862,Never Summer Ale,5.94,0,Winter Warmer
+1863,Sly Fox Christmas Ale,6.5,0.0,Winter Warmer
+1864,Jubelale,6.7,0.0,Winter Warmer
+1865,Hoppy Claus Holiday Ale,7.8,0.0,Winter Warmer
+1866,Saranac Winter Wassail,5.8,0.0,Winter Warmer
+1867,Winter Ale,5.6,0.0,Winter Warmer
+1868,Winter Ale,6.4,0.0,Winter Warmer
+1869,Young's Winter Warmer,5.2,0.0,Winter Warmer
+1870,Dundee Festive Ale,6.2,0.0,Winter Warmer
+1871,Winter Welcome 2008-2009,6.0,0.0,Winter Warmer
+1872,Michelob Winter's Bourbon Cask Ale,6.0,0.0,Winter Warmer
+1873,Winter Ale,0.0,0.0,Winter Warmer
+1874,Frosted Frog Christmas Ale,8.6,0.0,Winter Warmer
+1875,Batch 666,7.7,0.0,Winter Warmer
+1876,Petrus Dubbel Bruin Ale,6.5,0,Belgian-Style Dubbel
+1877,Pater 6,6.7,0,Belgian-Style Dubbel
+1878,Abbey Belgian Style Ale,7.0,0,Belgian-Style Dubbel
+1879,Prior 8,8.0,0,Belgian-Style Dubbel
+1880,Trappist Westvleteren 8,8.0,0,Belgian-Style Dubbel
+1881,Affligem Dubbel,6.8,0.0,Belgian-Style Dubbel
+1882,Dubbel Ale,5.2,0.0,Belgian-Style Dubbel
+1883,8,8.0,0.0,Belgian-Style Dubbel
+1884,Belgian Abbey Dubbel,7.0,0.0,Belgian-Style Dubbel
+1885,Chimay PremiÃ¨re (Chimay Red),7.0,0.0,Belgian-Style Dubbel
+1886,Eislin Dubbel,8.0,0.0,Belgian-Style Dubbel
+1887,Viszolay Belgian,7.5,0.0,Belgian-Style Dubbel
+1888,Glacier Ale,0.0,0,American-Style Amber/Red Ale
+1889,Fat Belly Amber,0.0,0,American-Style Amber/Red Ale
+1890,Cinder Cone Red,5.4,0,American-Style Amber/Red Ale
+1891,Nugget,0.0,0,American-Style Amber/Red Ale
+1892,Odell Red Ale,6.5,0,American-Style Amber/Red Ale
+1893,The Unforgiven Amber Ale,5.8,0,American-Style Amber/Red Ale
+1894,Certified Organic Amber Ale,4.8,0,American-Style Amber/Red Ale
+1895,Cascade Amber,0.0,0,American-Style Amber/Red Ale
+1896,Mavericks Amber Ale,4.8,0,American-Style Amber/Red Ale
+1897,Amber,5.0,0,American-Style Amber/Red Ale
+1898,Epiphany Ale,5.5,0,American-Style Amber/Red Ale
+1899,Paint the Town Red,0.0,0,American-Style Amber/Red Ale
+1900,Grid Iron Amber Ale,5.6,0,American-Style Amber/Red Ale
+1901,Red Ale,0.0,0,American-Style Amber/Red Ale
+1902,Avalanche Amber,5.4,0,American-Style Amber/Red Ale
+1903,Levity Amber Ale,5.1,0,American-Style Amber/Red Ale
+1904,La Roja,7.2,0,American-Style Amber/Red Ale
+1905,Amber Ale,0.0,0,American-Style Amber/Red Ale
+1906,Heater,0.0,0,American-Style Amber/Red Ale
+1907,Teton Ale,0.0,0,American-Style Amber/Red Ale
+1908,Red Truck Ale,0.0,0,American-Style Amber/Red Ale
+1909,Red Truck Ale,0.0,0,American-Style Amber/Red Ale
+1910,Red Truck Ale,0.0,0,American-Style Amber/Red Ale
+1911,Flagship Red Alt Ale,5.2,0,American-Style Amber/Red Ale
+1912,Atlas Amber Ale,0.0,0,American-Style Amber/Red Ale
+1913,Sequoia Red,0.0,0,American-Style Amber/Red Ale
+1914,Navidad,0.0,0,American-Style Amber/Red Ale
+1915,Free Bike Amber,4.5,0,American-Style Amber/Red Ale
+1916,Firehouse Red,0.0,0,American-Style Amber/Red Ale
+1917,Organic Amber Ale,5.0,0,American-Style Amber/Red Ale
+1918,Red Menace Big Amber,0.0,0,American-Style Amber/Red Ale
+1919,Pioneer Black River Red,0.0,0,American-Style Amber/Red Ale
+1920,Red Ale,5.5,0,American-Style Amber/Red Ale
+1921,Red Coat Ale,5.7,0,American-Style Amber/Red Ale
+1922,Calico Jack Amber Ale,5.4,0,American-Style Amber/Red Ale
+1923,Special Ale,0.0,0,American-Style Amber/Red Ale
+1924,Unicorn Amber Ale,4.0,0,American-Style Amber/Red Ale
+1925,Saint Peter Red,0.0,0,American-Style Amber/Red Ale
+1926,Long Face Amber,0.0,0,American-Style Amber/Red Ale
+1927,Censored (aka The Kronic),5.9,0,American-Style Amber/Red Ale
+1928,Thunderhead Amber Ale,6.0,0,American-Style Amber/Red Ale
+1929,Redwing,4.73,0,American-Style Amber/Red Ale
+1930,Big Hoppy Monster,8.75,0,American-Style Amber/Red Ale
+1931,Light Amber Ale,0.0,0,American-Style Amber/Red Ale
+1932,Auburn Ale,5.0,0,American-Style Amber/Red Ale
+1933,Amber Ale,0.0,0,American-Style Amber/Red Ale
+1934,Amber,0.0,0,American-Style Amber/Red Ale
+1935,Double Barrel Ale,5.0,0,American-Style Amber/Red Ale
+1936,Mermaid Red,0.0,0,American-Style Amber/Red Ale
+1937,Amber,0.0,0,American-Style Amber/Red Ale
+1938,Levitation Ale,4.4,0,American-Style Amber/Red Ale
+1939,Amber Ale,0.0,0,American-Style Amber/Red Ale
+1940,Sunset Amber Ale,5.0,0,American-Style Amber/Red Ale
+1941,Red Trolley Ale,0.0,0,American-Style Amber/Red Ale
+1942,Irish Red,0.0,0,American-Style Amber/Red Ale
+1943,Port Washington Amber Ale,0.0,0,American-Style Amber/Red Ale
+1944,Tie Die Red,0.0,0,American-Style Amber/Red Ale
+1945,Amber Ale,0.0,0,American-Style Amber/Red Ale
+1946,Amber Plus,0.0,0,American-Style Amber/Red Ale
+1947,Irish Red Ale,0.0,0,American-Style Amber/Red Ale
+1948,2nd Street Amber,0.0,0,American-Style Amber/Red Ale
+1949,Red,0.0,0,American-Style Amber/Red Ale
+1950,The Iron Tankard,9.4,0,American-Style Amber/Red Ale
+1951,Mile Rock Amber Ale,0.0,0,American-Style Amber/Red Ale
+1952,Swede Saw Red Ale,0.0,0,American-Style Amber/Red Ale
+1953,Dr. Hops Amber Ale,0.0,0,American-Style Amber/Red Ale
+1954,Native Ale,0.0,0,American-Style Amber/Red Ale
+1955,German Valley Amber,0.0,0,American-Style Amber/Red Ale
+1956,Alpine Glow Red Ale,0.0,0,American-Style Amber/Red Ale
+1957,Station House Red Ale,0.0,0,American-Style Amber/Red Ale
+1958,Red Rooster Ale,0.0,0,American-Style Amber/Red Ale
+1959,Amber Ale,0.0,0,American-Style Amber/Red Ale
+1960,Amber,0.0,0,American-Style Amber/Red Ale
+1961,Red,0.0,0,American-Style Amber/Red Ale
+1962,Dells Chief Amber Ale,4.5,0,American-Style Amber/Red Ale
+1963,Eric the Red,0.0,0,American-Style Amber/Red Ale
+1964,Quarry Rock Red,0.0,0,American-Style Amber/Red Ale
+1965,Golden Gate Amber Ale,0.0,0,American-Style Amber/Red Ale
+1966,Fox Tail Amber Ale,0.0,0,American-Style Amber/Red Ale
+1967,Fox Tail Amber Ale,0.0,0,American-Style Amber/Red Ale
+1968,Red Fox Amber,0.0,0.0,American-Style Amber/Red Ale
+1969,Calumet Amber,0.0,0.0,American-Style Amber/Red Ale
+1970,Rainbow Red Ale,0.0,0.0,American-Style Amber/Red Ale
+1971,Great Lakes Amber Ale,0.0,0.0,American-Style Amber/Red Ale
+1972,5 Malt Ale,0.0,0.0,American-Style Amber/Red Ale
+1973,Red,0.0,0.0,American-Style Amber/Red Ale
+1974,Harvest Amber Ale,0.0,0.0,American-Style Amber/Red Ale
+1975,Kilgubbin Irish Ale,0.0,0.0,American-Style Amber/Red Ale
+1976,Amber Ale,0.0,0.0,American-Style Amber/Red Ale
+1977,Avalanche Amber,0.0,0.0,American-Style Amber/Red Ale
+1978,Agassiz Amber,0.0,0.0,American-Style Amber/Red Ale
+1979,Amber,0.0,0.0,American-Style Amber/Red Ale
+1980,Red Rock,0.0,0.0,American-Style Amber/Red Ale
+1981,Redwood Amber,0.0,0.0,American-Style Amber/Red Ale
+1982,Red Nectar,5.0,0.0,American-Style Amber/Red Ale
+1983,Red Ale,0.0,0.0,American-Style Amber/Red Ale
+1984,Limestone 1897 Original Amber Ale (discontinued),0.0,0.0,American-Style Amber/Red Ale
+1985,Celebration Red,0.0,0.0,American-Style Amber/Red Ale
+1986,Amber Ale,0.0,0.0,American-Style Amber/Red Ale
+1987,Red Eye Amber,0.0,0.0,American-Style Amber/Red Ale
+1988,Buffalo Ale,0.0,0.0,American-Style Amber/Red Ale
+1989,Shawnee Amber Ale,0.0,0.0,American-Style Amber/Red Ale
+1990,White Rock Red,0.0,0.0,American-Style Amber/Red Ale
+1991,Ranger Red,0.0,0.0,American-Style Amber/Red Ale
+1992,Melon Head Red,0.0,0.0,American-Style Amber/Red Ale
+1993,Amber,0.0,0.0,American-Style Amber/Red Ale
+1994,Amber,0.0,0.0,American-Style Amber/Red Ale
+1995,Amber Ale,0.0,0.0,American-Style Amber/Red Ale
+1996,Golden Gate Copper Ale,0.0,0.0,American-Style Amber/Red Ale
+1997,Raccoon Red Ale,0.0,0.0,American-Style Amber/Red Ale
+1998,Baritone Red,0.0,0.0,American-Style Amber/Red Ale
+1999,Amber Ale,0.0,0.0,American-Style Amber/Red Ale
+2000,Amber,0.0,0.0,American-Style Amber/Red Ale
+2001,Red Ale,0.0,0.0,American-Style Amber/Red Ale
+2002,Paniolo Ale,0.0,0.0,American-Style Amber/Red Ale
+2003,Route 66 Amber Ale,0.0,0.0,American-Style Amber/Red Ale
+2004,Amber Ale,0.0,0.0,American-Style Amber/Red Ale
+2005,Cambridge Amber,4.3,0.0,American-Style Amber/Red Ale
+2006,Boston Red,0.0,0.0,American-Style Amber/Red Ale
+2007,Amber,0.0,0.0,American-Style Amber/Red Ale
+2008,Sunset Red,0.0,0.0,American-Style Amber/Red Ale
+2009,Red Roost Ale,0.0,0.0,American-Style Amber/Red Ale
+2010,Red,0.0,0.0,American-Style Amber/Red Ale
+2011,Amber,0.0,0.0,American-Style Amber/Red Ale
+2012,Red Jack,5.0,0.0,American-Style Amber/Red Ale
+2013,Amber Ale,0.0,0.0,American-Style Amber/Red Ale
+2014,Avalanche Amber,0.0,0.0,American-Style Amber/Red Ale
+2015,Rat Beach Red Ale,0.0,0.0,American-Style Amber/Red Ale
+2016,Bitter Amber,0.0,0.0,American-Style Amber/Red Ale
+2017,HopBack Amber Ale,5.6,0.0,American-Style Amber/Red Ale
+2018,Nugget Nectar,7.5,0.0,American-Style Amber/Red Ale
+2019,Spotted Cow,4.8,0.0,American-Style Amber/Red Ale
+2020,Celtic Knot Irish Red,4.8,0.0,American-Style Amber/Red Ale
+2021,Grinnin' Grizzly Spiced Ale,5.7,0.0,American-Style Amber/Red Ale
+2022,Shark Attack Double Red Ale,9.0,0.0,American-Style Amber/Red Ale
+2023,Red Ale,0.0,0.0,American-Style Amber/Red Ale
+2024,Decadence,13.0,0.0,American-Style Amber/Red Ale
+2025,House Ale,4.5,0.0,American-Style Amber/Red Ale
+2026,Rising Moon Spring Ale,5.4,0.0,American-Style Amber/Red Ale
+2027,Scorpion Amber Ale,0.0,0.0,American-Style Amber/Red Ale
+2028,North Star Red,5.8,0.0,American-Style Amber/Red Ale
+2029,Old Scratch Lager,5.5,0.0,American-Style Amber/Red Ale
+2030,Adnams Fisherman,4.5,0.0,American-Style Amber/Red Ale
+2031,Ipswich Harvest,6.9,0.0,American-Style Amber/Red Ale
+2032,Truly Honest Ale,6.0,0.0,American-Style Amber/Red Ale
+2033,Hop Obama,5.2,0.0,American-Style Amber/Red Ale
+2034,Oak Creek Amber Ale,5.5,0.0,American-Style Amber/Red Ale
+2035,Market Alley,0.0,0.0,American-Style Amber/Red Ale
+2036,Wapiti Amber Ale,5.0,0.0,American-Style Amber/Red Ale
+2037,Trail Ridge Red,4.5,0.0,American-Style Amber/Red Ale
+2038,Indian Red Ale,6.5,0.0,American-Style Amber/Red Ale
+2039,Saint Arnold Amber Ale,5.5,0.0,American-Style Amber/Red Ale
+2040,Capital Rustic Ale,0.0,0.0,American-Style Amber/Red Ale
+2041,Thoms Special Ale,6.25,0.0,American-Style Amber/Red Ale
+2042,Laughing Dragon,6.25,0.0,American-Style Amber/Red Ale
+2043,South County American Ale,6.33,0.0,American-Style Amber/Red Ale
+2044,Round Barn Amber Ale,0.0,0.0,American-Style Amber/Red Ale
+2045,Atomic Raygun Imperial Red,8.3,0.0,American-Style Amber/Red Ale
+2046,Duck-Rabbit Amber Ale,5.5,0.0,American-Style Amber/Red Ale
+2047,Standing Stone Amber Ale,0.0,0.0,American-Style Amber/Red Ale
+2048,Newport Storm Hurricane Amber Ale,5.2,0.0,American-Style Amber/Red Ale
+2049,Amber Waves,4.85,0.0,American-Style Amber/Red Ale
+2050,Tailgate Amber Wave,6.2,0.0,American-Style Amber/Red Ale
+2051,Old Oak Amber Ale,0.0,0.0,American-Style Amber/Red Ale
+2052,Red Rocket Ale,6.8,0.0,American-Style Amber/Red Ale
+2053,Aviator Red,5.25,0.0,American-Style Amber/Red Ale
+2054,Liquid Amber,0.0,0.0,American-Style Amber/Red Ale
+2055,Brasserie de Brunehaut Bio BiÃ¨re AmbrÃ©e (Organic),6.5,0.0,American-Style Amber/Red Ale
+2056,Rock Art American Red Ale,4.8,0.0,American-Style Amber/Red Ale
+2057,Celtic Copper Ale,5.2,0.0,American-Style Amber/Red Ale
+2058,Cucapa Honey Ale,4.5,0.0,American-Style Amber/Red Ale
+2059,Horizon Red Ale,5.7,0.0,American-Style Amber/Red Ale
+2060,Lucky 13 Mondo Large Red Ale,8.3,0.0,American-Style Amber/Red Ale
+2061,Manheim Red,5.25,0.0,American-Style Amber/Red Ale
+2062,Conundrum Red Ale,7.0,65.0,American-Style Amber/Red Ale
+2063,Fall Festivus Ale,4.8,0.0,American-Style Amber/Red Ale
+2064,Loakal Red,6.9,0.0,American-Style Amber/Red Ale
+2065,Pride & Joy Mild Ale,0.0,0,English-Style Pale Mild Ale
+2066,Dark Ale,4.5,0,English-Style Pale Mild Ale
+2067,Cream Ale,0.0,0,English-Style Pale Mild Ale
+2068,Caramel Apple Ale,0.0,0,English-Style Pale Mild Ale
+2069,Madelia Mild,0.0,0,English-Style Pale Mild Ale
+2070,Angel Ale,0.0,0,English-Style Pale Mild Ale
+2071,Old Devil,0.0,0,English-Style Pale Mild Ale
+2072,Pheasant Plucker,0.0,0,English-Style Pale Mild Ale
+2073,Itasca Extra Pale Ale,0.0,0,English-Style Pale Mild Ale
+2074,Magnificent Mild,0.0,0.0,English-Style Pale Mild Ale
+2075,Ruby Mild,0.0,0.0,English-Style Pale Mild Ale
+2076,Champions Clubhouse Classic,0.0,0.0,English-Style Pale Mild Ale
+2077,Best Mild (discontinued),0.0,0.0,English-Style Pale Mild Ale
+2078,Samuel Adams Cherry Wheat,0.0,0.0,English-Style Pale Mild Ale
+2079,Valley Brewing London Tavern Ale,4.4,0.0,English-Style Pale Mild Ale
+2080,Leute Bok Bier,7.5,0,Traditional German-Style Bock
+2081,Geist Bock,6.1,0,Traditional German-Style Bock
+2082,LTD 02 Lager,6.4,0,Traditional German-Style Bock
+2083,Bock,5.5,0,Traditional German-Style Bock
+2084,StÃ¼venbrÃ¤u Maibock,0.0,0,Traditional German-Style Bock
+2085,Maibock,0.0,0,Traditional German-Style Bock
+2086,Illuminator Doppelbock,6.8,0,Traditional German-Style Bock
+2087,Blonde Bock,7.0,0,Traditional German-Style Bock
+2088,Urthel Vlaemse Bock,7.5,0,Traditional German-Style Bock
+2089,EKU 28,11.0,0,Traditional German-Style Bock
+2090,Eisbock,9.2,0,Traditional German-Style Bock
+2091,Samichlaus Bier 2005,14.0,0,Traditional German-Style Bock
+2092,Aventinus Weizen-Eisbock,12.0,0,Traditional German-Style Bock
+2093,La Rossa,7.2,0,Traditional German-Style Bock
+2094,Bavarian Bock,0.0,0,Traditional German-Style Bock
+2095,Christmas Bock,6.0,0,Traditional German-Style Bock
+2096,Curator Dunkler Doppelbock,9.0,0,Traditional German-Style Bock
+2097,Nickelbier,6.5,0,Traditional German-Style Bock
+2098,Coronator Helle Doppelbock,7.5,0,Traditional German-Style Bock
+2099,NaturtrÃ¼bes Kellerbier,0.0,0,Traditional German-Style Bock
+2100,Iceberg Copper Bock,0.0,0,Traditional German-Style Bock
+2101,Model-A-Tor Doppelbock,7.4,0,Traditional German-Style Bock
+2102,Ambrosia Maibock,5.3,0,Traditional German-Style Bock
+2103,Bock,5.0,0,Traditional German-Style Bock
+2104,Maibock,0.0,0,Traditional German-Style Bock
+2105,Spring Bock,0.0,0,Traditional German-Style Bock
+2106,Moza,0.0,0,Traditional German-Style Bock
+2107,DoppelSticke,8.5,0,Traditional German-Style Bock
+2108,Will-BrÃ¤u Ur-Bock,0.0,0,Traditional German-Style Bock
+2109,Asam-Bock,6.9,0,Traditional German-Style Bock
+2110,Cambonator Doppelbock,7.2,0,Traditional German-Style Bock
+2111,Trompe La Mort,7.4,0,Traditional German-Style Bock
+2112,Instigator Doppelbock,7.5,0,Traditional German-Style Bock
+2113,Helles Bock,6.6,0,Traditional German-Style Bock
+2114,Half Again Bock,0.0,0,Traditional German-Style Bock
+2115,Bock,0.0,0,Traditional German-Style Bock
+2116,St. Martin Doppelbock,7.5,0,Traditional German-Style Bock
+2117,Sled Dog Doppelbock,0.0,0,Traditional German-Style Bock
+2118,Weathertop Doppelbock,7.3,0,Traditional German-Style Bock
+2119,Hibernator Doppelbock,0.0,0,Traditional German-Style Bock
+2120,Emancipator,8.3,0,Traditional German-Style Bock
+2121,Sublimator Doppelbock,0.0,0,Traditional German-Style Bock
+2122,Amber Bock,0.0,0,Traditional German-Style Bock
+2123,Maibock,7.2,0,Traditional German-Style Bock
+2124,Samuel Adams Chocolate Bock,5.5,0,Traditional German-Style Bock
+2125,Maibock,0.0,0,Traditional German-Style Bock
+2126,Broken Keg Ice Bock,15.0,0,Traditional German-Style Bock
+2127,Z-U-Later Doppelbock,8.0,0,Traditional German-Style Bock
+2128,Rycerskie,7.0,0,Traditional German-Style Bock
+2129,Spring Bock,0.0,0,Traditional German-Style Bock
+2130,Adler BrÃ¤u Doppel Bock Beer,0.0,0,Traditional German-Style Bock
+2131,Prostrator Doppelbock,0.0,0,Traditional German-Style Bock
+2132,Samichlaus Bier 2003,14.0,0,Traditional German-Style Bock
+2133,Big Easy Beer,0.0,0,Traditional German-Style Bock
+2134,Doppel-Hirsch Bavarian-Doppelbock,7.2,0,Traditional German-Style Bock
+2135,Bajuvator Doppelbock,7.2,0,Traditional German-Style Bock
+2136,PrimÃ¡tor Double 24% / PrimÃ¡tor Double Bock Beer,0.0,0,Traditional German-Style Bock
+2137,Schokolade Bock,0.0,0,Traditional German-Style Bock
+2138,ReichelbrÃ¤u Eisbock,0.0,0,Traditional German-Style Bock
+2139,Autumnal Fire,0.0,0,Traditional German-Style Bock
+2140,Hacker-Pschorr Hubertus Bock,0.0,0,Traditional German-Style Bock
+2141,PrimÃ¡tor Blonde Bock Beer,0.0,0,Traditional German-Style Bock
+2142,Dort,6.5,0,Traditional German-Style Bock
+2143,Stein Bock,0.0,0,Traditional German-Style Bock
+2144,Blonde Bock,0.0,0,Traditional German-Style Bock
+2145,Blackburn Doppelbock,7.9,0,Traditional German-Style Bock
+2146,Maibock,0.0,0,Traditional German-Style Bock
+2147,Bock,0.0,0,Traditional German-Style Bock
+2148,Doppelbock Dunkel,7.0,0,Traditional German-Style Bock
+2149,Helles Bock,0.0,0,Traditional German-Style Bock
+2150,Goat Toppler Mai Bock,0.0,0,Traditional German-Style Bock
+2151,Bak,7.3,0,Traditional German-Style Bock
+2152,Bockbier,7.0,0,Traditional German-Style Bock
+2153,Unimator,0.0,0,Traditional German-Style Bock
+2154,Starkbier,0.0,0,Traditional German-Style Bock
+2155,Triumphator,7.6,0,Traditional German-Style Bock
+2156,Maximator,0.0,0,Traditional German-Style Bock
+2157,Winter SkÃ¥l,0.0,0,Traditional German-Style Bock
+2158,Maibock,0.0,0,Traditional German-Style Bock
+2159,Winter Brew,5.75,0,Traditional German-Style Bock
+2160,Winter Fest Beer,0.0,0,Traditional German-Style Bock
+2161,Urbock,0.0,0,Traditional German-Style Bock
+2162,Ur-Bock Hell,6.5,0,Traditional German-Style Bock
+2163,Discombobulator Maibock,0.0,0,Traditional German-Style Bock
+2164,Sixtus,0.0,0,Traditional German-Style Bock
+2165,Bock,0.0,0,Traditional German-Style Bock
+2166,Elephant,7.2,0,Traditional German-Style Bock
+2167,Big Butt Doppelbock,5.8,0,Traditional German-Style Bock
+2168,What the Helles Bock,0.0,0,Traditional German-Style Bock
+2169,Doubledecker Doppelbock,0.0,0.0,Traditional German-Style Bock
+2170,Maibock,0.0,0.0,Traditional German-Style Bock
+2171,Bockbier,0.0,0.0,Traditional German-Style Bock
+2172,Scapegoat Doppelbock,0.0,0.0,Traditional German-Style Bock
+2173,Scapegoat Bock,0.0,0.0,Traditional German-Style Bock
+2174,Dusseldorfer Doppelbock,6.0,0.0,Traditional German-Style Bock
+2175,Bock,0.0,0.0,Traditional German-Style Bock
+2176,Doppelbock,10.0,0.0,Traditional German-Style Bock
+2177,Holiday Wheat Bock,0.0,0.0,Traditional German-Style Bock
+2178,Aviator Doppelbock,0.0,0.0,Traditional German-Style Bock
+2179,Bock Dark,0.0,0.0,Traditional German-Style Bock
+2180,Limestone Bavarian Style Bock (discontinued),0.0,0.0,Traditional German-Style Bock
+2181,Jack Frost Winter Doppelbock,0.0,0.0,Traditional German-Style Bock
+2182,Eisbock,0.0,0.0,Traditional German-Style Bock
+2183,Hexen BrÃ¤u,0.0,0.0,Traditional German-Style Bock
+2184,Honey Bock,0.0,0.0,Traditional German-Style Bock
+2185,Porteris,7.0,0.0,Traditional German-Style Bock
+2186,Lion Lev Export Lager Beer Double Bock,0.0,0.0,Traditional German-Style Bock
+2187,Black Rock Bock,0.0,0.0,Traditional German-Style Bock
+2188,Pale Bock,0.0,0.0,Traditional German-Style Bock
+2189,Maibock,0.0,0.0,Traditional German-Style Bock
+2190,Spring Bock,0.0,0.0,Traditional German-Style Bock
+2191,PENNdemonium,8.0,0.0,Traditional German-Style Bock
+2192,Doppel Bock,8.1,0.0,Traditional German-Style Bock
+2193,St. Nikolaus Bock Bier,6.0,0.0,Traditional German-Style Bock
+2194,Samuel Adams Double Bock,8.8,0.0,Traditional German-Style Bock
+2195,Samuel Adams Winter Lager,5.8,0.0,Traditional German-Style Bock
+2196,Bock Beer,5.9,0.0,Traditional German-Style Bock
+2197,Yuengling Bock Beer,0.0,0.0,Traditional German-Style Bock
+2198,Sacramento Bock,6.5,0.0,Traditional German-Style Bock
+2199,Saint Arnold Spring Bock,6.4,0.0,Traditional German-Style Bock
+2200,Blizzard Bock,6.1,0.0,Traditional German-Style Bock
+2201,Black Rye Bock,6.2,0.0,Traditional German-Style Bock
+2202,Blue Dot Double India Pale Ale,7.0,0,Imperial or Double India Pale Ale
+2203,Industrial IPA,7.4,0,Imperial or Double India Pale Ale
+2204,Moylander Double IPA,8.5,0,Imperial or Double India Pale Ale
+2205,California Dreaming,8.0,0,Imperial or Double India Pale Ale
+2206,Dorado Double IPA,9.6,0,Imperial or Double India Pale Ale
+2207,Pure Hoppiness,8.0,0,Imperial or Double India Pale Ale
+2208,Ruination IPA,7.7,0,Imperial or Double India Pale Ale
+2209,Hop Rod Rye,8.0,0,Imperial or Double India Pale Ale
+2210,Dreadnaught Imperial IPA,9.5,0,Imperial or Double India Pale Ale
+2211,Boss Hog Double IPA,10.1,0,Imperial or Double India Pale Ale
+2212,Racer X,7.8,0,Imperial or Double India Pale Ale
+2213,Hop Wallop,8.5,0.0,Imperial or Double India Pale Ale
+2214,Double D IPA,8.2,0.0,Imperial or Double India Pale Ale
+2215,Hop 15 Ale,10.0,0.0,Imperial or Double India Pale Ale
+2216,Double Simcoe IPA,9.0,0.0,Imperial or Double India Pale Ale
+2217,120 Minute IPA,18.0,0.0,Imperial or Double India Pale Ale
+2218,90 Minute IPA,9.0,0.0,Imperial or Double India Pale Ale
+2219,Double Trouble IPA,9.8,0.0,Imperial or Double India Pale Ale
+2220,Double Dog Double Pale Ale,11.5,0.0,Imperial or Double India Pale Ale
+2221,Daddy Fat Sacs Imperial IPA,7.5,0.0,Imperial or Double India Pale Ale
+2222,Oak Aged Unearthly Imperial Pale Ale,11.0,0.0,Imperial or Double India Pale Ale
+2223,Hop Stoopid,8.2,0.0,Imperial or Double India Pale Ale
+2224,Moylans Hopsickle Imperial Ale,9.2,0.0,Imperial or Double India Pale Ale
+2225,Beyond The Gates Double IPA,7.5,0.0,Imperial or Double India Pale Ale
+2226,Hop Juice Double IPA,9.4,0.0,Imperial or Double India Pale Ale
+2227,Uberhoppy Imperial IPA,10.5,0.0,Imperial or Double India Pale Ale
+2228,Cobra-Hood IPA,7.3,0.0,Imperial or Double India Pale Ale
+2229,Double Wide I.P.A.,8.5,0.0,Imperial or Double India Pale Ale
+2230,Hoppe Imperial Extra Pale Ale,8.0,0.0,Imperial or Double India Pale Ale
+2231,Gemini Imperial Blended Ale,10.5,0.0,Imperial or Double India Pale Ale
+2232,Double Paw,8.5,0.0,Imperial or Double India Pale Ale
+2233,Cousin Jax,9.0,0.0,Imperial or Double India Pale Ale
+2234,Bourbon Barrel Aged Cousin Jax,0.0,0.0,Imperial or Double India Pale Ale
+2235,Goose Island Imperial IPA,9.0,0.0,Imperial or Double India Pale Ale
+2236,Pugsley's Signature Series XXXX IPA,9.25,0.0,Imperial or Double India Pale Ale
+2237,Double Trouble Imperial IPA,9.4,0.0,Imperial or Double India Pale Ale
+2238,Mojo Risin' Double IPA,10.0,0.0,Imperial or Double India Pale Ale
+2239,Standing Stone Double India Pale Ale,0.0,0.0,Imperial or Double India Pale Ale
+2240,Bittersweet Lenny R.I.P.A.,10.0,0.0,Imperial or Double India Pale Ale
+2241,Hopnoxxxious,7.45,0.0,Imperial or Double India Pale Ale
+2242,Apocalypse Cow,10.0,0.0,Imperial or Double India Pale Ale
+2243,Scratch #20 2009 Apollo Imperial Ale,7.0,0.0,Imperial or Double India Pale Ale
+2244,The Oracle DIPA,0.0,0.0,Imperial or Double India Pale Ale
+2245,Otter Creek Imperial India Pale Ale,11.0,0.0,Imperial or Double India Pale Ale
+2246,NÃ¸gne Ã˜ Doppelt IPA,8.0,0.0,Imperial or Double India Pale Ale
+2247,Heavy Seas Big DIPA,10.6,0.0,Imperial or Double India Pale Ale
+2248,Obliteration I,8.5,0.0,Imperial or Double India Pale Ale
+2249,Obliteration II,8.3,0.0,Imperial or Double India Pale Ale
+2250,Obliteration V,8.2,0.0,Imperial or Double India Pale Ale
+2251,Big A IPA,9.6,0.0,Imperial or Double India Pale Ale
+2252,3rd Anniversary Ale,10.0,0.0,Imperial or Double India Pale Ale
+2253,DuganA IPA,8.5,0.0,Imperial or Double India Pale Ale
+2254,Hardcore IPA,9.0,0.0,Imperial or Double India Pale Ale
+2255,2xIPA,0.0,0.0,Imperial or Double India Pale Ale
+2256,Captain's Reserve Imperial IPA,9.0,0.0,Imperial or Double India Pale Ale
+2257,Squall IPA,9.0,0.0,Imperial or Double India Pale Ale
+2258,Exit 16 - Wild Rice Double IPA,8.2,0.0,Imperial or Double India Pale Ale
+2259,Unfiltered Double Simcoe IPA,9.0,0.0,Imperial or Double India Pale Ale
+2260,Arctic Panzer Wolf,9.0,0.0,Imperial or Double India Pale Ale
+2261,Free Loader Double Red IPA,0.0,0.0,Imperial or Double India Pale Ale
+2262,Hop Dam Triple IPA,10.0,0.0,Imperial or Double India Pale Ale
+2263,Mean Manalishi Double I.P.A.,8.2,0.0,Imperial or Double India Pale Ale
+2264,Apex,7.5,0.0,Imperial or Double India Pale Ale
+2265,Mongo Double IPA,8.5,0.0,Imperial or Double India Pale Ale
+2266,2x4 India Pale Ale,7.0,0.0,Imperial or Double India Pale Ale
+2267,Kryptonite Imperial IPA,9.0,0.0,Imperial or Double India Pale Ale
+2268,471 IPA,9.2,0.0,Imperial or Double India Pale Ale
+2269,Harpoon Leviathan,10.0,0.0,Imperial or Double India Pale Ale
+2270,Cold Hop,6.5,0,English-Style India Pale Ale
+2271,Hitachino Nest Japanese Classic Ale,7.0,0,English-Style India Pale Ale
+2272,Empire India Pale Ale,7.5,0,English-Style India Pale Ale
+2273,Hoppy Chick,5.75,0.0,English-Style India Pale Ale
+2274,Herb Superb,6.0,0.0,English-Style India Pale Ale
+2275,Bluejackets Best,6.25,0.0,English-Style India Pale Ale
+2276,Proper Job,5.5,0.0,English-Style India Pale Ale
+2277,Backyard India Pale Ale,6.1,0.0,English-Style India Pale Ale
+2278,Bird of Prey IPA,8.26,0.0,English-Style India Pale Ale
+2279,IPA,3.5,0.0,English-Style India Pale Ale
+2280,Iron Rail IPA,7.2,0.0,English-Style India Pale Ale
+2281,LuciÃ©rnaga,6.5,0,Belgian-Style Pale Ale
+2282,Abbey Extra,4.5,0.0,Belgian-Style Pale Ale
+2283,Karma,5.2,0.0,Belgian-Style Pale Ale
+2284,Captin Lawrence Liquid Gold,6.0,0.0,Belgian-Style Pale Ale
+2285,Vertical Epic 10.10.10,9.5,0.0,Belgian-Style Pale Ale
+2286,90 Shilling,5.3,0,Scottish-Style Light Ale
+2287,Der Weisse Bock,8.5,0,South German-Style Weizenbock
+2288,Aventinus Weizenstarkbier / Doppel Weizen Bock,8.2,0,South German-Style Weizenbock
+2289,Oktoberfest,0.0,0,South German-Style Weizenbock
+2290,Whoville Weizenbock,6.6,0,South German-Style Weizenbock
+2291,Hefeweizen,7.5,0,South German-Style Weizenbock
+2292,Us Heit Dubbel Tarwe Bier,0.0,0,South German-Style Weizenbock
+2293,WeiÃŸbier Pikantus,0.0,0,South German-Style Weizenbock
+2294,Weizen Bock,10.0,0,South German-Style Weizenbock
+2295,Volks Weizenbock,7.2,0.0,South German-Style Weizenbock
+2296,Moonglow Weizenbock,8.7,0.0,South German-Style Weizenbock
+2297,Hang Ten,10.0,0.0,South German-Style Weizenbock
+2298,Glockenspiel,8.0,0.0,South German-Style Weizenbock
+2299,Skinny Dip,4.2,0,Golden or Blonde Ale
+2300,Golden Treasure,4.2,0,Golden or Blonde Ale
+2301,Bright Spot Golden Ale,4.5,0,Golden or Blonde Ale
+2302,Cross of Gold,0.0,0.0,Golden or Blonde Ale
+2303,Liquid Sunshine Blonde Ale,5.0,0.0,Golden or Blonde Ale
+2304,Base Camp Golden Ale,4.9,0.0,Golden or Blonde Ale
+2305,6,6.0,0.0,Golden or Blonde Ale
+2306,South Park Blonde,5.0,0.0,Golden or Blonde Ale
+2307,Ipswich Summer,4.9,0.0,Golden or Blonde Ale
+2308,Gold Coast Blonde Ale,4.4,0.0,Golden or Blonde Ale
+2309,Alaskan Pale,5.2,0.0,Golden or Blonde Ale
+2310,Griffin Golden Ale,5.2,0.0,Golden or Blonde Ale
+2311,Estes Park Gold,4.2,0.0,Golden or Blonde Ale
+2312,Border Gold Oranic Ale,6.0,0.0,Golden or Blonde Ale
+2313,Fat City Ale,4.5,0.0,Golden or Blonde Ale
+2314,Summer Blonde,4.0,0.0,Golden or Blonde Ale
+2315,Bistro Blonde,4.2,0.0,Golden or Blonde Ale
+2316,Nine Men Ale,4.3,0.0,Golden or Blonde Ale
+2317,Brooklyn Summer Ale,0.0,0.0,Golden or Blonde Ale
+2318,Mt. Takhoma Blonde Ale,3.8,0.0,Golden or Blonde Ale
+2319,Whitetail Golden Ale,5.0,0.0,Golden or Blonde Ale
+2320,Hot Shot ESB,5.0,0,Extra Special Bitter
+2321,GABF 25th Year Beer,0.0,0,Extra Special Bitter
+2322,2Â° Below,6.6,0,Extra Special Bitter
+2323,The Wise ESB,5.9,0,Extra Special Bitter
+2324,Anvil Ale,4.8,0,Extra Special Bitter
+2325,St. Charles ESB,4.5,0,Extra Special Bitter
+2326,Bachelor ESB,5.3,0.0,Extra Special Bitter
+2327,ESB,5.7,0.0,Extra Special Bitter
+2328,Scarlet Lady Ale,5.0,0.0,Extra Special Bitter
+2329,Winter Storm,7.5,0.0,Extra Special Bitter
+2330,Broadside Ale,6.3,0.0,Extra Special Bitter
+2331,Adnam's Suffolk Special Bitter,4.5,0.0,Extra Special Bitter
+2332,Firehouse ESB,5.5,0.0,Extra Special Bitter
+2333,Alaskan ESB,5.0,0.0,Extra Special Bitter
+2334,Climax Extra Special Bitter Ale,5.5,0.0,Extra Special Bitter
+2335,Barristers Bitter,4.0,0.0,Extra Special Bitter
+2336,Velvet ESB,5.2,0.0,Extra Special Bitter
+2337,Barrel Aged Synapse ESB,6.0,0.0,Extra Special Bitter
+2338,Fuller's ESB,4.5,0.0,Extra Special Bitter
+2339,River Horse Special Ale,4.5,0.0,Extra Special Bitter
+2340,Brown's Point ESB,5.6,0.0,Extra Special Bitter
+2341,Roland's ESB,5.0,0.0,Extra Special Bitter
+2342,The Physics,5.0,0.0,Extra Special Bitter
+2343,Phoenixx Double ESB,7.2,0.0,Extra Special Bitter
+2344,Yule Tide,10.0,0,Belgian-Style Tripel
+2345,Watou Tripel,7.5,0,Belgian-Style Tripel
+2346,New Belgium Trippel Belgian Style Ale,8.5,0,Belgian-Style Tripel
+2347,St. Bernardus Tripel,8.0,0,Belgian-Style Tripel
+2348,Westmalle Trappist Tripel,9.5,0,Belgian-Style Tripel
+2349,Sprecher Abbey Triple,8.41,0,Belgian-Style Tripel
+2350,Tripel Crown,10.0,0,Belgian-Style Tripel
+2351,La Trappe Tripel,8.0,0,Belgian-Style Tripel
+2352,Black Tulip,9.0,0.0,Belgian-Style Tripel
+2353,Abbey Triple,9.0,0.0,Belgian-Style Tripel
+2354,Golden Monkey Tripel,9.5,0.0,Belgian-Style Tripel
+2355,Tripel Ale,9.6,0.0,Belgian-Style Tripel
+2356,Brueghel Blonde,5.9,0.0,Belgian-Style Tripel
+2357,10,10.0,0.0,Belgian-Style Tripel
+2358,Merry Monks,9.3,0.0,Belgian-Style Tripel
+2359,Eleven,11.7,0.0,Belgian-Style Tripel
+2360,Prophecy,9.3,0.0,Belgian-Style Tripel
+2361,Don De Dieu,9.0,0.0,Belgian-Style Tripel
+2362,Chimay Triple (Chimay White),8.0,0.0,Belgian-Style Tripel
+2363,Trifecta Belgian Style Tripel,8.1,0.0,Belgian-Style Tripel
+2364,Lancaster Limited Triple,0.0,0.0,Belgian-Style Tripel
+2365,Voodoo Love Child,10.5,0.0,Belgian-Style Tripel
+2366,Tripel Horse,10.0,0.0,Belgian-Style Tripel
+2367,Trade Winds Tripel,8.0,0.0,Belgian-Style Tripel
+2368,TrÃ¶egs Splinter Beer Gold,12.0,0.0,Belgian-Style Tripel
+2369,Captain Lawrence Xtra Gold,10.0,0.0,Belgian-Style Tripel
+2370,Golden Delicious,0.0,0.0,Belgian-Style Tripel
+2371,Triple,8.4,0.0,Belgian-Style Tripel
+2372,Vivant Tripel,9.25,0.0,Belgian-Style Tripel
+2373,Jeremiah Red,7.3,0,Irish-Style Red Ale
+2374,Crabby Larry's Irish Red Ale,6.0,0,Irish-Style Red Ale
+2375,Celtic Rose,5.0,0.0,Irish-Style Red Ale
+2376,Samuel Adams Irish Red,0.0,0.0,Irish-Style Red Ale
+2377,Boulevard Irish Ale,5.8,0.0,Irish-Style Red Ale
+2378,Manzanita Red,0.0,0.0,Irish-Style Red Ale
+2379,King Crimson,6.0,0.0,Irish-Style Red Ale
+2380,Michelob Irish Red,0.0,0.0,Irish-Style Red Ale
+2381,HotRod Red,6.1,0.0,Irish-Style Red Ale
+2382,Irish Amber,4.6,0.0,Irish-Style Red Ale
+2383,Arabier,9.0,0,Belgian-Style Pale Strong Ale
+2384,Bos Keun,8.9,0,Belgian-Style Pale Strong Ale
+2385,La Chouffe Golden Ale,8.0,0,Belgian-Style Pale Strong Ale
+2386,Oro de Calabaza,8.0,0,Belgian-Style Pale Strong Ale
+2387,Abbaye de Saint-Martin Blonde,7.0,0,Belgian-Style Pale Strong Ale
+2388,Gran Met,10.5,0.0,Belgian-Style Pale Strong Ale
+2389,Holy Mackerel Special Golden Ale,8.5,0.0,Belgian-Style Pale Strong Ale
+2390,BJ's Annual Grand Cru,10.0,0.0,Belgian-Style Pale Strong Ale
+2391,Gulden Fraug Belgian Ale,10.5,0.0,Belgian-Style Pale Strong Ale
+2392,One,8.0,0.0,Belgian-Style Pale Strong Ale
+2393,Rochefort 10,11.3,0,Belgian-Style Quadrupel
+2394,Abt 12,10.0,0,Belgian-Style Quadrupel
+2395,Blasphemy,11.8,0.0,Belgian-Style Quadrupel
+2396,Quad,11.8,0.0,Belgian-Style Quadrupel
+2397,Partridge In A Pear Tree,12.0,0.0,Belgian-Style Quadrupel
+2398,McChouffe,8.5,0,Dark American-Belgo-Style Ale
+2399,Rochefort 6,7.5,0,Dark American-Belgo-Style Ale
+2400,Grotten Brown,6.7,0,Dark American-Belgo-Style Ale
+2401,JuleÃ¸l,5.9,0.0,Dark American-Belgo-Style Ale
+2402,Trois Pistoles,9.0,0.0,Dark American-Belgo-Style Ale
+2403,Belgian Freeze Winter Ale,8.0,0.0,Dark American-Belgo-Style Ale
+2404,Doppelbock Dunkel,8.5,0,German-Style Doppelbock
+2405,Urbock 23Â°,9.6,0,German-Style Doppelbock
+2406,Sprecher Doppelbock,7.85,0,German-Style Doppelbock
+2407,Navigator Doppelbock,8.9,0,German-Style Doppelbock
+2408,Butthead Doppelbock,8.2,0,German-Style Doppelbock
+2409,Troegenator Double Bock,8.2,0.0,German-Style Doppelbock
+2410,Climax Doppel Bock,8.0,0.0,German-Style Doppelbock
+2411,Smooth Hoperator,7.0,0.0,German-Style Doppelbock
+2412,Ramstein Winter Wheat,9.5,0.0,German-Style Doppelbock
+2413,Andygator,8.0,0.0,German-Style Doppelbock
+2414,RUMBAH Double Rum Bock,10.0,0.0,German-Style Doppelbock
+2415,Cerveza Roja,6.0,0,German-Style Oktoberfest
+2416,Festbier,0.0,0,German-Style Oktoberfest
+2417,Herbstbeer,0.0,0,German-Style Oktoberfest
+2418,Winter-Traum,5.4,0,German-Style Oktoberfest
+2419,Steinworthy Oktoberfest,6.0,0,German-Style Oktoberfest
+2420,Oktoberfest,0.0,0,German-Style Oktoberfest
+2421,Wooly Bully,0.0,0,German-Style Oktoberfest
+2422,Manayunk Lager,6.4,0,German-Style Oktoberfest
+2423,Winterfest Lager,0.0,0,German-Style Oktoberfest
+2424,Marzen Lager,0.0,0,German-Style Oktoberfest
+2425,Winterfestival,5.5,0,German-Style Oktoberfest
+2426,Marzen,0.0,0,German-Style Oktoberfest
+2427,Schaumbergfest,0.0,0,German-Style Oktoberfest
+2428,Dogtoberfest Octoberfest,5.3,0,German-Style Oktoberfest
+2429,Rocktoberfest,5.0,0,German-Style Oktoberfest
+2430,Oktober Fest - MÃ¤rzen,0.0,0,German-Style Oktoberfest
+2431,Maslifter Oktoberfest,0.0,0,German-Style Oktoberfest
+2432,Oktoberfest,0.0,0,German-Style Oktoberfest
+2433,Oktoberfest,0.0,0,German-Style Oktoberfest
+2434,Oktoberfest,0.0,0,German-Style Oktoberfest
+2435,Sprecher Oktoberfest,5.75,0,German-Style Oktoberfest
+2436,Hoptoberfest,0.0,0,German-Style Oktoberfest
+2437,Festbier,0.0,0,German-Style Oktoberfest
+2438,Octoberfest (discontinued),0.0,0,German-Style Oktoberfest
+2439,Capital Fest Beer,0.0,0,German-Style Oktoberfest
+2440,Oktoberfestbier / Oktoberfest Ur-MÃ¤rzen,0.0,0,German-Style Oktoberfest
+2441,Maifest,0.0,0,German-Style Oktoberfest
+2442,Braunbier,5.7,0,German-Style Oktoberfest
+2443,Hacker-Pschorr Original Oktoberfest,0.0,0,German-Style Oktoberfest
+2444,Harvest Ale,5.6,0,German-Style Oktoberfest
+2445,Octoberfest,0.0,0,German-Style Oktoberfest
+2446,Oktoberfest,0.0,0,German-Style Oktoberfest
+2447,Oktoberfest,0.0,0,German-Style Oktoberfest
+2448,Oktoberfest,0.0,0,German-Style Oktoberfest
+2449,March MÃ¤rzen,0.0,0,German-Style Oktoberfest
+2450,MÃ¤rzen,0.0,0.0,German-Style Oktoberfest
+2451,MÃ¤rzen,0.0,0.0,German-Style Oktoberfest
+2452,Oktoberfest,0.0,0.0,German-Style Oktoberfest
+2453,Oktoberfest,0.0,0.0,German-Style Oktoberfest
+2454,Oktoberfest,0.0,0.0,German-Style Oktoberfest
+2455,Oktoberfest,0.0,0.0,German-Style Oktoberfest
+2456,Munich Summer Fest,0.0,0.0,German-Style Oktoberfest
+2457,MÃ¤rzen,0.0,0.0,German-Style Oktoberfest
+2458,Oktoberfest,0.0,0.0,German-Style Oktoberfest
+2459,Oktoberfest,0.0,0.0,German-Style Oktoberfest
+2460,Copperhead Premium Ruby Lager,0.0,0.0,German-Style Oktoberfest
+2461,Oktoberfest,0.0,0.0,German-Style Oktoberfest
+2462,Oktoberfest,0.0,0.0,German-Style Oktoberfest
+2463,Oktoberfest Ale,0.0,0.0,German-Style Oktoberfest
+2464,Railyard Ale,5.2,0.0,German-Style Oktoberfest
+2465,Kipona Fest,5.2,0.0,German-Style Oktoberfest
+2466,Festbier,5.6,0.0,German-Style Oktoberfest
+2467,Penn Oktoberfest,4.5,0.0,German-Style Oktoberfest
+2468,Lancaster Oktoberfest,6.5,0.0,German-Style Oktoberfest
+2469,AutumnFest,5.4,0.0,German-Style Oktoberfest
+2470,Samuel Adams OctoberFest,5.7,0.0,German-Style Oktoberfest
+2471,OktoberFish,5.5,0.0,German-Style Oktoberfest
+2472,Late Harvest Fest Lager,6.2,0.0,German-Style Oktoberfest
+2473,Baracktoberfest,0.0,0.0,German-Style Oktoberfest
+2474,Climax Oktoberfest,6.2,0.0,German-Style Oktoberfest
+2475,Oaktoberfest,0.0,0.0,German-Style Oktoberfest
+2476,Bob's '47 Oktoberfest,5.8,0.0,German-Style Oktoberfest
+2477,Capital Oktoberfest,0.0,0.0,German-Style Oktoberfest
+2478,Maple City Gold,7.2,0.0,German-Style Oktoberfest
+2479,Munsterfest,0.0,0.0,German-Style Oktoberfest
+2480,Schlafly Oktoberfest,5.1,0.0,German-Style Oktoberfest
+2481,Stiegl GoldbrÃ¤u,4.9,0.0,German-Style Oktoberfest
+2482,Heavy Seas Prosit! Imperial Oktoberfest Lager,9.0,0.0,German-Style Oktoberfest
+2483,Hooker Oktoberfest,5.8,0.0,German-Style Oktoberfest
+2484,Oktoberfest,5.01,28.0,German-Style Oktoberfest
+2485,Bam BiÃ¨re,4.5,0,French & Belgian-Style Saison
+2486,Muse Farmhouse Ale,6.2,0.0,French & Belgian-Style Saison
+2487,Rowhouse Red,5.0,0.0,French & Belgian-Style Saison
+2488,Red Sky at Night,7.25,0.0,French & Belgian-Style Saison
+2489,Helios,7.5,0.0,French & Belgian-Style Saison
+2490,Farm Girl Saison,6.0,0.0,French & Belgian-Style Saison
+2491,Maillot Jaune,5.5,0.0,French & Belgian-Style Saison
+2492,Great Divide Saison,7.3,0.0,French & Belgian-Style Saison
+2493,Standing Stone Saison,0.0,0.0,French & Belgian-Style Saison
+2494,Saison Rue,8.5,0.0,French & Belgian-Style Saison
+2495,Saison De Lente,6.5,0.0,French & Belgian-Style Saison
+2496,Stateside Saison,0.0,0.0,French & Belgian-Style Saison
+2497,Guava Grove Ale,8.0,0.0,French & Belgian-Style Saison
+2498,Allagash Fluxus 09,8.3,0.0,French & Belgian-Style Saison
+2499,Blue Paddle Pilsener,4.8,0,German-Style Pilsener
+2500,Bohemian Blonde,4.7,0,German-Style Pilsener
+2501,Coronado Golden Ale,0.0,0,German-Style Pilsener
+2502,Pilsener,4.8,0,German-Style Pilsener
+2503,Windy City Pilsner,0.0,0.0,German-Style Pilsener
+2504,Peregrine Pilsner,4.8,0.0,German-Style Pilsener
+2505,Prima Pils,5.3,0.0,German-Style Pilsener
+2506,Sunshine Pils,5.3,0.0,German-Style Pilsener
+2507,Labatt Bleue Dry,6.1,0.0,German-Style Pilsener
+2508,Penn Pilsner,4.0,0.0,German-Style Pilsener
+2509,Stoudt's Pils,4.7,0.0,German-Style Pilsener
+2510,Gold Star Pilsner,5.1,0.0,German-Style Pilsener
+2511,Small Craft Warning,7.25,0.0,German-Style Pilsener
+2512,Genuine Pilsner,5.5,0.0,German-Style Pilsener
+2513,Scratch #17 2009,5.6,0.0,German-Style Pilsener
+2514,Oak Creek Micro Light,0.0,0.0,German-Style Pilsener
+2515,Mama's Little Yella Pils,5.3,0.0,German-Style Pilsener
+2516,HUB Lager,5.1,0.0,German-Style Pilsener
+2517,Live Oak Pilz,0.0,0.0,German-Style Pilsener
+2518,Lionshead,4.5,0.0,German-Style Pilsener
+2519,Flensburger Pilsner,4.8,0.0,German-Style Pilsener
+2520,CD-Pils,4.9,0.0,German-Style Pilsener
+2521,Jever Pilsener,4.9,0.0,German-Style Pilsener
+2522,WernesgrÃ¼ner Pils Legende,4.9,0.0,German-Style Pilsener
+2523,Esser's Cross Plains Special,0.0,0.0,German-Style Pilsener
+2524,Budweiser Budvar (Czechvar),5.0,0.0,German-Style Pilsener
+2525,Millennium Lager,5.0,0.0,German-Style Pilsener
+2526,LaConner Pilsener,0.0,0.0,German-Style Pilsener
+2527,Freestyle Pilsner,5.5,0.0,German-Style Pilsener
+2528,Fahrwasser Fairway Pilsner,5.2,0.0,German-Style Pilsener
+2529,Hansa Pils,4.8,0.0,German-Style Pilsener
+2530,Blacksburger Pils,4.7,0.0,German-Style Pilsener
+2531,77 Lager,4.9,0.0,German-Style Pilsener
+2532,Samuel Adams Noble Pils,5.2,0.0,German-Style Pilsener
+2533,S.O.S,0.0,0.0,German-Style Pilsener
+2534,5 Barrel Pale Ale,5.3,0,Classic English-Style Pale Ale
+2535,St Peter's Organic Ale,4.5,0,Classic English-Style Pale Ale
+2536,Brilliant Barstool,5.1,0,Classic English-Style Pale Ale
+2537,West Bank Pub Ale,4.6,0,Classic English-Style Pale Ale
+2538,Old Speckled Hen,5.2,0.0,Classic English-Style Pale Ale
+2539,Foster's Premium Ale,5.5,0.0,Classic English-Style Pale Ale
+2540,Martin's Pale Ale,5.8,0.0,Classic English-Style Pale Ale
+2541,Speight's Gold Medal Ale,4.0,0.0,Classic English-Style Pale Ale
+2542,Urban Wilderness English Pale,5.1,0.0,Classic English-Style Pale Ale
+2543,Legbiter Ale,4.7,0.0,Classic English-Style Pale Ale
+2544,Barelegs Brew,4.5,0.0,Classic English-Style Pale Ale
+2545,St Patrick's Ale,6.0,0.0,Classic English-Style Pale Ale
+2546,Abbey Ale,0.0,0.0,Classic English-Style Pale Ale
+2547,Schuylkill Punch,6.0,0,Fruit Beer
+2548,Wicked Winter Brew,0.0,0.0,Fruit Beer
+2549,Long's Peak Raspberry Wheat,4.2,0.0,Fruit Beer
+2550,Valley Brewing Apricot Ale,4.0,0.0,Fruit Beer
+2551,Valley Berry Wheat,4.0,0.0,Fruit Beer
+2552,Cerise,6.5,0.0,Fruit Beer
+2553,Huckleberry Ale,3.5,0.0,Fruit Beer
+2554,Wacko,4.5,0.0,Fruit Beer
+2555,Cafe Amsterdam's 10th Anniversary Gruit,12.0,0.0,Fruit Beer
+2556,Derailed Black Cherry Ale,5.0,0.0,Fruit Beer
+2557,Wild Country Raspberry Wheat,4.2,0.0,Fruit Beer
+2558,Cascade Razberry Wheat,4.5,0.0,Fruit Beer
+2559,Smashing Berry Ale,4.3,0.0,Fruit Beer
+2560,Smashing Berry Dark,0.0,0.0,Fruit Beer
+2561,Wells Banana Bread Beer,5.2,0.0,Fruit Beer
+2562,Doc's Hard Apple Cider,4.5,0.0,Fruit Beer
+2563,Triple Citra Hopped Satsuma Wit,0.0,0.0,Fruit Beer
+2564,Strawberry,0.0,0.0,Fruit Beer
+2565,Satsuma Wit,0.0,0.0,Fruit Beer
+2566,The Beast Grand Cru,14.9,0,Belgian-Style Dark Strong Ale
+2567,Maudite,8.0,0.0,Belgian-Style Dark Strong Ale
+2568,embrasse,9.0,0.0,Belgian-Style Dark Strong Ale
+2569,Biscotti,7.0,0.0,Belgian-Style Dark Strong Ale
+2570,Lucky 393 Grand Cru,0.0,0.0,Belgian-Style Dark Strong Ale
+2571,Verchuosity,12.0,0.0,Belgian-Style Dark Strong Ale
+2572,Local 2,8.7,0.0,Belgian-Style Dark Strong Ale
+2573,Abbaye de Saint-Martin Brune,8.0,0.0,Belgian-Style Dark Strong Ale
+2574,Stone 09.09.09 Vertical Epic Ale,8.9,0.0,Belgian-Style Dark Strong Ale
+2575,Tournay Black,7.6,0.0,Belgian-Style Dark Strong Ale
+2576,Nor' Easter,12.0,0.0,Belgian-Style Dark Strong Ale
+2577,Wexford Irish Cream Ale,5.0,0,American-Style Cream Ale or Lager
+2578,Sirius,7.0,0,American-Style Cream Ale or Lager
+2579,Climax Cream Ale,0.0,0.0,American-Style Cream Ale or Lager
+2580,Terrapin Golden Ale,5.0,0.0,American-Style Cream Ale or Lager
+2581,Lodgepole Light,0.0,0.0,American-Style Cream Ale or Lager
+2582,JoBoy's Cream Ale,0.0,0.0,American-Style Cream Ale or Lager
+2583,Sweet Action,5.2,0.0,American-Style Cream Ale or Lager
+2584,Oatmeal Stout,4.5,0,Oatmeal Stout
+2585,Black H2O Oatmeal Stout,6.2,0,Oatmeal Stout
+2586,Roundabout Oatmeal Stout,6.0,0,Oatmeal Stout
+2587,Blackbird Oatmeal Stout,0.0,0.0,Oatmeal Stout
+2588,Oatmeal Stout,5.5,0.0,Oatmeal Stout
+2589,Ipswich Oatmeal Stout,7.0,0.0,Oatmeal Stout
+2590,Oatmeal Stout,5.0,0.0,Oatmeal Stout
+2591,Alaskan Stout,5.7,0.0,Oatmeal Stout
+2592,Richbrau Oatmeal Stout,5.2,0.0,Oatmeal Stout
+2593,Survival Stout,5.3,0.0,Oatmeal Stout
+2594,El Toro Negro Oatmeal Stout,0.0,0.0,Oatmeal Stout
+2595,Scratch #19 2009 Imperial Double Expresso Oatmeal Stout,9.5,0.0,Oatmeal Stout
+2596,State Street Oatmeal Stout,6.1,0.0,Oatmeal Stout
+2597,Iron Horse Oatmeal Stout,0.0,0.0,Oatmeal Stout
+2598,Black Stallion Oatmeal Stout,4.8,0.0,Oatmeal Stout
+2599,One Oatmeal Stout,0.0,0.0,Oatmeal Stout
+2600,Heller Hound Bock Beer,6.2,0,German-Style Heller Bock/Maibock
+2601,Sprecher Maibock,6.0,0,German-Style Heller Bock/Maibock
+2602,Honey Double Maibock,7.0,0.0,German-Style Heller Bock/Maibock
+2603,Capital Maibock,0.0,0.0,German-Style Heller Bock/Maibock
+2604,Wicked Springfest,0.0,0.0,German-Style Heller Bock/Maibock
+2605,Anniversary Maibock,7.2,0.0,German-Style Heller Bock/Maibock
+2606,St. Boisterous Hellerbock,7.3,0.0,German-Style Heller Bock/Maibock
+2607,Climax Helles,4.8,0.0,German-Style Heller Bock/Maibock
+2608,Boulevard Maibock,5.95,0.0,German-Style Heller Bock/Maibock
+2609,Dundee Pale Bock Lager,6.25,0.0,German-Style Heller Bock/Maibock
+2610,Bad Billy Blond Bock,6.2,0.0,German-Style Heller Bock/Maibock
+2611,Left Hand Milk Stout,5.9,0,Sweet Stout
+2612,Apache Trout Stout,5.0,0.0,Sweet Stout
+2613,Round Barn Cocoa Stout,0.0,0.0,Sweet Stout
+2614,Steel Toe Stout,5.4,0.0,Sweet Stout
+2615,Duck-Rabbit Milk Stout,5.7,0.0,Sweet Stout
+2616,Tailgate Sweet Stout,6.6,0.0,Sweet Stout
+2617,Terrapin Midnight Project Depth Charge Espresso Milk Stout,8.0,0.0,Sweet Stout
+2618,Too Cream Stout,0.0,0.0,Sweet Stout
+2619,Miller Chill,4.1,0.0,American-Style Light Lager
+2620,Miller High Life,5.0,0.0,American-Style Light Lager
+2621,Miller Genuine Draft,4.66,0.0,American-Style Light Lager
+2622,Milwaukee's Best Light,4.5,0.0,American-Style Light Lager
+2623,Icehouse,5.5,0.0,American-Style Light Lager
+2624,Milwaukees Best,4.5,0.0,American-Style Light Lager
+2625,Budweiser,5.0,0.0,American-Style Light Lager
+2626,Bud Light,4.2,0.0,American-Style Light Lager
+2627,Budweiser Select,4.3,0.0,American-Style Light Lager
+2628,Miller Lite,4.2,0.0,American-Style Light Lager
+2629,Yuengling Lager Light,3.4,0.0,American-Style Light Lager
+2630,Yuengling Premium Light,3.5,0.0,American-Style Light Lager
+2631,Coors Original,5.0,0.0,American-Style Light Lager
+2632,Coors Light,4.2,0.0,American-Style Light Lager
+2633,Labatt Blue Light,4.0,0.0,American-Style Light Lager
+2634,Labatt Sterling,4.0,0.0,American-Style Light Lager
+2635,Pabst Blue Ribbon,4.74,0.0,American-Style Light Lager
+2636,Pabst Blue Ribbon Light,4.19,0.0,American-Style Light Lager
+2637,Piels Draft,4.6,0.0,American-Style Light Lager
+2638,Piels Light,3.79,0.0,American-Style Light Lager
+2639,IC Light,4.15,0.0,American-Style Light Lager
+2640,Natural Ice,5.9,0.0,American-Style Light Lager
+2641,Natural Light,4.2,0.0,American-Style Light Lager
+2642,UpRiver Lager,0.0,0.0,American-Style Light Lager
+2643,Rolling Rock,4.6,0.0,American-Style Light Lager
+2644,O! Gold Light Beer,3.8,0.0,American-Style Light Lager
+2645,Sam Adams Light,0.0,0.0,American-Style Light Lager
+2646,Lionshead Light,0.0,0.0,American-Style Light Lager
+2647,Tailgate Light,4.7,0.0,American-Style Light Lager
+2648,Stiegl Leicht,3.3,0.0,American-Style Light Lager
+2649,Miller Genuine Draft 64,2.8,0.0,American-Style Light Lager
+2650,Corona Light,4.1,0.0,American-Style Light Lager
+2651,Kingfisher Premium,4.8,0.0,American-Style Light Lager
+2652,Abita Light Beer,0.0,0.0,American-Style Light Lager
+2653,Whirlwind Wit,5.0,0.0,Belgian-Style White
+2654,Blue Moon Belgian White,5.4,0.0,Belgian-Style White
+2655,Blanche,5.0,0.0,Belgian-Style White
+2656,Walt Wit,5.0,0.0,Belgian-Style White
+2657,Full Moon Belgian White Ale,7.9,0.0,Belgian-Style White
+2658,Shock Top,5.2,0.0,Belgian-Style White
+2659,Samuel Adams White Ale,0.0,0.0,Belgian-Style White
+2660,Belgian Wit,0.0,0.0,Belgian-Style White
+2661,Santa's Little Helper Witbier,5.7,0.0,Belgian-Style White
+2662,Old Walt Smoked Wit,5.0,0.0,Belgian-Style White
+2663,Samuel Adams Imperial White,10.3,0.0,Belgian-Style White
+2664,Bouldevard ZÅŒN,4.4,0.0,Belgian-Style White
+2665,Anchor Witbier with Brettanomyces,6.25,0.0,Belgian-Style White
+2666,Orchard White,5.7,0.0,Belgian-Style White
+2667,Satsuma Harvest Wit,5.1,0.0,Belgian-Style White
+2668,Sunna Wit,0.0,0.0,Belgian-Style White
+2669,Bud Light Golden Wheat,0.0,0.0,Belgian-Style White
+2670,Scratch #22 2009,5.5,0.0,Belgian-Style White
+2671,Alaskan White Ale,5.3,0.0,Belgian-Style White
+2672,Brasserie de Brunehaut Bio BiÃ¨re Blanche (Organic),5.0,0.0,Belgian-Style White
+2673,Cosmic Black Witbier,6.2,0.0,Belgian-Style White
+2674,(512) Wit,5.2,0.0,Belgian-Style White
+2675,Sun Block - Belgian Style Witte,0.0,0.0,Belgian-Style White
+2676,Nit Wit,4.7,0.0,Belgian-Style White
+2677,Harvest Moon Pumpkin,5.7,0.0,Pumpkin Beer
+2678,Imperial Pumpkin Ale,8.0,0.0,Pumpkin Beer
+2679,Ichabod's Midnight Ride,6.0,0.0,Pumpkin Beer
+2680,Autumn Maple,10.0,0.0,Pumpkin Beer
+2681,Heavy Seas The Great Pumpkin Imperial Pumpkin Ale,8.5,0.0,Pumpkin Beer
+2682,Smuttynose Pumpkin Ale,5.1,0.0,Pumpkin Beer
+2683,Wild Goose Pumpkin Patch,6.0,0.0,Pumpkin Beer
+2684,Trickster Belgian-style Pumpkin Ale,7.0,0.0,Pumpkin Beer
+2685,Frog's Hollow Double Pumpkin Ale,8.4,0.0,Pumpkin Beer
+2686,ESB Ale,5.5,0.0,Special Bitter or Best Bitter
+2687,Bitter American,3.6,0.0,Special Bitter or Best Bitter
+2688,Potrero ESB,5.2,0.0,Special Bitter or Best Bitter
+2689,8th Street Ale,4.5,0.0,Special Bitter or Best Bitter
+2690,Trashy Blonde,4.1,0.0,Special Bitter or Best Bitter
+2691,FA,4.8,0.0,Special Bitter or Best Bitter
+2692,Adnams Explorer,5.5,0.0,Ordinary Bitter
+2693,Tribute Premium Cornish Ale,4.2,0.0,Ordinary Bitter
+2694,HSD Hicks Special Draught,5.0,0.0,Ordinary Bitter
+2695,Tarletons Bitters,0.0,0.0,Ordinary Bitter
+2696,St. Patrick's Best,4.2,0.0,Ordinary Bitter
+2697,Colonel Blide's Cask Ale,5.5,31.0,Ordinary Bitter
+2698,Finest Bitter,4.0,0.0,Ordinary Bitter
+2699,2008 Culture Beer,5.0,0.0,Ordinary Bitter
+2700,Alt Ball and Chain,5.2,0.0,German-Style Brown Ale/Altbier
+2701,Double Mountain Altbier,5.6,0.0,German-Style Brown Ale/Altbier
+2702,Hannen Alt,0.0,0.0,German-Style Brown Ale/Altbier
+2703,(512) ALT,6.0,0.0,German-Style Brown Ale/Altbier
+2704,Weyerbacher Juliet,8.5,0.0,German-Style Brown Ale/Altbier
+2705,Caulfield's Rye,4.9,0.0,American Rye Ale or Lager
+2706,"Zwaanend,ale",8.0,0.0,American Rye Ale or Lager
+2707,Scratch #18 2009,7.3,0.0,American Rye Ale or Lager
+2708,Bee Sting Honey Rye Ale,6.5,0.0,American Rye Ale or Lager
+2709,Bitter Woman in the Rye,0.0,0.0,American Rye Ale or Lager
+2710,Scratch #25 2009 Magical Moustache Rye,6.5,0.0,American Rye Ale or Lager
+2711,Full Moon Pale Rye Ale,5.7,0.0,American Rye Ale or Lager
+2712,Deluxe Organic Ale,6.9,0.0,American-Style Strong Pale Ale
+2713,Bell's Batch 9000,12.5,0.0,American-Style Strong Pale Ale
+2714,Holy Mackerel Mack In Black,8.0,0.0,American-Style Strong Pale Ale
+2715,Ruben & The Jets,8.6,0.0,American-Style Strong Pale Ale
+2716,Green Monsta Ale,7.3,0.0,American-Style Strong Pale Ale
+2717,13th Anniversary Ale,9.5,0.0,American-Style Strong Pale Ale
+2718,TrÃ¶egs Splinter Beer Red,11.0,0.0,American-Style Strong Pale Ale
+2719,The Angel's Share - Bourbon Barrel Aged,12.5,0.0,American-Style Strong Pale Ale
+2720,Hitachino Nest XH,8.0,0.0,American-Style Strong Pale Ale
+2721,Old BullDog Extra Special,5.8,0.0,American-Style Strong Pale Ale
+2722,Pale Ale,5.8,55.0,American-Style Strong Pale Ale
+2723,Watershed IPA,7.1,0.0,American-Style Strong Pale Ale
+2724,Watershed IPA,7.1,0.0,American-Style Strong Pale Ale
+2725,Ginger Tom,4.0,0.0,Herb and Spice Beer
+2726,Harpoon Winter Warmer,5.9,0.0,Herb and Spice Beer
+2727,Dogma,7.8,0.0,Herb and Spice Beer
+2728,Bathtub Gin Gruit Ale,8.0,0.0,Herb and Spice Beer
+2729,Estrella Levante Clasica,4.8,0.0,Baltic-Style Porter
+2730,Baltika 6,7.0,20.0,Baltic-Style Porter
+2731,Estrella Levante Especial,5.4,0.0,Baltic-Style Porter
+2732,Estrella Levante Sin 0.0% Alcohol,1.0,0.0,Baltic-Style Porter
+2733,Yakima Glory,8.7,0.0,American-Style India Black Ale
+2734,Cricket's Nocturne,4.5,19.0,American-Style Dark Lager
+2735,Samael's Oak-aged Ale,14.5,41.0,Strong Ale
+2736,Old Jubilation Ale,8.0,30.0,Strong Ale
+2737,Foreign Extra Stout,7.5,0.0,Foreign (Export)-Style Stout
+2738,Alta Gracia Coffee Porter,0.0,0.0,Porter
+2739,Sly Rye Porter,5.7,28.0,Porter
+2740,Beck's Light,0.0,0.0,European Low-Alcohol Lager
+2741,Guinness Draught,4.3,0.0,Classic Irish-Style Dry Stout
+2742,Summer Teeth,5.3,0.0,Kellerbier - Ale
+2743,Dank,9.2,0.0,Imperial or Double Red Ale
+2744,Dark Element,8.75,65.5,Specialty Beer
+2745,Dark Mild,3.2,0.0,English-Style Dark Mild Ale
+2746,Black Creek Porter,0.0,0.0,Smoke Beer
+2747,Koshihikari Echigo Beer,5.0,0.0,Out of Category
+2748,Full Boar,0.0,0.0,Out of Category
+2749,Ambr,0.0,0.0,Out of Category
+2750,Abita Amber,0.0,0.0,Vienna-Style Lager
+2751,Wheat,0.0,0.0,Vienna-Style Lager
+2752,Honey Rye Ale,0.0,0.0,Specialty Honey Lager or Ale
+2753,Abhi beer,0.0,0.0,Bamberg-Style Bock Rauchbier
